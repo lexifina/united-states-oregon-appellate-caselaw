@@ -1,0 +1,32 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1971-07-15"
+citations: ["6 Or. App. 243", "487 P.2d 92"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Jndge, and Langtry and Fort, Jndges."]
+parties: ["STATE OF OREGON, Respondent, v. RICHARD PAUL GRAF, Appellant."]
+source_url: "https://static.case.law/or-app/6/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2130126
+cites_cases: ["2 Or App 446", "3 Or App 140", "5 Or App 266"]
+---
+
+# State v. Graf
+
+## Majority (LANGTRY, J.)
+
+LANGTRY, J.
+Defendant was convicted of armed robbery of a Corvallis supermarket. Of several assignments of error, only those relating to testimony of alleged accomplices and other similar crimes committed by the same defendants merit consideration.
+Two women, Dellyn Miller and Jndy Dethloff, testified. Their testimony named the defendants as perpetrators of five supermarket armed robberies in which one or the other of the women actively participated. Dellyn Miller testified that she accompanied the defendants from Portland to Corvallis to “case” the target store of the instant robbery on a night previous, and again accompanied them on the night of the robbery. She drove the getaway vehicle, which was parked several blocks away at a point selected on the first trip. After the robbery, which occurred in the early morning hours as the store was being opened by its personnel, the defendants took and drove one of the store employe’s vehicles to this point, abandoned it, got in the vehicle with Bellyn Miller and she drove away. She received something better than $200 from the proceeds of the robbery.
+Judy Dethloff testified that she had driven the getaway car in four supermarket robberies in the four months preceding the Corvallis robbery, and that in each instance the defendants had her stay in the getaway car at a previously selected point a short distance away and had left the scene of the robbery either in a car taken from an employe or on foot to the point where the woman was waiting to drive them away. In one instance the defendants had dressed in women’s wigs and clothing. They put plastic strips upon their faces, apparently in all, or all but one, of the robberies. With the aid of a search warrant obtained in Washington County, Judy Dethloff produced from an apartment which she had apparently shared with one of the defendants, one of the wigs which she said had been used. A blue stocking cap and gloves, identified by store personnel as similar to ones used in the Corvallis robbery, were also seized in this apartment.
+Judy Dethloff further testified that she had given defendants information about stores that would be profitable targets in Corvallis, and about the shifts of police, inasmuch as she was a former wife of a former Corvallis police officer. The testimony of Dellyn Miller closely coincided with all of her testimony in this regard. Mrs. Dethloff did not share in the loot from the Corvallis robbery. She testified that defendants had previously terminated her as an accomplice-driver because she was too tense and nervous. This testimony was uncontradicted and supported by Mrs. Miller’s testimony.
+The trial judge instructed that Dellyn Miller was an accomplice as a matter of law and left to the jury the determination of whether Judy Dethloff was an accomplice. He properly instructed the jury that the testimony of an accomplice was not sufficient upon which to convict unless it was corroborated by other testimony which tended to connect the defendants with the crime.
+While Judy Dethloff was an accomplice in the preceding robberies in which she drove the getaway car, it is decidedly questionable whether she should be so classified in the Corvallis robbery. State v. Winslow, 3 Or App 140, 472 P2d 852 (1970). The circuit judge was right in submitting that question to the jury.
+The testimony of Judy Dethloff and others as to the method of operation used by the defendants in the earlier supermarket robberies was properly received. These robberies were similar in that they were all supermarkets. The defendants acquainted themselves with the premises and personnel habits by their previous observations of the markets in each case. In the case at bar, and one of the previous robberies, one of the robbers called the other “George.” In each, one of the robbers carried a large-caliber, snub-nosed revolver. The method of escape was similar in each case, and in each there was an attempt to place the employes in the vegetable cooler in the store. Band-Aids pasted on their faces and dark glasses were used in at least all bnt one instance.
+Dellyn Miller’s testimony was corroborated by a lady householder who had gotten up early in the morning and observed the getaway car parked in front of her house. It was an unusual appearing 1969 Ford Torino station wagon, red, with wood paneling. The witness particularly noticed it as not being a car that she had seen in the neighborhood before, and a few moments later she noticed it was gone. The vehicle which was driven by the robbers from the store was found by a police officer a few minutes later, immediately behind where the Ford Torino had been parked. This was a positive link in the chain of circumstantial evidence identifying the robbers as the same people the accomplice was driving for.
+When defendant Graf was arrested, two loaded guns in his possession generally filled the descriptions given of the holdup guns by the Corvallis store employes. Of one of the guns, one of the employes testified: “* * * this looks just like the gun I saw in the store.”
+The general description given by the employes of the size and build of the robbers fit the defendants. We conclude that there was abundant corroborative evidence “that tends to connect the defendant with the commission of the crime.” ORS 136.550. And the evidence relating to the preceding robberies showed “ ca common scheme or plan embracing the commission of two or more crimes, so related to each other that the proof of one tends to establish the others.’ ” State v. Woolard, 2 Or App 446, 449, 467 P2d 652, Sup Ct review denied (1970).
+It is true that the evidence of the other crimes was prejudicial to the defendant, hut it also was relevant — so relevant that its value as evidence outweighed the prejudicial effect. State v. Hamilton, 5 Or App 266, 483 P2d 90, Sup Ct review denied (1971).
+Affirmed.
