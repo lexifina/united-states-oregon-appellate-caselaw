@@ -1,0 +1,52 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1972-04-13"
+citations: ["8 Or. App. 634", "495 P.2d 1212"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Fort, Judges."]
+parties: ["DIETZ, Appellant, v. OTT et al, Respondents."]
+source_url: "https://static.case.law/or-app/8/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2132579
+cites_cases: ["1 Or App 127", "176 Or 368", "227 Or 376", "258 Or 98", "4 Or 388", "51 Or 483"]
+---
+
+# Dietz v. Ott
+
+## Majority (FORT, J.)
+
+FORT, J.
+This is an appeal by the plaintiff from an order entered by the circuit court quashing a writ of review obtained by him. The writ of review sought to set aside the decision of the Motor Vehicles Division of the Oregon State Department of Transportation suspending the plaintiff’s operator’s license.
+After an implied consent hearing conducted in Multnomah County pursuant to ORS 482.550 (1), the Motor Vehicles Division entered its order on March 29,1971, at Salem, Oregon, Marion County, suspending the plaintiff’s operator’s license pursuant to ORS 482.540 for a period of 90 days. Although plaintiff, a resident of Multnomah County, was entitled to appeal this order of suspension to the circuit court in Multnomah County where he resides, he instead petitioned the circuit court of Multnomah County on April 21, 1971, for a writ of review of the hearing and decision. ORS 34.040 provides:
+“The writ shall he allowed in all cases where the inferior court, officer, or tribunal in the exercise of judicial functions appears to have exercised such functions erroneously or arbitrarily, or to have exceeded its or his jurisdiction, to the injury of some substantial right of the plaintiff, and not otherwise. The fact that the right of appeal exists is no bar to the issuance of the writ.”
+On April 21, 1971, an order for writ of review was entered in the circuit court requiring the defendants and each of them to return the writ, a certified copy of the record and proceedings at the hearing, and the findings made and final order entered. The return was made on May 13,1971. On July 13,1971, after the expiration of the 60-day limit for petitioning for writ of review as provided in ORS 34.030, the defendants made a special appearance in the form of a motion to quash
+“* * * on the ground that this Court does not have jurisdiction over the persons named as defendants, because said Court is not the Circuit Court of the County where the decision to be reviewed was made as shown by the decision of the Motor Vehicles Division * * * [entered at Salem, Oregon, on March 29, 1971], attached hereto and by this reference made a part hereof.”
+The court, on September 7, 1971, entered an order granting defendants’ motion to quash, finding “that it does not have jurisdiction to issue a Writ of Review in this case.” It is from this order that plaintiff appeals.
+The plaintiff contends that:
+“The Circuit Court of Multnomah County is a Court of original and general jurisdiction and has been given appellant [sic] jurisdiction of the hearing herein and has jurisdiction to grant and hear ‘Writ of Review.’ ”
+The defendants, on the other hand, argue that the circuit court of Marion County, the county where the decision sought to be reviewed was made, is the requisite forum for the writ of review. ORS 34.030, entitled “Jurisdiction to grant writ; petition for writ; time limit,” provides:
+“The writ [of review] shall be allowed by the circuit court or judge thereof, or, in counties where the county court has judicial functions, by the county court or judge of the county wherein the decision or determination sought to be reviewed was made, upon the petition of the plaintiff # * *. A writ shall not be allowed unless the petition therefor is made within 60 days from the date of the decision or determination sought to be reviewed.”
+In Holmes v. Cole, 51 Or 483, 486, 94 P 964 (1908), the Supreme Court stated:
+* ° B. & C. Comp. § 596 [now ORS 34.030], provides that the writ [of review] shall be allowed by the court of the county wherein the decision or determination sought to be reviewed was made, upon the petition of the plaintiff * *
+We conclude that the circuit court for Marion County, not the circuit court for Multnomah County, was the
+proper court to determine the petition for the writ of review here.
+The question which now must be answered is whether ORS 34.030 limits jurisdiction to the circuit court for the one enumerated county, or whether it treats the circuit court of the state of Oregon as a single entity, confers jurisdiction upon it and then places venue in that branch of the circuit court sitting in the county where the decision sought to be reviewed was made. See, Cunningham v. Compensation Dept., 1 Or App 127, 459 P2d 892 (1969). We have not been directed to any legislative history which would assist in determining the legislature’s intent when it enacted ORS 34.030.
+The Oregon Supreme Court, in discussing the writ of review, early stated:
+“Under the Constitution of this State, the Circuit Courts may exercise supervisory control over all inferior tribunals, and, in exerting this power, may resort to the writ of review, which, under the Code, is a special proceeding and sustains the same relation to our system of civil procedure that the writ of certiorari sustains to the common law practice. The object of the writ is to enable the superior Courts to review the judicial proceedings of the inferior, with a view to keep even and uniform the administration of justice. The petition, to accord with the statute, must show that the inferior Court, officer or tribunal, in the exercise of judicial functions, made some erroneous decisions in relation to some process issued, or some proceeding entertained * * Burnett v. Douglas County, 4 Or 388, 389-90 (1873).
+In Mutzig v. Hope, 176 Or 368, 385-86, 158 P2d 110 (1945), it is stated:
+“By the overwhelming weight of authority, statutes relating to venue are held to he procedural merely, and not jurisdictional in the strict sense.
+* * * #
+“ * * Since the general rule is that venue statutes relate to procedure and not to jurisdiction, the right of defendant to be sued in a particular county or district is a mere personal privilege which he may waive, where the court has general jurisdiction of the subject matter * * ”
+See, Mack Trucks, Inc. v. Taylor, 227 Or 376, 362 P2d 364 (1961).
+Policy reasons support our conclusion that OES 34.030 should be treated as a venue statute rather than given a restrictive interpretation. The defendants themselves seem to have recognized the harshness of the trial court’s ruling when they stated in their brief:
+“* * * [A]n examination of the Oregon Eeports shows that a needlessly harsh result has flowed from the filing of a proper pleading in the proper court at the proper time, but in the wrong branch thereof * *
+Citing Cunningham v. Compensation Dept., supra, defendants conclude, however, that “this is a legislative not judicial policy question.” That portion of Cunningham which is here relevant was overruled by the Oregon Supreme Court’s decision in Place v. Friesen Lumber Co., 258 Or 98, 481 P2d 617 (1971). There the appellant’s claim for compensation for an injury under the Workmen’s Compensation Law was closed by an order of the Workmen’s Compensation Board. Appellant then filed a notice of appeal from the order. Although the accident took place in Columbia County and appellant was a resident of that county at the time of the accident, he filed his notice of appeal with the circuit court for Multnomah County. Under ORS 656.298, judicial review of orders of the Workmen’s Compensation Board may be instituted by an affected party “with the circuit court for the county in which the workman resided at the time of his injury, or the county where the injury occurred.” ORS 656.298. After the expiration of the 30-day limit on the filing of appeals from the order of the Board as provided in ORS 656.295 (8), the respondent, appellant’s employer, moved to quash the notice of appeal on the ground that the circuit court of Multnomah County was without jurisdiction to entertain the appeal. This motion was granted and a judgment of dismissal was entered. This court affirmed. Upon review by the Oregon Supreme Court, the case was reversed, that court holding that ORS 656.298 (1) is a venue statute. The court pointed out:
+“We are unable to see any policy reasons for giving ORS 656.298 (1) a restrictive interpretation. Quite to the contrary, there are reasons noted in the Cunningham opinion for treating ORS 656.298 (1) as a venue statute.
+“Since ORS 656.298 (1) is equally susceptible to an interpretation either as providing for venue or for jurisdiction, we choose the interpretation that serves the more desirable policy.” Place v. Friesen Lumber Co.
+In Place, the Supreme Court’s opinion in n 2 quotes at some length from this court’s opinion in the Cunningham case regarding policy reasons for interpreting ORS 656.298 (1) as a venue statute. We also rely on the rationale therein set forth in addition to those discussed in Place. No question is raised by the parties concerning the effect, if any, of ORS 183.480 (2), as amended by Oregon Laws 1971, ch 734, § 18, p 1782. We express no opinion thereon.
+Reversed and remanded.
+Under ORS 482.560 (1), the plaintiff was entitled to appeal from the hearing ordering suspension for refusing to take a breath test:
+“If, after a hearing as provided by ORS 482.540 and 482.550, an order of suspension is issued, the person shall have the right, within 30 days after he receives notice of the order of suspension, to appeal the matter by filing a petition in the circuit court for the county where he resides. The court upon receipt of the petition shall set the matter for trial upon 10 days’ notice to the division and to the appellant. The trial in the circuit court shall be de novo and the appellant shall have the right to a jury as provided in criminal actions.”
+The narrow issue in this appeal does not raise a question concerning the propriety of a writ of review in this type of case. The question was, therefore, neither raised in nor ruled upon by the trial court. Thus, this opinion does not decide whether appeals from administrative decisions under the implied consent law (ORS 482.560) are limited to the procedure prescribed in that law.
