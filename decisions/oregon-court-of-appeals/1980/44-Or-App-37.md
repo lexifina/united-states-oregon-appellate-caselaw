@@ -1,0 +1,37 @@
+---
+court: "Oregon Court of Appeals"
+docket: "H060380, CA 13876"
+decided: "1980-01-14"
+citations: ["44 Or. App. 37", "604 P.2d 1279"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Buttler, Presiding Judge, and Gillette and Roberts, Judges.", "BUTTLER, P. J."]
+parties: ["CITY OF PORTLAND, Appellant, v. ARNDORFER, Respondent."]
+source_url: "https://static.case.law/or-app/44/cases/0037-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2126042
+cites_cases: ["254 Or 21", "287 Or 519", "30 Yale L J 437", "33 Or App 173", "384 US 195", "40 Or App 779"]
+---
+
+# City of Portland v. Arndorfer
+
+## Majority (BUTTLER, P. J.)
+
+BUTTLER, P. J.
+The City of Portland appeals an order of the district court dismissing a Uniform Traffic Complaint after sustaining a demurrer on the ground that section 18.10.020(e)(3) of the Portland City Code, on which the complaint is based, is unconstitutionally broad and vague. The complaint alleges:
+"* * * That on the 9 day of April, 1978, at about 3:30 o’clock p.m., * * * Arndorfer, David Robert * * * did unlawfully operate vehicle, lie. no. M52320, State Ore, year 71, make Suzuki, model 125, style MC * * * on premises open to the public, to-wit: SE Powell Butte at or near Meadowland Dairy located in [Multnomah County, Oregon], and then and there commit the following traffic infraction: * * * Operating an off the road vehicle on private or public property without prior permission of the Planning Commission [Portland City Code § 18.10.020(e)(3),] in violation of * * * city ordinance in such case made and provided.
+"[Dated:] 4-9-78.”
+Section 18.10.020(e)(3) of the Portland City Code provides that:
+"No person shall operate an offroad recreational vehicle on private or public property unless the property has been designated for offroad recreational use pursuant to Title 33, Planning and Zoning, of this code.”
+An "offroad recreational vehicle” is defined in section 18.04.040(18) of the code as: "[a]ny motor vehicle, including road vehicles but excepting watercraft, used off public roads for recreational purposes.” The phrase "recreational purposes” is not defined. Subsection (13) of that section defines "motor vehicle” as: "[a]ny land vehicle which is, or is designed to be, self-propelled or is designed or used for transporting persons or property.”
+Given the foregoing definitions, the ordinance may be paraphrased as prohibiting any land vehicle which is, or is designed to be, self-propelled or is designed or used for transporting persons or property from being operated on private or public property (except public roads) for recreational purposes (undefined) unless the property has been designated for offroad recreational vehicle use pursuant to Title 33 (Planning and Zoning) of the city code. The city contends that because the ordinance is part of a comprehensive ordinance aimed at controlling "noise pollution” in a metropolitan area, it is neither vague nor overly broad. Yet there is nothing in the section under attack limiting its application to vehicles emanating sounds over specified decibel levels. Other sections of Title 18 do set detailed standards with respect to specified tools, machinery and activities not applicable here.
+Whatever its intended purpose may be, there is no standard for distinguishing between anti-social conduct intended to be proscribed and socially tolerable conduct which could not have been reasonably intended to be subject to criminal sanction. See State v. Sanderson, 33 Or App 173, 176-77, 575 P2d 1025 (1978); cf., State v. Hodges, 254 Or 21, 457 P2d 491 (1969). On its face, the ordinance does not tell us whether its purpose is to reduce the impact of noise to which the populace is subjected, or whether its purpose is to reduce or eliminate the scarring of the earth off public roads — either or both of which purposes would fall within legitimate legislative concerns. If the former is intended there is no standard against which the noise is to be measured; if the latter is intended, the proscription is broader than that purpose because the lack of any definition of the phrase "recreational purpose” renders the ordinance vague and over-broad. Whether these flaws "are fatal or can be judicially repaired” (State v. Blair, 287 Or 519, 601 P2d 766 (1979)) is the question. We conclude, as did the court in Blair, "that the task calls not for judicial construction but for legislative reconstruction.”
+Assuming that we are able to discern the underlying purpose of the ordinance, we could attempt a limiting construction in an effort to avoid a constitutional infirmity. State v. Sanderson, 33 Or App at 177. We could, for example, provide a definition of "recreational purpose.” But even if we were to construe it narrowly to require that the act of operating the vehicle be the recreational event, the ordinance would impose penal sanctions on one who is operating an automobile designed for freeway travel ón a nonpublic road in order to experience the pleasure that driver derives from engaging in such conduct. But suppose the operator does not enjoy driving, but enjoys viewing the scenery: prohibited conduct? The ordinance would also proscribe operating a garden tractor on one’s private property if the operator derived pleasure from doing so and considered it a recreational pursuit. What if the operator disliked it and viewed it only as a necessary chore? Other examples of conduct which could theoretically lead to prosecution are limitless, and no point would be served in cataloging them. It is enough to point out that the ordinance contains no standard by which a court or person may determine what is and what is not prohibited.
+As drawn, the ordinance requires in every case that the court determine on an ad hoc basis whether the defendant’s conduct as charged is an offense. Different courts would be free to make different determinations. Accordingly, the ordinance violates due process. In State v. Hodges, supra, the court said:
+"* * * the terms of a penal statute creating an offense must be sufficiently explicit to inform those who are subject to it what conduct on their part will render them liable to its penalties. See Freund, The Use of Indefinite Terms in Statutes, 30 Yale L J 437 (1921), and recent cases collected in the Annotation of Ashton v. Kentucky, 384 US 195, 86 S Ct 1407, 16 L Ed 2d 469, at 1231 (1966).
+"2. In addition to its due-process function of putting persons on notice of the law’s demands, reaonable certainty serves a second purpose: adjudication. A law that permits the judge and jury to punish or withhold punishment in their uncontrolled discretion is defective as much for its uncertainty of adjudication as for its failure to notify potential defendants of its scope and reach.
+"A law that is too vague for reasonable adjudication is bad on two grounds. A vague statute lends itself to an unconstitutional delegation of legislative power to the judge and jury, and, by permitting the juiy to decide what the law will be, it offends the principle, if not the rule, against ex post fact laws. See Oregon Constitution, Art I, § 21.” State v. Hodges, 254 Or at 27.
+Cf. City of Portland v. Anderson, 40 Or App 779, 596 P2d 603 (1979).
+The ordinance under attack suffers from the infirmities discussed in Hodges, Blair, Sanderson and Anderson. The order of the trial court dismissing the complaint is affirmed.
+Affirmed.
