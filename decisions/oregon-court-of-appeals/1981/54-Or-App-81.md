@@ -1,0 +1,36 @@
+---
+court: "Oregon Court of Appeals"
+docket: "77-7218, CA 19731"
+decided: "1981-10-05"
+citations: ["54 Or. App. 81", "634 P.2d 262"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Richardson, Presiding Judge, and Thornton and Van Hoomissen, Judges.", "RICHARDSON, P. J."]
+parties: ["In the Matter of the Compensation of Marvin F. Lines, Claimant. LINES, Petitioner, v. STATE ACCIDENT INSURANCE FUND CORPORATION, Respondent."]
+source_url: "https://static.case.law/or-app/54/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086590
+cites_cases: ["289 Or 323", "37 Or App 285", "43 Or App 279"]
+---
+
+# Lines v. State Accident Insurance Fund Corp.
+
+## Majority (RICHARDSON, P. J.)
+
+RICHARDSON, P. J.
+In this workers’ compensation case the State Accident Insurance Fund (SAIF) denied claimant’s claim for compensation. The referee and the Workers’ Compensation Board affirmed the denial. Claimant appeals, and we affirm.
+The central issue is the application of ORS 656.802(2), commonly known as the fireman’-s presumption. That statute provides:
+"Any condition or impairment of health arising under paragraph (b) of subsection (1) of this section shall be presumed to result from a fireman’s employment. However, any such fireman must have taken a physical examination upon becoming a fireman, or subsequently thereto, which failed to reveal any evidence of such condition or impairment of health which preexisted his employment. Denial of a claim for any condition or impairment of health arising under paragraph (b) of subsection (1) of this section must be on the basis of medical or other evidence that the cause of the condition or impairment is unrelated to the fireman’s employment.”
+The conditions described in paragraph (b)of subsection (1) are diseases of the lungs or respiratory tract, hypertension or cardiovascular-renal diseases. The fireman’s presumption of compensability arises if a claimant has completed five years employment as a firefighter.
+Claimant seeks compensation for disability due to a cardiac ailment and two resultant heart surgeries. Claimant, who was 56 years old at the time of the hearing before the referee, began work as a fireman for the city of Bend in 1953. In 1964 he went to work as a fireman for the city of Milwaukie, Oregon, until 1971, when he was terminated. The reason for his termination is not clearly explained in the record; however, he was reinstated with the Milwaukie Fire Department in 1974 with back pay and benefits.
+In 1971, while still employed as a fireman, claimant experienced severe chest pains off the job. He was hospitalized and the subsequent diagnosis was ischemic heart disease and arteriosclerosis.
+Prior to his reinstatement as a fireman in 1974, claimant had an intensive physical examination, including a cardiac workup. The examining cardiologist concluded that claimant’s work activities need not be restricted. Claimant experienced no further chest pains until May, 1977, when he had an episode of severe chest pain while carrying a fire hose up a ladder during a fire. The pain subsided after a period of rest, and he continued working that shift and the next succeeding shift. He began having recurrent episodes of pain during his off duty hours and ultimately had two open heart surgeries. He has not worked since May, 1977.
+Claimant’s two treating physicians concluded that he suffered from coronary artery disease. They expressed the opinion that the disease was not caused by his employment as a firefighter. They did, however, conclude that the stress of his job could have contributed to the episode of angina pectoris he experienced in May, 1977. Claimant’s medical records were reviewed by Dr. Griswold, an expert in cardiology, who agreed with the conclusions of the treating physicians regarding the disease and its causes. Dr. Griswold testified that claimant’s work activity produced the episode of angina pectoris, which he described as not being an injury but only a symptom of heart disease. He concluded the angina experienced by claimant did not aggravate the coronary artery disease.
+Citing Wick v. SAIF, 37 Or App 285, 587 P2d 477 (1978), and our decision in Wright v. SAIF, 43 Or App 279, 602 P2d 1086 (1979), rev’d 289 Or 323, 613 P2d 755 (1980), the referee concluded the fireman’s presumption had been overcome and that the medical evidence showed claimant’s condition was not related to his employment. Claimant first argues the referee’s decision, rendered prior to the Supreme Court’s decision on review in Wright, applied the wrong standard and should be reversed. Because we review de novo the question of whether the referee and the Board correctly applied the law need not be addressed.
+In Wright, the Supreme Court, discussing the fireman’s presumption, said:
+"We hold that in a civil case the statutory scheme concerning disputable presumptions requires that when the basic facts giving rise to the presumption are established, the presumption binds the jury if there is no opposing evidence. If there is opposing evidence, the trier of fact must weigh the evidence, giving the presumption the value of evidence, and determine upon which side the evidence preponderates.” (Footnotes omitted.) 289 Or at 331.
+ORS 656.802(2) describes the type of opposing evidence that is required to rebut the presumption. There must be medical or other evidence that the cause of the claimant’s condition or impairment is unrelated to his employment. The medical evidence here establishes that the condition which resulted in claimant’s surgeries and his disability was cardiac artery disease. The medical opinions are uniform in concluding that this disease was not related to his employment as a fireman. Consequently, the presumption of compensability has been overcome.
+Claimant contends that if it is determined this cardiac artery disease was unrelated to his employment, the worsening of the symptoms, including pain, is nevertheless compensable. In Wright, the Supreme Court interpreted the definition of occupational disease in ORS 656.802(l)(b) to include a worsening of symptoms as well as a worsening of the underlying disease. Claimant points to the opinions of all three physicians who concluded that his work activities precipitated the angina pectoris, and argues his disability is therefore compensable.
+Even though the symptoms of the underlying disease are worsened by the employment, they are not compensable unless the worsened symptoms cause disability or require medical services. Claimant’s surgeries were necessitated by and his disability resulted from the cardiac artery disease. That disease was not caused or aggravated by his employment activities. Following the episode of chest pain, claimant worked the balance of that shift and the following regular shift. During his days off he followed his normal routine, which included playing golf. Although he sought medical attention because of the episodes of pain, the medical services rendered were to treat the underlying cardiac disease. His present disability relates directly to that underlying disease and not to the temporary episodes of pain he experienced.
+Affirmed.
