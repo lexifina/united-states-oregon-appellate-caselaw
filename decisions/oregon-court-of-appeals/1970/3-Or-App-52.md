@@ -1,0 +1,32 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1970-07-09"
+citations: ["3 Or. App. 52", "471 P.2d 853"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Fort, Judges."]
+parties: ["STATE ex rel JUVENILE DEPARTMENT OF CLACKAMAS COUNTY, Respondent, v. PETERSON, Appellant."]
+source_url: "https://static.case.law/or-app/3/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2064419
+cites_cases: ["195 Or 252", "2 Or App 328", "214 Or 664", "221 Or 138", "230 Or 452", "234 Or 66", "35 ALR2d 612"]
+---
+
+# State ex rel. Juvenile Department v. Peterson
+
+## Majority (FORT, J.)
+
+FORT, J.
+This case involves a challenge to the order of the juvenile court continuing the placement of two children, who had previously been made dependant wards pursuant to ORS 419.476 (1) (c), in a foster home under welfare department supervision. Three errors are asserted.
+The first contention is that the foster home was not certified by the welfare department and thus the court lacked power to make such placement. ORS 419.507 (1) expressly authorizes the juvenile court to place a child who is a ward of that court with “some person maintaining a foster home approved by the court.” Here the order of the juvenile court placed these two children in a specified foster home under the supervision of the welfare department. Appellant relies on ORS 418.070 (2), which contains a definition of “foster home.” That statute, however, expressly limits its own application to a state-administered foster home program for which federal funds are made available. It has no limiting effect on the power of the juvenile court to place a child, pursuant to OKS 419.507 (1), in a foster home approved by it. No question is here involved concerning use of federal funds for the support of these children. It is elementary that the juvenile court, once wardship is established, retains continuing jurisdiction pursuant to authorized proceedings to modify its order of disposition. OKS 419.529; Allen v. Allen, 214 Or 664, 330 P2d 151 (1958).
+Next, appellant contends the evidence is insufficient to warrant a termination of parental rights under OKS 419.523. This section has no application here, since this proceeding is under OKS 419.476 (1) (o), under which these children were made dependent wards. Termination of parental rights is not involved at all. Furthermore, no appeal was taken from the order of April 26,1968, making these and two other siblings wards under the latter section. That order was a final appealable order. Chandler v. State, 230 Or 452, 370 P2d 626 (1962); Logsdon v. State and Dell, 234 Or 66, 380 P2d 111 (1963). Thus its validity cannot now be attacked on this appeal. The order of March 21, 1969, from which this appeal is taken, was entered after a review hearing held pursuant to the mother’s petition. It directed that the two children not already returned to her remain as wards of the juvenile court in the custody of the county welfare department for “continued placement in the present foster home.” It is from this order the mother has appealed. The sole question before the court was whether the two children, a girl then 17 and a boy 12, not already with the mother, should be returned to her.
+The court heard extensive evidence and we think correctly concluded that the best interests of the children warranted a continuation of the existing placement. Further, it not only provided for reasonable visitation for the mother, but expressly directed:
+“That continued counseling and supervision should be exerted with * * * [the boy] in an attempt to effect a longer and more extended visitation program between said child and his mother, to the end that eventually said child would accept weekend visitations in the home of his mother.”
+In Watson v. Watson, 221 Or 138, 350 P2d 694 (1960), the Supreme Court reviewed two consolidated proceedings concerning the placement of children. These involved children who were both dependent wards of the juvenile court and wards of the circuit court pursuant to their parents’ divorce. The court there said:
+“When a judge of experience is confronted with the serious custodial problem revealed in this matter, we must defer and do to his judgment flowing from his opportunity to see and hear the witnesses. This court is denied that superior advantage by being confined to the consideration of the written record made below.
+“Moreover, every decision of a trial court in custody matters when tested by appeal, comes to us weighted with the presumption that the court below has properly exercised its judicial discretion in determining what is for the best interest of the child. Rea v. Rea, 195 Or 252, 279, 245 P2d 884, 35 ALR2d 612. Here, the presumption attains additional force by the evidence of the court’s careful and considerate disposal of a delicate and difficult situation and his judicious exercise of all the facilities available to him to insure the health and welfare of the child involved.” 221 Or at 143-44.
+See also Stonebrink v. Stonebrink, 2 Or App 328, 468 P2d 546 (1970).
+We have carefully reviewed the lengthy transcript and noted, as is so often true in this type of case, the widely divergent and sometimes flatly contradictory nature of portions of the evidence. We note too the mother’s request that if these two children are not to be returned to her they should be placed in the home of their natural father, from whom the mother has been divorced for many years.
+Appellant points to the policy both of statute, ORS 419.474 (2), and of the common law, giving preference to the placement of children with a natural parent. Here, however, the court had carefully adhered to this rule in its earlier orders. It had already returned two of the four children made wards in the order of April 26, 1968, to her custody. The youngest boy was before the court again in this hearing because he had run away from his father’s home in which the court had previously placed him for a trial visit. The trial court, thus, over a period of more than a year, conducted repeated hearings before two different judges having as its objective the return of all four children to one or the other of the parents.
+Applying the rule of Watson v. Watson, supra, we hold that the record amply supports the order appealed from. It is affirmed.
