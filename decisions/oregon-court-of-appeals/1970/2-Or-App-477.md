@@ -1,0 +1,98 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1970-05-07"
+citations: ["2 Or. App. 477", "468 P.2d 915"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF OREGON, Respondent, v. ROY PRESSEL, Appellant."]
+source_url: "https://static.case.law/or-app/2/cases/0477-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2063849
+cites_cases: ["1 Or App 629", "10 ALR3d 974", "168 US 532", "248 Or 85", "250 Or 485", "378 US 478", "384 US 436", "389 US 35", "448 P2d 621"]
+---
+
+# State v. Pressel
+
+## Majority (FOLEY, J.)
+
+FOLEY, J.
+Defendant was convicted of the crime of assault with intent to kill, and appeals from the resulting judgment. The sole assignment of error relates to the admission into evidence of certain statements made by the defendant which he claims were coerced.
+A criminal trial is a search for the truth consistent with proper attention to the rights of the individual. Testimonial reliability is the basic concept underlying the admissibility of evidence in a trial. It is urged that the circumstances surrounding the taking of defendant’s statements in this case raised a presumption of eoercivenéss so strong that it was error to have admitted them. 'While the circumstances ..surr rounding the interrogation initially seem coercive,: in order to determine the validity of defendant’s claim we must decide whether the historical facts of this case “are sufficient to sustain a finding of voluntariness which meets state and federal constitutional concepts of due process.” Ball v. Gladden, 250 Or 485, 487, 448 P2d 621 (1968). It is “the totality of the circumstances shown in the record” which controls this decision. Frye v. Gladden, 1 Or App 629, 465 P2d 716 (1970).
+We therefore turn to an examination of the facts. The defendant and a companion were southbound on the freeway, driving a car with out-of-state plates. It was in the early morning hours of a winter night. State Police Officer Forrester, on routine patrol in the same direction, decided to make a license check. The defendant, before the officer gave any signal, exited from the freeway and approached an immediately adjacent service station. The officer signaled the defendant’s car to stop just as it was approaching the service station. Defendant pulled to one side toward the rear of the lighted area of the service station. The police car stopped 15 to 20 feet behind. The officer walked toward defendant’s car. As he did so the driver’s door opened. When he was about five feet from the ear, the officer observed the defendant in the center of the front seat with a sawed-off shotgun in his lap pointed at the officer. The officer jumped back, turned, and ran behind his patrol car, but in so doing he slipped and fell there, breaking his wrist. Defendant, with the shotgun, left his car and approached the police car. The officer ran again, zigzagging as he went. When he reached a fence about 68 feet away he stopped and looked back. From this distance the defendant fired two blasts from the shotgun toward the officer, but did not hit him. The officer, while moving from side to side, returned the' fire from his service pistol, hut failed to hit the defendant. While the officer was attempting to reload his pistol, the defendant jumped into his own car and fled. The officer, after reloading, returned to the patrol car and at once pursued him.
+The defendant and his companion, traveling, at a. high rate of speed, rolled their car over while attempting to pull into a rest area about seven miles down the road. As their car came to rest upside down, a truck driver who had observed the accident stopped to offer help. The defendant and his companion sought to induce him to immediately take them on down the road but he refused. As the two men were getting out of the truck cab the police officer drove up. The defendant and his companion started to run. Officer Forrester stepped out of his car with a rifle and ordered them to stop. The companion did, but defendant did not. The officer again ordered the defendant to stop, but he continued to run at top speed across an open field. The officer fired once and, despite his broken wrist, shot the defendant through the back of the knee at a distance of approximately 200 feet.
+Other patrol cars arrived almost immediately. While Officer Forrester guarded the companion, two of the newly arrived officers, guided by the headlights of one of the patrol cars, entered the field and located the defendant lying on the ground. As the officers were approaching the defendant with loaded rifles, one of them called out from 60 to 70 feet away, “Don’t move a hair or I’ll blow your brains out.” After reaching the defendant, they séárched' him. After ascertaining that defendant was unarmed, Officer Breazeal handed his gun tb’ Officer Roébiick’áM began reading to the defendant from Ms copy of the Miranda warning card. From this point on no gnn was pointed at defendant.
+As the officer read the Miranda card the defendant interrupted several times and said he “knew his rights.” The officer nevertheless continued to read him the card to its conclusion. In response to the reading of the final question on the Miranda warning card, “Having these rights in mind do you wish to talk to us now?”, the defendant answered “Yes.”
+The questioning by Officer Breazeal then began. Officer Roebuck at the same time examined defendant’s knee to see what first aid should be administered. He determined none was necessary and tried to make the defendant comfortable.
+Only after giving the Miranda warnings and after receiving from defendant a clear-cut willingness to respond, did the officers proceed with the questioning. Then, in answer to questions, defendant gave his name and stated he was an escapee from Washington State Penitentiary and that he shot at the policeman because “he couldn’t afford a bust,” which we understand to mean being retaken into custody. Demonstrating his awareness of these warnings, defendant refused to answer some questions, including one concerning the identity of his companion. Defendant stated that at the time he was advised of his rights and questioned he was in no pain whatever from the knee wound and was not drunk: The doctor who treated him approximately 70 minutes later testified that he did not recall any impression of intoxication and that defendant was not in shock.
+In this case the policemen performed commendably and courageously. Aware that defendant had been shooting at a policeman only a few minutes before, they were seeking to learn what kind of subject they were dealing with, and what they might expect as they approached the defendant. Even with this in mind, they carefully and correctly followed the Miranda requirements of giving the appropínate warnings and advice to defendant.
+The defendant does not argue that his answers were untruthful, but claims that he was in such a coercive situation that his fear overcame his knowledge and the warnings, and therefore his statements were involuntary and should not have been admitted in evidence.
+We believe any presumption of coerciveness is overcome where, as here: the defendant, after warnings, responds affirmatively to the question of whether he desires to make a statement; thereafter states that at the time he made the statement he was not in pain and was not drunk; the treating doctor states that defendant was not in shock; and the defendant’s responses indicate his awareness of the warnings and the willingness to furnish information. While the circumstances under which this questioning was conducted were not the most favorable, blame for this should not rest upon the police officers. There is no provision of law granting to a properly warned, voluntarily and knowingly responding defendant a special immunity from interrogation because of the unusual situation in which he has placed himself.
+The trial court found beyond a reasonable doubt, after testimony in an in camera hearing, that the statements of defendant were voluntarily and knowingly made after complete and proper warnings. Here' the historical facts which the transcript discloses justify the trial court’s finding of voluntariness within the constitutional concepts of due process. Ball v. Gladden, supra. The judgment of conviction is affirmed.
+Miranda v. Arizona' 384 US 436, 86 S Ct 1602, 16 L Ed 2d 694, 10 ALR3d 974 (1966).
+
+## Dissent (SCHWAB, C. J.,)
+
+SCHWAB, C. J.,
+dissenting.
+The majority opinion correctly states:
+“After reaching the defendant, they searched him. After ascertaining that defendant was unarmed, Officer Breazeal handed his gun to Officer Roebuck and began reading to the defendant from his copy of the Miranda warning card. From this point on no gun was pointed at defendant.”
+This, however, is not quite the whole story.
+During the course of the interrogation that followed the Miranda warnings, the defendant, if capable of understanding, knew that the admonition concerning the consequences of movement was not yet a matter of past history. According to Officer Roebuck the following conditions existed during both the reading and the waiver.
+“Q. And you were paying, particular attention to Mr. Pressel at that time I assume?
+“A. Yes.
+“Q. Where was your .30-30 rifle at this time? “A. I had one in my left hand and Officer Breazeal’s in my right hand.
+“Q. And were these directed towards the defendant?
+“A. No.
+“Q. What direction were they pointed?
+“A. Port. Like this. TJp like this.'
+“Q. You were holding them up in the air?
+“A. Yes.. One of them I had my hand on the trigger and the hammer, and the other one was just in my hand.
+“Q. But you were in such a position that you could fire in just a split second, isn’t that true, if necessary?
+“A. If necessary I could have dropped the weapon and fired.
+“Q. And one you actually had your finger on the trigger?
+“A. Yes. The hammer was down but I had my hand on the trigger, yes.”
+With the above addition the majority opinion accurately portrays the circumstances under which the defendant was questioned.
+In Frye v. Gladden, 1 Or App 629, 465 P2d 716 (1970), we said that it is our duty to examine the historical facts of each case to determine whether they “are sufficient to sustain a finding of voluntariness which meets state and federal constitutional concepts of due process.” Ball v. Gladden, 250 Or 485, 487, 443 P2d 621 (1968). In Frye, we also said that it is “the totality of the circumstances shown in the record” which must control the decision in each case.
+In so doing,
+“* * * we are not bound by á trial judgé or jury’s finding of. voluntariness .if we believe the historical facts upon which such finding is based are insufficient to meet constitutional standards of due process. This is pursuant to our duty to interpret cónstitutionál standards and require conformance thereto.” Ball v. Gladden, supra, at 487-88.
+In "the vast-majority of confession: eases we have and undoubtedly should and will continue to follow the findings of the trial judges who see and hear the witnesses. Nevertheless, much as we may wish to do so, we cannot fulfill our constitutional obligation by automatically adopting the trial judges’ finding in every instance where there is any evidence to support it.
+I cannot say, with any real degree of conviction, that a man’s responses to his captors are wholly voluntary when at the moment of questioning he is lying on the ground in the dark, wounded, guarded by police with guns at the ready, seconds after having been told at gunpoint that if he moved his brains would be blown out.
+The decision as to what to offer in evidence and how to offer it was not that of the police. The information given by the defendant and introduced by the state could easily have been made available to the jury by other means.
+I would reverse and remand for a new trial in the course of which the evidence in question could be introduced through means other than a tainted confession. For the foregoing reasons, I respectfully dissent.
+
+## Dissent (FORT, J.,)
+
+FORT, J.,
+dissenting.
+Testimonial reliability, as the majority states, is the basic concept underlying the admissibility of evidence.
+Wigmore tells us:
+“The principle upon which a confession is 'treated as sometimes inadmissible is that under certain conditions it becomes untrustworthy as testimony. * * *” 3 Wigmore, Evidence (3d ed 1940) '246, § 822. (Emphasis in original.)
+With respect to criminal cases, he points out:
+“* * * In criminal charges, the higher degree of caution always exercised by the law in favor of the accused prompts to a greater strictness in excluding suspicious testimony, and the degree of likelihood of its incorrectness need be much less than in other instances * * 3 Wigmore, Evidence, supra, at 246.
+The leading case in the United States concerning the admissibility of confessions or admissions is Bram v. United States, 168 US 532, 18 S Ct 183, 42 L Ed 568 (1897). There the Supreme Court, in a lengthy opinion, exhaustively reviewed the authorities, both of the common law, at the time of the adoption of the Constitution and the Fifth Amendment, and of the English and American authorities decided during the 19th century.
+The court, speaking through Mr. Justice (later Chief Justice) White, said:
+“* * * The rule is not that in order to render a statement admissible the proof must be adequate to establish that the particular communications contained in a statement were voluntarily made, but it must be sufficient to establish that the making of the statement was voluntary; that is to say, that from the causes, which the law treats as legally sufficient to engender in the mind of the accused hope or fear in respect to the crime charged, the accused was not involuntarily impelled to make a statement, when but for the improper influences he would have remained silent. * * *” 168 US at 549.
+Later, at 565, the court said:
+“* * * As said in the passage from Russell on Crimes already quoted, ‘the law cannot measure the force of the influence used or decide upon its effect upon the mind of the prisoner, and, therefore, excludes the declaration if any degree of influence has been exerted.’ * * *”
+The rules,thus enunciated have found continuing support in the; federal cases. Indeed as recently as Beecher v. Alabama, 389 US 35, 88 S Ct 189, 19 L Ed 2d 35 (1967), the Supreme Court, in a unanimous opinion, restated again the rule as above set forth in the excerpt from Russell on Crimes just quoted.
+The concerns which underlie the privilege against self-incrimination are most recently described in Escobedo v. Illinois, 378 US 478, 84 S Ct 1758, 12 L Ed 2d 977 (1964):
+“We have learned the lesson of history, ancient and modern, that a system of criminal law enforcement which comes to depend on the ‘confession’ will, in the long run, be less reliable and more subject to abuses than a system which depends on extrinsic evidence independently secured through skillful investigation. As Dean Wigmore so wisely said: '‘[A]ny system of administration which permits the prosecution to trust habitually to compulsory self-disclosure as a source of proof must itself suffer morally thereby. The inclination develops to rely mainly upon such evidence, and to be satisfied with an incomplete investigation of the other sources. * * *’ 8 Wigmore, Evidence (3d ed. 1940), 309. (Emphasis in original.)” 378 US at 488-89.
+The prophylactic objectives expressed there have been expressly recognized and approved by the Oregon Supreme Court in State v. Williams, 248 Or 85, 432 P2d 679 (1967). It there stated at 93-94:
+“# * # The Fifth Amendment privilege is recognized in these cases because its application was deemed necessary as a prophylaxis against coercive police practices. The same prophylaxis is necessary whether the interrogation is used to obtain a confession or to establish a suspect’s guilt through his disclosure of evidence pointing to his guilt. * * *”
+Thus the statements of a defendant may well be voluntary in the sense that he has determined it is the wisest thing for him to do under the circumstances. But where such decision is the product of circumstances so inherently coercive as to render it highly probable that the decision to answer is to any substantial degree the product of fear, it is not the voluntary relinquishment of the privilege against self-incrimination which the Fifth Amendment requires.
+In addition to the facts described both in the majority opinion and in the dissent of Chief Judge Schwab, the following facts are also, in my view, of importance here.
+At first while standing up the officers did not clearly understand the defendant’s name and had him spell it. After that, during the questioning the officers testified they had no trouble hearing the defendant, only, however, as Officer Breazeal testified:
+“* * * after we leaned down and — we got on our knees down next to Mm and had no trouble at all understanding him.” (Emphasis supplied.)
+The defendant at all times was lying down full length on the damp ground. He was shivering.
+The defendant' had been drinking. At trial he denied, however, that he was intoxicated. Concerning his condition in that regard, the officer stated that he did not shine his light directly in the defendant’s eyes. He could not tell if the pupils were dilated, but observed the eyes .were bloodshot. The defendant smelled of alcohol'but in his Opinion was not intoxicated. Officer Roebuck stated he 'coiild hot make- “an honest evaluation” under the circumstances as to whether-‘ defendant was .-under, the. influence of liquór.
+Concerning pain, Officer Breazeal testified:
+“Q. Did Mr. Pressel show any evidence of pain?
+“A. Well, there probably was some pain. He— his face, he grimaced a little bit, but — but, like I said, there was no screaming or moaning or anything on this order from him. None at all.”
+The defendant himself, however, testified that he experienced no pain during the questioning.
+In the opinion of both officers the defendant at the time was “in some degree of shock.” He was, however, able to and did answer their questions. The defendant, in answer to a question, spelled his name and stated that he had escaped from the Washington State Penitentiary nine days earlier and had helped his companion to escape.
+I do not imply any criticism of the police conduct in this case. The situation fully justified their actions. I agree that the role of the police to protect their own safety and that of others was ably and courageously carried out here. The decision as to what to offer in evidence was not that of the police: it was that of the district attorney.
+Unfortunately, the only evidence offered by the state to establish the simple fact that the defendant was an escapee from the Washington State Penitentiary at Walla Walla was the defendant’s single admission so elicited. The record is devoid of any other evidence of this important, yet easily established, fact. Since the motivation for the shooting by the defendant at the officer is a vital element of the crime of assault with intent to kill, it follows, in my view, that the error was prejudicial.
+In Bram v. United States, supra, the court concluded :
+“* * * In the case before us we find that an influence was exerted, and as any doubt as to whether the confession was voluntary must be- determined in favor of the accused, we cannot escape the conclusion that error was committed by the trial court in admitting the confession under the circumstances disclosed by the record.” 168 US at 565.
+I would reverse.
