@@ -1,0 +1,43 @@
+---
+court: "Oregon Court of Appeals"
+docket: "39756"
+decided: "1974-04-01"
+citations: ["17 Or. App. 43", "520 P.2d 462"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Tanzer, Judges."]
+parties: ["STATE OF OREGON, Appellant, v. ROBERT LeROY WILLIAMS, Respondent."]
+source_url: "https://static.case.law/or-app/17/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2147410
+cites_cases: ["13 Or App 504", "15 Or App 582", "86 Or 464"]
+---
+
+# State v. Williams
+
+## Majority (TANZER, J.)
+
+TANZER, J.
+This is a state’s appeal from a trial court order dismissing an indictment with prejudice.
+Defendant was charged by criminal complaint with rape in the first degree, ORS 163.375, on March 9, 1973, and was subsequently indicted for the same offense on March 13, 1973. Defendant entered a plea of not guilty on March 15, 1973, and the case was scheduled to be tried on May 3, 1973. Defendant was then released on bail. On April 24, 1973, defendant moved to postpone the trial to a later date and the trial was re-set for July 30, 1973, a Monday. On the Friday afternoon preceding trial, the district attorney’s office attempted to notify the trial court and defense counsel that it would be unable to go to trial on July 30 because the alleged victim in the case could not be located. HoAvever, the court Avas apparently notified only that a jury Avould not be required, not that the state Avas unable to proceed, and defense counsel appears to have been advised Friday night by another attorney’s secretary only that the state might move to postpone or continue the trial on Monday morning.
+When the case came on for trial, the district attorney explained to the court that his office was unable to locate the alleged victim and moved that the case be dismissed. The motion was granted and defense counsel then requested that the dismissal be with prejudice. Defense counsel explained to the court that he had had difficulty locating the defense witnesses for trial and that he anticipated even greater difficulties if, at some future time, defendant were to be re-indicted and tried. Defense counsel also argued to tbe court that tbe state bad been less than diligent in its attempts to locate the alleged victim and produce her for trial. After hearing arguments from both counsel, the court ordered that the dismissal be with prejudice. The court based its order on the possibility that the defense evidence might become unavailable, the time and effort that had already been invested by the defense in its preparation for trial, and the alleged victim’s apparent lack- of interest in the case.
+ORS 134.160 provides that the entry of a nolle prosequi is abolished, and that a district attorney cannot discontinue or abandon a prosecution except as authorized by ORS 134.150. ORS 134.150 provides in pertinent part that the court may, upon the application of the district attorney, and in furtherance of justice, order an action, after indictment, to be dismissed.
+The effect of such a dismissal is set out in ORS 134.140. The defendant is to be relieved of physical and financial restrictions on his freedom. The dismissal is a bar to another prosecution for the same crime if the crime is a misdemeanor, hut it is not a bar if the crime charged is a felony.
+Rape in the first degree, the crime with which defendant was charged, is a Class A felony. That being so, dismissal of the action on the motion of the district attorney is not of itself a bar to another prosecution for the same crime, and the trial court was not authorized to dismiss the action with prejudice under ORS ch 134.
+Defendant argues that the trial court’s dismissal with prejudice was authorized under ORS 136.120, which provides for discharging the indictment in a situation where the district attorney is not prepared for trial and does not show sufficient cause for postponing the trial, and ORS 136.130, which provides that such a discharge is not a bar to another action for the same crime unless the court specifically so directs.
+ORS 136.130, while not in itself a grant of power, is a statutory acknowledgment of and mechanism for the authority of the courts to effectuate the speedy trial clause of the Oregon Constitution, Art. I, § 10. State v. Clark, 86 Or 464, 468, 168 P 944 (1917).
+The trial court expressed its concern that the possibility that defendant might suffer prejudice if lie were to be re-indicted and tried in the future would constitute a denial of his constitutional right to a speedy trial. The power to bar prosecution for lack of speedy trial when the prosecutor cannot or will not go forward must be exercised discreetly. The means of protecting the defendant’s right must be chosen under the circumstances of each ease so as also to accommodate maximally the right of the public to effective enforcement of the criminal law. Thus the reasonable needs of the prosecution must also be given great consideration in the exercise of the inherent power to assure speedy trial.
+Here, the prosecution’s inability to locate its main witness is not a problem of its own making, although it probably should have acted more diligently. The tardiness of the prosecutor in informing the court that he was unable to find her is no reason to burden the public by forever barring prosecution. The power to bar prosecution, with all its attendant public consequences, is a drastic one to be exercised only in exceptional circumstances. Unlike situations where the state is able to go forward, but seeks dismissal for insubstantial reasons, e.g., State v. Pena, 15 Or App 582, 516 P2d 761 (1973), or, where the delay is caused by inexcusable negligence, e.g., State v. Willingham; 13 Or App 504, 510 P2d 1339 (1973), circumstances beyond the control of the prosecution made it impossible for the state to proceed in this ease.
+Defendant has made no showing of prejudice which would necessitate a bar to further prosecution. His counsel suggested that it might be difficult to again secure the defense witnesses, but to bar any possibility of later prosecution on that basis would be unnecessarily speculative and premature. If the defendant is re-indicted prior to the expiration of the statute of limitations, which event is contingent upon finding the missing witness, defendant may then raise the issue of denial of a speedy trial. His claim can then he adjudicated in light of all the constitutional considerations by which the right to speedy trial is adjudged. Meanwhile, defendant is freed of the physical and financial restrictions on his freedom which would exist were there no dismissal at all.
+On the record before us, where the state is unable to proceed due to external circumstances and requests dismissal, where no actual prejudice to defendant is shown, and where the defendant’s right to speedy trial can be otherwise protected, dismissal with prejudice at this stage was not reasonably required in order to fulfill the court’s constitutional responsibilities to the defendant and to the public.
+Reversed and remanded for entry of an order of dismissal without prejudice.
+ORS 134.150 provides:
+“The court may, either of its own motion or upon the application of the district attorney, and in furtherance of justice, order an action, after indictment, to be dismissed; but in that case, the reasons of the dismissal shall be set forth in the order, which shall be entered in the journal.”
+ORS 134.140 provides:
+“(1) If the court directs the charge or action to be dismissed, the defendant, if in custody, shall be discharged. If he has been admitted to bail, his bail is exonerated and money deposited in lieu of bail shall be refunded to him.
+“(2) An order for the dismissal of a charge or action, as provided in ORS 134.010 to 134.160, is a bar to. another prosecution for the same crime if the crime is a misdemeanor; but it is not a bar if the crime charged is a felony.”
+ORS 136.120 provides:
+“If, when the indictment is called for trial, the defendant appears for trial and the district attorney is not ready and does not show any sufficient cause for postponing the trial, the court shall order the indictment to be discharged, unless, being of opinion that the public interests require the indictment to be retained for trial, it directs it to be retained.”
+ORS 136.130 provides:
+“If the court orders the indictment to be discharged, the order is not a bar to another action for the same crime unless the court so directs; and if the court does so direct, judgment of acquittal shall be entered.”
