@@ -1,0 +1,39 @@
+---
+court: "Oregon Court of Appeals"
+docket: "36662"
+decided: "1972-05-18"
+citations: ["9 Or. App. 357", "497 P.2d 374"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Foley and Fort, Judges."]
+parties: ["STATE OF OREGON, Respondent, v. FRED DICKENSON, Appellant."]
+source_url: "https://static.case.law/or-app/9/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2133820
+cites_cases: ["103 Or 443", "7 Or App 558"]
+---
+
+# State v. Dickenson
+
+## Majority (FOLEY, J.)
+
+FOLEY, J.
+Defendant was charged in a two-count indictment with (1) injuring personal property (former OBS 164.900), and (2) larceny by bailee (former OBS 165.010). He was convicted by jury of larceny by bailee and placed on probation for one year. He appeals, asserting three assignments of error.
+There was evidence that defendant was the conditional-sales-contract purchaser of a certain S-7B Hough Paylogger, a piece of heavy logging equipment also called a skidder, or loader. Its' use was described as follows: After a tree is felled and bucked this tractor-like apparatus goes to the log, picks up one end of it and skids or drags it to the landing for loading.
+The conditional sales contract named Howard Cooper Corporation as seller. There was evidence that because defendant became delinquent in his payments, the seller filed a replevin action to regain possession of the loader. Defendant testified that he thereafter dismantled the skidder by removing the motor and transmission, winch and canopy. He placed the motor, transmission and winch in his garage at home, the canopy with a pile of logging parts in his yard, and the rest of the skidder “* * * in a field about a half a mile behind my home.” The evidence was that when the officers came to repossess the loader, defendant refused to let them get it and while they were there he drove a D-7 Caterpillar tractor which defendant said weighed 40,000 pounds over the canopy and other parts of the paylogger which were in his yard. There was evidence that the defendant refused to divulge the whereabouts of the skidder, and that when it was discovered in brush y2 mile behind defendant’s house, the radiator, grill, winch, engine and transmission had been removed and were not located at that time. The canopy and other parts which were run over by the D-7 Caterpillar tractor were beyond economic repair.
+Defendant asserts in his first assignment that the trial court erred in refusing to require the state to elect by which of the several ways specified in the larceny by bailee statute it intended to prove the offense. Where an offense may be committed by several means, the indictment may allege in a single count the means in the alternative, unless the allegations are repugnant to each other. State v. Laundy, 103 Or 443, 204 P 958, 206 P 290 (1922). In the present case the means were not repugnant and there was evidence in support of each of the alternatives alleged. There is no merit to this assignment.
+Defendant contends in his second assignment that there was no evidence introduced of the corporate status of Howard Cooper Corporation, the owner of the loader. Assuming such evidence was required, the requirement was satisfied. A pleading was introduced from a contemporaneous civil proceeding which included a judicial admission by this defendant that Howard Cooper Corporation was an Oregon corporation. This assignment likewise is meritless.
+Defendant’s third assignment of error is the court’s refusal to exclude witnesses upon defendant’s motion which was made and denied prior to the selection of the jury. The motion was not renewed at the time of the taking of testimony.
+OES 45.510 provides:
+“If either party requires it, the judge may exclude from the courtroom any witness of the adverse party not at the time under examination, so that he may not hear the testimony of other witnesses.”
+In State v. Bishop, 7 Or App 558, 492 P2d 509 (1972), we construed this statute to require the exclusion of witnesses upon proper motion, absent a showing of good cause for not excluding them.
+Since the purpose of the above statute is “* * * so that * * * [they] may not hear the testimony of other witnesses,” there obviously is no reason to exclude them during the selection of the jury, or at any time prior to the calling of witnesses to give testimony. In this case, where the motion was made before the selection of the jury, it is not clear from the judge’s ruling whether he was denying the motion because it was made prematurely or whether he believed he was acting within his judicial discretion. This being a criminal case we resolve that issue in favor of defendant and hold that the court intended the ruling to be a denial of the motion to exclude witnesses, whether it was made at the proper time or not. This was error.
+The remaining question, then, is whether defendant was prejudiced by the court’s denial of his motion. The state called 11 witnesses and the defendant five, including the defendant. Many of the state’s witnesses testified about the above-described events at defendant’s house when officers attempted to repossess the loader. Thus, their testimony was corroborative and cumulative, which would ordinarily be a sufficient showing of prejudice under Bishop. However, in this ease the defendant also testified about the same events at his house, and his testimony did not substantially differ from that of the state’s witnesses. Defendant, in his own testimony, admitted he refused to allow the skidder and other equipment to be picked up, admitted dismantling the machine by removing the motor, transmission and winch, and that they were “stored like * * * on counsel’s advice * * *” in his home in his garage. He also admitted that he had placed the rest of the skidder on the back of his property 14 to V2 mile behind his house because “they had been stealing a bunch of parts and stuff when I had it sitting out there close to the house * * He also admitted that he drove the D-7 Caterpillar over one corner of the pile of materials, scrap iron and useable parts which he had piled there with the canopy from the skidder. His wife testified about defendant’s driving over the pile of materials as follows:
+“Q Now, what happened with your husband and this cat and the pile of the materials that were there?
+“A Well, I didn’t see him go over it so many times as everyone else, I guess. I saw him back over the one corner of a pile of scrap iron there, because it’s right off the side of my rose bushes.”
+The rule, as stated in Bishop, is this: When a trial court has erroneously denied a motion to exclude witnesses we must assume prejudice unless the record affirmatively reflects the contrary. In the present case since defendant’s version of the facts basically agreed with the version of the state’s witnesses, we hold that the record affirmatively reflects there was no prejudice to defendant from the court’s erroneous ruling.
+Affirmed.
+ORS 165.010 provided:
+“(1) Any bailee, with or without hire, including every mortgagor of personal property having possession of property mortgaged, or any purchaser or lessee of personal property obtaining the possession thereof under a written or printed contract of conditional sale providing that title thereto shall not vest in the purchaser until the unpaid balance of the purchase price is wholly paid for, and before it is wholly paid for, who embezzles or wrongfully converts to his own use, or secretes or conceals with intent to convert to his own use, or injures, destroys * * * any * * * property of another delivered or intrusted to his care, control or use * * * shall be deemed guilty of larceny and shall be punished as provided in ORS 164.310.
+«* * * *
