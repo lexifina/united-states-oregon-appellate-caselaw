@@ -1,0 +1,40 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1972-03-09"
+citations: ["8 Or. App. 395", "494 P.2d 455"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Foley, Judges."]
+parties: ["ETCHISON, Respondent, v. STATE ACCIDENT INSURANCE FUND, Appellant."]
+source_url: "https://static.case.law/or-app/8/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2132526
+cites_cases: ["209 Or 66", "260 Or 564", "5 Or App 592"]
+---
+
+# Etchison v. State Accident Insurance Fund
+
+## Majority (SCHWAB, C. J.)
+
+SCHWAB, C. J.
+This is an appeal by the State Accident Insurance Fund from an order of the circuit court, reversing the Workmen’s Compensation Board and hearing officer, and directing the Fund to accept claimant’s claim for compensation. Two questions are presented:
+(1) Did the claimant suffer an injury at the time and place he alleges he did?
+(2) If so, did the injury arise “out of and in the course of employment”? QRS 656.002 (6).
+Claimant was originally employed by the employer in August of 1969 as a jewelry repairman. Claimant used a variety of tools in his work, most of which he provided. The tools he provided included a work bench which was brought on the premises at the time of his initial employment. After a time the use of the bench became unnecessary and it was moved into storage on the employer’s premises. Some significant time thereafter, claimant moved his residence and decided to move the work bench from the employer’s premises to his own home.
+On a Saturday morning, probably January 31, 1970, he brought his son to the place where he worked and they proceeded to move the bench down from the third floor of the premises where it was stored preparatory to taking it home. There is some dispute in the testimony as to whether claimant performed any work for his employer on that Saturday, but as we view the matter, this issue is immaterial. In any event, claimant contends that in the course of this activity he injured his back and this is the injury for which he seeks compensation.
+We first turn to the question of whether the moving of the bench on the day in question was in the scope of claimant’s employment. We hold that it was.
+The work bench in question was part of the tools of trade utilized by claimant in his employment, and its original use was for the benefit of the employer as were the other tools brought to the place of employment.
+No positive formula determines with certainty every circumstance in which an aeeident may be considered to have arisen out of and in the course of employment.
+“Courts have repeatedly cautioned that the reading of other decisions is normally of little assistance when this issue is presented and that each case must be decided on its own particular facts. Some guides, however, have been set forth. It, of course, is true that the words ‘arising out of and in the course of his employment’ should be given a broad and liberal interpretation so as to effectuate better the statute’s policy of evenly distributing the costs of injuries to workmen.” Ramseth v. Maycock, 209 Or 66, 70-71, 304 P2d 415 (1956).
+Among the factors considered are whether the activity was for the benefit of the employer and whether it was contemplated by the employer and employe either at the time of hiring or later. Ramseth v. Maycock, supra. If a workman is required to furnish his own tools at his place of employment it is for the benefit of his employer. If he were injured while moving such tools onto the premises of employment there would be little question about the compensability of the injury. The same would follow if immediately upon the tools’ becoming no longer necessary he commenced to remove them and was injured. It is difficult to discern a rational basis for excluding coverage by reason of removal of the tools at a subsequent time, particularly when the incident which gave rise to a claim for compensation arose on the employer’s premises and while claimant was still employed by the employer. It was contemplated by both employer and employe that the terms of employment included having the employe bring necessary tools upon the premises. It follows that it was at least impliedly contemplated by both that when such tools were no longer necessary they subsequently would be removed by the employe.
+For the foregoing reasons we find that the trial judge ruled correctly on this issue.
+We are still faced with the problem as to whether or not claimant suffered an injury while moving the bench. Both issues were before the hearing officer. At the outset of the hearing, counsel for the Fund stated to the hearing officer:
+* * We deny that an injury occurred, first of all; and, secondly, that if that issue is held against us, that if an injury, in fact, is found to have occurred, it did not occur during the course and scope of employment.”
+The hearing officer at the conclusion of the hearing made no finding on whether an injury occurred. He found only, “* * * that claimant was not acting in the course of his employment at the time of the alleged injury and that the alleged injury did not arise out of the employment * * (Emphasis supplied.) The record discloses that the claimant had a previous history of back trouble and that on the day of the activity in question he did not mention being injured to his employer, although the employer was present.
+The Workmen’s Compensation Board affirmed the hearing officer, stating, “* * * if the claimant’s problems did arise from an incident in moving the bench, it was not an accident arising in the course of employment * *
+The trial judge, after reviewing the record de novo, in addition to finding that the moving of the bench was within the scope of claimant’s employment, found that in so doing claimant injured his back and ordered the case remanded to the Workmen’s Compensation Board “* * * for entry of an order in conformity to this opinion and that Claimant be entitled to such compensation as may be determined on the basis of the extent of his injuries by virtue of his industrial accident.”
+The facts of this case are such that the credibility of witnesses is a material factor in the determination of whether or not an injury occurred and if so, the nature and extent of the injury. Although we are the fourth trier of fact, only the hearing officer had the advantage of seeing and hearing the witnesses, and particularly, of seeing and hearing the claimant. The opinion of the hearing officer, although not binding, should be given considerable weight on matters involving the credibility of witnesses who have testified before him. Bailey v. Morrison-Knudsen Co., 5 Or App 592, 485 P2d 1254 (1971), and cases cited therein. Neither we nor the trial judge have had the benefit of a finding by the hearing officer on that issue. ORS 656.298(6) gives the circuit court the power to remand a case to the hearing officer * * for further evidence taldng, correction or other necessary action.” (Emphasis supplied.)
+ORS 656.301 gives this court the same scope of review. Sahnow v. Fireman’s Fund Ins. Co., 260 Or 564, 491 P2d 997 (1971). In a case such as this we do not feel it proper for a court to make a finding of fact on a material issue without having the benefit of an opinion as to credibility from the hearing officer. The only way this can be acquired is by remanding the case to the hearing officer for a finding on the issue of injury.
+Affirmed in part; remanded in part for further proceedings in accordance with this opinion.
+A good practice in situations such as this would be for the hearing officer to make a finding on issues of fact which might become relevant if in a subsequent hearing de novo the reviewing entity determined that the case turns on an issue different from the one the hearing officer found controlling. In this case a finding by the hearing officer on the question of injury would have avoided the necessity of remand.
