@@ -1,0 +1,60 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1973-05-31"
+citations: ["14 Or. App. 8", "510 P.2d 583"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Thornton, Judges."]
+parties: ["BUELL CHAPEL, INC., Petitioner, v. MORGAN, Respondent."]
+source_url: "https://static.case.law/or-app/14/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2112875
+cites_cases: ["11 NW2d 296", "11 Or App 79", "17 Ohio Misc 113", "180 P2d 11", "185 NE2d 231", "212 Pa Super 562", "212 Pa Super 564", "235 NE2d 871", "240 Or 354", "244 A2d 782", "244 A2d 795", "244 NE2d 531", "247 Or 204", "25 Ill2d 482", "30 Cal2d 34", "306 Mich 704", "332 Mich 460", "379 Ill 524", "387 P2d 641", "389 Ill 334", "42 NE2d 78", "51 NW2d 906", "59 NE2d 681", "94 Ill App2d 96"]
+---
+
+# Buell Chapel, Inc. v. Morgan
+
+## Majority (THORNTON, J.)
+
+THORNTON, J.
+Petitioner, a mortuary operator in Springfield, seeks judicial review pursuant to ORS 657.684 of a decision of an Employment Division referee holding that petitioner was liable for unemployment taxes on account of services performed by certain “soloists,” “organists,” “marker setters,” “sextons” and “snow shovelers.”
+The evidence at the hearing was that petitioner, as an accommodation to bereaved families, maintains an informal list of prospective soloists and organists available on request for funeral services at its mortuary. If the family has a preference for a particular soloist or organist and wishes petitioner to contact the person or persons to perform this service, petitioner does so. If the family has no preference but desires a soloist and organist, petitioner contacts an individual on its list. If the family desires certain selections sung or played, that wish is complied with by the singer or the organist. Petitioner furnishes the organ. The singer or the organist furnishes the sheet music.
+The soloists and organists do not perform exclusively for petitioner. They are otherwise employed in other types of work and take time from their regular employment to perform for the funeral home. They also perform for other functions apart from, funerals as their talent and time permit. While rendering these services for the petitioner, they do not receive compensation from their regular full-time employer. Immediately after the funeral service petitioner pays the performers, having specified these fees in the contract for services to be rendered to the family of the deceased under the heading “cash advance for convenience of the family.” The president of petitioner testified that occasionally the family of the deceased fails to reimburse petitioner for some of the services furnished, such as those of the soloists and organists, but that petitioner has never asked any soloist, organist, etc., to return the fee previously paid by the mortuary.
+The marker setters and sextons are also regularly employed and work only occasionally for petitioner, who pays them for whatever work they do' in connection with the location of the grave, the setting of the marker and mileage to the grave. Their services are.not limited to work for the petitioner. ' •
+The snow shovelers were employed on only one occasion. This was during the winter of 1969 when the city of Springfield had an unusually heavy snowfall. They offered their services to clean the walks and drives and were compensated therefor. They did not do other work for petitioner.
+Petitioner contends that the snow shovelers constituted “casual labor” and for this reason were not carried on the payroll records as regular employes. Deductions made for regular employes of petitioner were not made for these temporary workers.
+The record indicates that no special account was set up to handle the compensation paid to soloists, organists, marker setters, sextons and snow shovelers.
+None of the above individuals maintained a separate business telephone listing, advertised his or her services, employed anyone to assist him, or had any significant risk capital invested in his operation.
+At the outset of the hearing the referee granted respondent’s motion to eliminate all ministers assisting in funeral services from the list of persons named on the Notice of Deficiency Assessment.
+Petitioner contends that the referee erred
+(1) in holding as a matter of law that “soloists,” “organists,” “marker setters” and “sextons” are not within the exemption from assessment found in OES 657.040 (1) and (2) (a); and
+(2) in holding as a matter of law that “snow shovelers” are not exempt under OES 657.050 as “casual labor.”
+OES 657.040 provides as follows:
+“Services performed by an individual for remuneration are deemed to be employment subject to this chapter unless and until it is shown to the satisfaction of the administrator that:
+“ (1) Such individual has been and will continue to be free from control or direction over the performance of such services, both under Ms contract of service and in fact; and
+“(2) (a) Such individual customarily is engaged in an independently established business of the same nature as that involved in the contract of service; or
+“(b) Such individual holds himself out as a contractor and employs one or more individuals to assist in the actual performance of services and who meets the following criteria shall be deemed to have an independently established business:
+“(A) The individual customarily has two or more effective contracts.
+“(B) The individual as a normal business practice utilizes separate telephone service, business cards and engages in such commercial advertising as is customary in operating similar businesses.
+“(C) The individual is recognized by the Department of Revenue as an employer.
+“(D) The individual furnishes substantially all of the equipment, tools and supplies necessary in carrying out his contractual obligations to Ms clients.”
+There is no dispute as to the facts in the case at bar.
+If the facts are not disputed, the question of whether or not a person is an employe within the meaning of ORS 657.040 is one of law. Baker v. Cameron, 240 Or 354, 359-60, 401 P2d 691 (1965).
+The test of whether one person is in the employment of another within the meaning of an unemployment insurance act must be determined by that act rather than by common-law rules as to the relation of master and servant, or independent contractor rules as applied to the Workmen’s Compensation Law, or as applied to other statutes defining that relationship. Messenger Co. v. Unemployment Comn., 306 Mich 704, 11 NW2d 296 (1943). See also, Kirkpatrick v. Peet, 247 Or 204, 212, 428 P2d 405 (1967).
+Petitioner relies on a series of Oregon unemployment tax cases beginning with Baker v. Cameron, supra, and concluding with Michelet v. Morgan, 11 Or App 79, 501 P2d 984 (1972). Michelet involved typists who transcribed testimony for court reporters. The petitioner in Michelet was a firm engaged in freelance court reporting, deposition taking and related work. It employed a number of court reporters. At issue was the status of typists who transcribed testimony for the court reporters. The typists were at liberty to determine their own hours, were only responsible to petitioner for completed transcripts, did work for others, supplied their own equipment and incidental supplies, except paper, and set aside areas in their homes for their work, were “free from control or direction” of petitioner and were “customarily engaged” in their own independent business.
+We held that the subject typists were not petitioner’s employes for unemployment tax contribution purposes.
+Squarely in point as to soloists and organists is Yurs v. Director of Labor, 94 Ill App2d 96, 235 NE2d 871 (1968), where the court held that a mortuary operator was liable for employment taxes on account of services performed by an organist who played at funerals held at petitioner’s mortuary. In reaching its decision the court concluded (1) that the organist was not so free from the control of the mortuary as to preclude a determination of employment, (2) that she was not engaged in an independently established business, and (3) the fact that she also performed for others and would not be unemployed if petitioner did not call her was not relevant to the issue since “* * * [t]he Act does not predicate * * * a definition of ‘employment’ contingent on a part-time employees’ [sic] rights to benefits.”
+The mere fact that personal services are rendered for a short period on intermittent occasions does not establish that the compensation for the services is exempt from employment insurance assessment. Cases which support the holding that personal services of a temporary or short duration are not within the exemption are: Isenberg v. California Emp. Stab. Com., 30 Cal2d 34, 180 P2d 11 (1947) (jockeys, though they ride for different owners); Photographic Illus., Inc. v. Murphy, 389 Ill 334, 59 NE2d 681 (1945), and Miller, Inc. v. Murphy, 379 Ill 524, 42 NE2d 78 (1942) (photographer’s models); Spahn v. Dept. of Labor, 25 Ill2d 482, 185 NE2d 231 (1962) (dance and music instructors); Nordman v. Calhoun, 332 Mich 460, 51 NW2d 906 (1952), and American Exch. Bank v. Oklahoma Employ. Sec. Com’n, 387 P2d 641 (Okla 1963) (part-time janitors); Silverman v. Dudley, 17 Ohio Misc 113, 244 NE2d 531 (1967) (part-time secretaries); Com., Dept. of L. & I. v. Great Lakes TV Co., 212 Pa Super 564, 244 A2d 795 (1968) (television weather girls and other talent); Com., Dept. of L. & I. v. B.-L.-Hamilton Corp., 212 Pa Super 562, 244 A2d 782 (1968) (retired engineer who performed special services for company for set fee).
+We conclude that the referee properly found that the petitioner had not established that the sums paid the soloists, organists, marker setters and sextons were within the exemptions from assessment contained in ORS 657.040.
+Michelet is distinguishable since there the typists worked in their own homes, were at liberty to determine their own hours, and were “free from control or direction” of petitioner. They were, in fact, akin to pieceworkers engaged in an independently established business.
+As to the “snow shovelers” while their services were of a temporary or short duration, as we have already noted above, this does not operate to exempt them from coverage. Nor do they come within the provision of ORS 657.050 (2) as “casual labor,” since the work which they performed was work done “in the course of the employer’s * * * business” and operated to “promote or advance the * * * business of the employer.”
+While it is true that heavy snowstorms are rare occurrences in the Springfield area, this is not the test. In order to come within the casual labor exclusion the work done must be not in the course of the employer’s business and must not promote or advance the employer’s business.
+The removal of snow from the roof of the mortuary and the surrounding sidewalks and parldng area was as much in the course of, and advanced the business of, petitioner as the services of petitioner’s yard maintenance man, janitor, cleaning woman, as well as its soloists, organists, marker setters and sextons.
+The referee properly found that petitioner had not established that the sums paid the snow shovelers were within the exclusion contained in ORS 657.050 (2).
+While there may be merit to the argument that to require the maintenance of payroll records and payment of unemployment tax for such brief services as are involved here places an unjustified burden on the employer, the decision to grant relief therefrom is one for the legislative rather than the judicial branch of government.
+Affirmed.
+ORS 657.050 (2) provides:
+“ ‘Employment’ does not include:
+$ $ $ $
+“(2) Casual labor not in the course of the employer’s trade or business or any labor which does not promote or advance the trade or business of the employer. Temporary labor in the usual course of an employer’s trade or business shall not be deemed to be casual labor.”
