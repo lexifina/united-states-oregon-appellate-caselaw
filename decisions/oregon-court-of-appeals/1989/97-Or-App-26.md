@@ -1,0 +1,38 @@
+---
+court: "Oregon Court of Appeals"
+docket: "8707-82037; CA A47626"
+decided: "1989-06-14"
+citations: ["97 Or. App. 26", "775 P.2d 325"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Joseph, Chief Judge, and Graber and Riggs, Judges.", "JOSEPH, C. J."]
+parties: ["In the Matter of Henson, Derrick, a Child. STATE ex rel JUVENILE DEPARTMENT OF MULTNOMAH COUNTY, Respondent, v. HENSON, Appellant."]
+source_url: "https://static.case.law/or-app/97/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4410759
+cites_cases: ["387 US 1", "96 Or App 365"]
+---
+
+# State ex rel. Juvenile Department v. Henson
+
+## Majority (JOSEPH, C. J.)
+
+JOSEPH, C. J.
+1. The child appeals from a judgment that found that he was within the jurisdiction of the juvenile court because he had committed acts that, if he were an adult, would constitute sexual abuse in the first degree. ORS 419.476(1)(a); ORS 163.425. He argues that the court violated his due process rights under the Fourteenth Amendment when it permitted the state to amend the petition at the close of the hearing. Before the amendment, the petition alleged that the child had forcibly compelled the victims to engage in the acts; after the amendment, it alleged only that the victims were younger than twelve. We reverse.
+2. The child and the victims are cousins; the acts allegedly took place while they were all living with their grandmother. The original petition charged the child with two counts of menacing one of the victims by threatening to kill him with a knife, four counts of sexual abuse by forcibly compelling two victims to have sexual contact with him or by his having sexual contact with them and one count of attempted rape in the first degree by attempting by forcible compulsion to have sexual intercourse with one of the victims. The petition did not mention the age of the victims.
+Both victims testified at the hearing, as did their grandmother. The child’s cross-examination focused on the allegations that he had threatened the victims in order to force them to comply with his demands; he did not attempt to show that the contacts did not occur. At the end of the state’s case, the court granted his motion to dismiss the menacing and attempted rape counts on the ground that there was insufficient evidence of force. In discussing the sexual abuse counts after both sides had rested, the court pointed out that, although both victims had testified that they were afraid, neither stated that the child had done anything to put them in fear. The court then continued:
+“I have to say that I am really surprised that this was not pled differently because Sexual Abuse in the First Degree, Subsection B, Subsection (a), states that if a person subjects another person to sexual contact and the victim is less than 12 years of age, that’s Sexual Abuse in the First Degree; and the State does not have to prove forcible compulsion.
+“* * * [H]ad it been pled that way, there wouldn’t be any problems at all * * *.”
+The prosecutor immediately movéd to amend the petition to charge that the victims were younger than twelve. The court granted the motion over the child’s protest that doing so would violate his due process right to notice of the charges against him. The court then found him to be within its jurisdiction on the basis of the proven sexual abuse allegations in the amended petition.
+ORS 419.500(1) provides, in pertinent part:
+“The court, on motion of an interested party or on its own motion, may at any time direct that the petition be amended. If the amendment results in a substantial departure from the facts originally alleged, the court shall grant such continuance as the interests of justice may require.”
+The court must apply the statute, of course, within the limits of due process. In In re Gault, 387 US 1, 33, 87 S Ct 1428, 18 L Ed 2d 527 (1967), the United States Supreme Court held that
+“[n]otice, to comply with due process requirements, must be given sufficiently in advance of scheduled court proceedings so that reasonable opportunity to prepare will be afforded, and it must ‘set forth the alleged misconduct with particularity.’ ”
+In this case, the child received notice that he would have to defend against charges of forcibly compelling the victims to engage in sexual activity. The record shows conclusively that he prepared his defense in response to the specific charges. Had he known that he would have to defend against charges involving sexual contact with victims younger than twelve, his defense would necessarily have to have been different, because he would have had to dispute whether the alleged contacts had actually occurred. As he pointed out to the trial court, the substance of that defense would necessarily have changed the nature of his cross-examinations. When the court amended the petition, cross-examination had already happened, and a continuance could not have helped him. As a result of the amendment, the court was able to find, and actually found, that the child had committed acts with which he had had no pre-hearing notice of being charged and for which he had not prepared a defense. The child did not receive constitutionally required notice.
+We do not hold that the amendment of a petition at the close of a juvenile hearing is always a violation of due process. Issues may be tried by consent, for instance, and an amendment to conform to the evidence actually presented and the issues actually tried might be proper. The amendment that the court permitted in this case, however, changed the nature of the case and did not conform to any issue that the parties tried by express or implied consent. The child was found to have committed an offense with which he had not been charged before the evidence was heard and for which he did not consent to be tried. That has been improper since In re Gault, supra, at least.
+On de novo review, we agree with the trial court that the state did not prove the acts with which the child was originally charged. Because the only acts that the state did prove were not within the original petition and because the amendment of the petition violated the child’s rights, we find that the child is not within the jurisdiction of the court.
+Reversed.
+The court entered an order of disposition in which it found that the child had committed the acts charged in the amended petition; the order also continued the matter for final disposition. The court later issued a second order that placed the child on probation on various conditions. The child has appealed from the second order. The appeal was timely, if that was the appealable order. The state argues that the first order was appealable, in which case the appeal was not timely. We hold that the child properly appealed from the second order, because it was the final disposition of all the issues in the case. See State ex rel Juv. Dept. v. Gates, 96 Or App 365, 774 P2d 484 (1989).
+Although on appeal no one disputes that the victims were younger than twelve, there is evidence in the record only about one, who testified that she was eight at the time of the hearing. The other victim did not testify about his age; the prosecutor mentioned that he was ten when she qualified him as a witness, but that statement is not evidence. The child does not raise this point, and we need not consider it on our de novo review, in view of our disposition of the case.
+Before it amended the petition, the court offered the child a continuance. He declined the offer and insisted, instead, that amendment of the petition after the conclusion of the hearing violated his constitutional rights.
