@@ -1,0 +1,47 @@
+---
+court: "Oregon Court of Appeals"
+docket: "86-C-617288; CA A44111"
+decided: "1988-03-09"
+citations: ["90 Or. App. 68", "750 P.2d 1183"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Warden, Presiding Judge, and Warren and Van Hoomissen, Judges.", "WARDEN, P. J."]
+parties: ["BARBER, Appellant, v. UNITED STATES NATIONAL BANK OF OREGON, Respondent."]
+source_url: "https://static.case.law/or-app/90/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4401624
+cites_cases: ["10 Kan App 2d, 692", "12 BCL Rev 282", "191 NW2d 151", "237 Kan 442", "3 Or App 475", "34 Mich App 290", "375 F Supp 596", "425 F2d 81", "66 Or App 589", "71 Colum L Rev 302"]
+---
+
+# Barber v. United States National Bank
+
+## Majority (WARDEN, P. J.)
+
+WARDEN, P. J.
+Plaintiff seeks recovery of $7,300 from defendant, U.S. National Bank, for its alleged failure to adhere to reasonable commercial banking practices in processing and honoring a check for that amount drawn on plaintiffs account. The trial court granted summary judgment for defendant, ORCP 47C, and plaintiff appeals. We reverse.
+The material facts are not in dispute. Plaintiff signed one of her checks in blank and gave it to her housekeeper with instructions to complete it for payment of a $50.80 medical bill. The housekeeper instead made the check payable to the order of her husband in the sum of $7,300. Then, using one of his deposit slips, she deposited the check in his bank account at First Interstate Bank without his knowledge. The check was not indorsed by him or by anyone else on his behalf. First Interstate stamped the back of the check “Pay any bank — P.E.G.” and transmitted it to defendant for payment. Defendant paid First Interstate and debited plaintiffs account $7,300 without requiring further indorsement.
+The trial court granted defendant’s motion for summary judgment, concluding that “there is no material issue regarding defendant’s right to debit plaintiffs account for the amount of the check and to pay that amount over to the named payee.”
+Plaintiff contends that defendant failed to adhere to reasonable commercial banking practices by not requiring the necessary indorsements before honoring the check. Defendant argues that plaintiffs negligence in signing the blank check precludes her from asserting her claim against it and that, in any event, the check was “properly payable” under ORS 74.4010. We first address the issue of plaintiffs negligence.
+The UCC governs check collection practices. Under ORS 73.4060, a person whose negligence substantially contributes to the material alteration of a check is precluded from asserting improper payment of the check against a bank which paid the check “in good faith and in accordance with reasonable commercial standards of the banking industry.” Medford Irrigation Dist. v. Western Bank, 66 Or App 589, 591, 676 P2d 329 (1984). If it is determined that the bank did not act in accordance with those standards, “the defense of the customer’s negligence is not available, and the bank is strictly liable for improperly debiting the customer’s account.” Medford Irrigation Dist. v. Western Bank, supra, 66 Or App at 595. We therefore must first determine whether defendant improperly debited plaintiffs account for the amount of the check.
+ORS 74.4010(1) provides that a bank may charge a customer’s account for items that are “properly payable.” See Medford Irrigation Dist. v. Western Bank, supra, 66 Or App at 591. By implication, a bank may not charge a customer’s account for items that are not “properly payable.” See White and Summers, The Uniform Commercial Code, § 17-3 (2d ed 1980). Because ORS 74.4010 does not satisfactorily define the term, we look to other sections of the UCC to determine whether the check lacking the payee’s indorsement and bearing First Interstate’s “P.E.G.” stamp is “properly payable.”
+The UCC contemplates that checks must be properly indorsed to be negotiated. ORS 73.2010(3); ORS 73.2020; see State v. Leaton, 3 Or App 475, 478, 474 P2d 768 (1970); see also ORS 73.1160(2). Here, as noted, the check was not indorsed by the payee or anyone else. However, ORS 74.2050(1) authorizes a “depositary bank,” ORS 74.1050(1), here First Interstate, to supply a missing indorsement by placing on the item “a statement * * * to the effect that the item was deposited by a customer or credited to the account of the customer * * *.” Defendant contends that First Interstate’s “P.E.G.” stamp is sufficient under that statute to supply the missing indorsement. That contention, however, cannot be reconciled with the language of the statute. To supply an indorsement necessary to the title of a check, a depositary bank, at least, must place a statement on the check that it was “deposited by” or “credited to the account of the customer.” ORS 74.2050(1). The “P.E.G.” stamp does not meet that requirement. It only guarantees any prior indorsements, and here there were no indorsements to which the guarantee might extend. The check therefore lacked the indorsements necessary to title. Defendant had the right under ORS 73.5050(1)(b) and ORS 73.2010(3) to require, without dishonoring the check, that the check be properly indorsed. Defendant has not shown that it followed reasonable commercial banking practices in honoring the unindorsed check.
+Defendant, citing ORS 73.2010(1), alternatively contends that it could properly pay the unindorsed check, because it was the transferee of a “holder” of the check, First Interstate. That contention lacks merit, because First Interstate never qualified as a holder. ORS 71.2010(2) defines holder as “a person who is in possession of * * * an instrument * * * issued or indorsed to the person or to the order of the person or to bearer or in blank.” The transferee of an order instrument becomes a holder only when the instrument is indorsed to him. ORS 73.2020(1); see State v. Leaton, supra. Because the check was not indorsed by the payee or by anyone on his behalf, First Interstate never became a holder, and defendant’s status as transferee of First Interstate is of no avail.
+For the reasons stated, defendant was not entitled to a summary judgment, and the trial court is reversed.
+Reversed and remanded.
+“P.E.G.” stands for “prior endorsements guaranteed.” In this opinion, we use the spelling “indorsement” as it appears in the Oregon version of the Uniform Commercial Code, ORS ch 71-79 (UCC). The copies of the check in the record and appended to the briefs are of such poor quality that the stamp print on the back of the check is indecipherable. However, the parties do not dispute what the stamp says.
+Plaintiff apparently concedes, as she must, that defendant could pay the check without liability if it was properly negotiated.
+ORS 73.2010(3) provides:
+“Unless otherwise agreed any transfer for value of an instrument not then payable to bearer gives the transferee the specifically enforceable right to have the unqualified indorsement of the transferor. Negotiation takes effect only when the indorsement is made and until that time there is no presumption that the transferee is the owner.”
+ORS 73.2020 provides, in relevant part:
+“(1) Negotiation is the transfer of an instrument in such form that the transferee becomes a holder. If the instrument is payable to order it is negotiated by delivery with any necessary indorsement * * *.
+“(2) An indorsement must be written by or on behalf of the holder and on the instrument or on a paper so firmly affixed thereto as to become a part thereof.”
+ORS 73.1160(2) provides, in part:
+“An instrument payable to the order of two or more persons:
+<<‡ * * * *
+“(2) If not in the alternative is payable to all of them and may be negotiated * * * only by all of them.”
+At least two courts have reached a contrary result. See Bowling Green, Inc. v. State Street Bank and Trust Co., 425 F2d 81 (1st Cir 1970); Nida v. Michael, 34 Mich App 290, 191 NW2d 151 (1971) (relying on Bowling Green, Inc. v. State Street Bank and Trust Co., supra). However, the critical commentary to those decisions has been adverse, on the basis that the courts did not follow the clear provisions of the statute. See, e.g., Hawkland, “Depositary Banks as Holders in Due Course,” 76 Commercial LJ 124 (1971); Note, “Bowling Green: The Bank as a Holder in Due Course,” 71 Colum L Rev 302 (1971); Note, “Commercial Banking — How Can a Bank Become a Holder and Give Value in Order to Attain Holder in Due Course Status? — Bowling Green, Inv. v. State Street Bank & Trust Co.,” 12 BCL Rev 282 (1970); see also United Overseas Bank v. Veneers, Inc., 375 F Supp 596 (D Md 1974); Chilson v. Capital Bank of Miami, Florida, 10 Kan App 2d, 692 P2d 406 (1984), aff’d 237 Kan 442, 701 P2d 903 (1985).
+ORS 73.5070(3) provides that “[r]eturn of an instrument for lack of proper indorsement is not dishonor.” If a check is dishonored, ORS 73.5070(1), the holder has “an immediate right of recourse against the drawers and indorsers.” ORS 73.5070(2)).
+ORS 73.2010(1) provides, in relevant part:
+“Transfer of an instrument vests in the transferee such rights as the transferor has therein * *
+Defendant cites cases from other jurisdictions that have held that an unindorsed check was properly payable. Those cases, however, are clearly distinguishable from this case on their facts and merit no discussion.
