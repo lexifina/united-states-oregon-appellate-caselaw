@@ -1,0 +1,35 @@
+---
+court: "Oregon Court of Appeals"
+docket: "87-CV-0212-WE; CA A50694"
+decided: "1990-05-30"
+citations: ["102 Or. App. 8", "793 P.2d 326"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Buttler, Presiding Judge, and Warren and Rossman, Judges.", "WARREN, J."]
+parties: ["MAZOROL, Appellant, v. COATS, Respondent."]
+source_url: "https://static.case.law/or-app/102/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2351050
+cites_cases: ["257 Or 1", "275 Or 97", "310 Or 393"]
+---
+
+# Mazorol v. Coats
+
+## Majority (WARREN, J.)
+
+WARREN, J.
+Plaintiff brought this action to recover for injuries sustained in an automobile accident with Steven Coats. On defendant’s motion, the trial court dismissed plaintiff’s action, because it concluded that plaintiff had failed to exhaust his remedies under his own uninsured motorist coverage, pursuant to ORS 734.640(1), before pursuing this action against defendant. Plaintiff appeals, and we reverse.
+Before this action, defendant’s insurer became insolvent, and the Oregon Insurance Guaranty Association (OIGA) assumed the insurer’s responsibilities pursuant to ORS 734.510 et seq. ORS 734.640(1) provides that any person who has a claim against a solvent insurer, which would also be a claim against an insolvent insurer, must first exhaust the remedies under the policy of the solvent insurer. Because a person insured by an insolvent insurer is deemed uninsured, ORS 742.504(2)(d)(A), plaintiff had an uninsured motorist claim against his own insurer, State Farm.
+Plaintiff arbitrated with State Farm, pursuant to his contract, and received $9,902 of his $100,000 coverage. He executed a release and trust agreement in full settlement of all claims under the State Farm policy. Plaintiff then continued this action he had earlier brought against defendant. The trial court granted defendant’s motion for summary judgment. It held that, because plaintiff had not exhausted his uninsured motorist coverage, he had not exhausted his remedies, as required by ORS 734.640(1). It also held that plaintiff was barred by collateral estoppel from relitigating the amount of his damages.
+Both parties treat this case as though OIGA had something to do with the action between plaintiff and defendant and that plaintiff had to exhaust his remedies against his own insurer before pursuing his action against defendant. They are incorrect about both propositions. Reading ORS 734.640(1) in context with the OIGA scheme, the statute only requires that plaintiff attempt to collect under his uninsured motorist coverage before he attempts to collect damages from OIGA. ORS 734.640(1) has nothing to do with how or when a plaintiff may pursue his action against a tortfeasor to establish liability and the amount of his damages. The statute merely establishes the order in which plaintiff must attempt to collect his damages when OIGA has assumed the duties of an insolvent insurer and the injured person has uninsured motorist coverage. A tortfeasor’s status as an uninsured motorist due to insolvency of the insurer does not provide the tortfeasor (or OIGA as the substitute insurer) with a defense to a tort action to establish liability or damages.
+As a consequence of plaintiffs mistaken belief that he had to proceed first against his own uninsured motorist coverage, he arbitrated his damages and was awarded less than the $100,000 limits of his uninsured motorist coverage. Defendant argues that because the policy limits were not exhausted, plaintiff has not exhausted his remedies, as required by ORS 734.640(1). Again, defendant is mistaken. Whether or when plaintiff pursues his uninsured motorist claim has nothing to do with plaintiffs right to bring an action against defendant. The existence or nonexistence of insurance or the financial status of insurers, indeed the whole OIGA scheme, has nothing to do with how a plaintiff may proceed against a tortfeasor.
+Because we conclude that the exhaustion of remedies requirement does not provide defendant with a defense to the tort action, we need not address defendant’s other argument that plaintiff must exhaust the coverage under his uninsured motorist policy before he has exhausted his remedies.
+We turn next to defendant’s argument that, because plaintiff arbitrated his uninsured motorist claim and received an award of $9,902, he is collaterally estopped from relitigating the amount of his damages with defendant. Defendant argues that, if collateral estoppel applies, plaintiff may not recover from defendant, because his actual damages have been ascertained and he has already received that amount from State Farm.
+Collateral estoppel may be asserted by someone who is not a party to the prior proceeding when: (1) the issues are identical; (2) the party against whom it is asserted had a full and fair opportunity to litigate the issue in the earlier proceeding; and (3) its application is fair under all the circumstances. State Farm v. Century Home, 275 Or 97, 103, 550 P2d 1185 (1976); Bahler v. Fletcher, 257 Or 1, 474 P2d 329 (1970).
+We conclude that allowing defendant, who was not a party to the arbitration, to assert a collateral estoppel by the arbitrator’s award would not be fair. Applying collateral estoppel here would, in effect, deprive plaintiff of his right to have the issue of liability and the amount of damages decided by a jury. It would prevent plaintiff from pursuing an expedited claim on his uninsured motorist coverage without first engaging in fullblown litigation with the tortfeasor, contrary to the policy of encouraging expedited resolution of an uninsured motorist claim.
+Secondly, the uninsured motorist statutes themselves provide a clear indication that the legislature intended that uninsured motorist awards not preclude litigating the amount of damages with the tortfeasor. If an insured sues an uninsured tortfeasor before proceeding against his own insurer, that determination has no preclusive effect on the determination between the insured and the insured’s carrier. ORS 742.504(l)(b). If, however, the insured first proceeds against his own insurer, the insurer is entitled to any recovery that the insured may make from the tortfeasor “but only to the extent” of the insurer’s payment. ORS 742.504(11) (b), (c), (e); see also ORS 742.504(ll)(a). Those statutes indicate that the legislature contemplated that collateral estoppel would not bar a separate determination of damages and that an insured might recover more from the tortfeasor than he was able to obtain from the insurer.
+Reversed and remanded.
+Defendant Douglas S. Coats, Inc. was dismissed from the case by stipulation before judgment.
+ORS 734.640(1) provides:
+“Any person who has a claim under an insurance policy against an insurer other than an insolvent insurer which would also be a covered claim against any insolvent insurer must first exhaust the remedies under such policy.”
