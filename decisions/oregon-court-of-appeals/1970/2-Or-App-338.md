@@ -1,0 +1,47 @@
+---
+court: "Oregon Court of Appeals"
+docket: "Case Nos. 26274 and 26387"
+decided: "1970-04-23"
+citations: ["2 Or. App. 338", "468 P.2d 533"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Fort and Branchfield, Judges."]
+parties: ["STATE OF OREGON, Respondent, v. VINCENT LEWIS CAPITAN, Appellant."]
+source_url: "https://static.case.law/or-app/2/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2063825
+cites_cases: ["1 Or App 147", "1 Or App 217", "1 Or App 562", "1 Or App 612", "235 Or 524", "245 Or 232", "247 Or 629", "250 Or 485", "252 Or 617", "468 P2d 521"]
+---
+
+# State v. Capitan
+
+## Majority (SCHWAB, C. J.)
+
+SCHWAB, C. J.
+Defendant was tried before a jury, convicted of the crime of larceny in a building, and sentenced to imprisonment for a term not to exceed five years. Subsequently the sentence was vacated and defendant received an enhanced penalty for previous felony convictions. ORS 168.015 to 168.090. Defendant has appealed the conviction and the enhanced penalty. The appeals were consolidated on motion of defendant.
+The larceny took place in the Miller Electric Company, Inc., store in McMinnville. While the clerk of the. store was occupied talking with one Mendoza, defendant 'took a bank "deposit containing checks and cash in the amount of $24.58 from a desk, in the store. Defendant and Mendoza were jointly indicted for the larceny.
+Prior to the larceny trial in Yamhill County Mendoza was murdered. In the course of investigating this murder, Multnomah County deputy sheriffs and an investigator for the Multnomah County district attorney questioned a number of persons concerning defendant’s activities.• on the day of the larceny. Three of these persons, including two who had also testified before the Multnomah Coiinty gránd jury, testified at the larceny trial as alibi witnesses for defendant. Statements made to the Multnomah County investigators were used to impeach the testimony of two of the alibi witnesses. The testimony before the Multnomah County grand jury was not used at trial for any purpose.
+At trial defendant made alternative motions to suppress as evidence the statements made to the Multnomah County investigators and the testimony before the Multnomah County grand jury or to produce the statements and testimony for the defendant’s examination. He assigns as error the denial of these motions.
+The statements made to the investigators were clearly admissible for impeachment purposes. ORS 45.610. Defendant had no right to examine the out-of-court statements of defense witnesses. State v. McLean, 1 Or App 147, 459 P2d 559 (1969), aff’d 90 Adv Sh 1035, — Or —, 468 P2d 521 (1970). In respect to these statements, defendant’s alternative motions were properly denied.
+The testimony of the witnesses before the Multnomah County grand jury was not used at trial for any purpose. Therefore, in respect to that testimony the defendant was not prejudiced by the denial of his alternative motions. Thus it is unnecessary for us here, to discuss the circumstances under which testimony before a grand jury can be used for other purposes.,
+Some days after the larceny, when the police first made contact with him, defendant was asked to come to the station. At the station defendant was properly advised of, his constitutional rights. When asked if he understood his rights and if he wished to talk with the officers at that time, defendant replied that he did not think he would need a lawyer at that time and that it was a case of mistaken identity. He then talked further with the officer. Over defendant’s objection the statements made by him at this time were received into evidence. Contending that the record does not indicate an affirmative waiver of his constitutional rights, defendant assigns as error this ruling of the trial court:
+“ * * It is not always necessary to articulate a waiver. It may be shown by the manner in which the questions are asked, the responses that are made, the age, experience and intelligence of the person being questioned as well as all the other surrounding circumstances. Any clear and unambiguous conduct by a person who has been advised of his rights which indicates his willingness to answer questions without a lawyer is sufficient. [Citing cases] * * ” State v. Brammeier, 1 Or App 612, 464 P2d 717, Sup Ct review denied (1970), quoting from State v. Davidson, 252 Or 617, 621, 451 P2d 481 (1969).
+The statement by the defendant that he did not need a lawyer was sufficient under the circumstances to indicate a willingness to answer questions without a lawyer’s being present.
+At trial defendant requested a jury instruction taken directly from OES 136.520. He assigns as error the omission of a portion of the requested instruction. The court thoroughly instructed the jury in language substantially the same as that in the omitted portion of the requested instruction. It was not error to refuse to give the instruction as requested. State v. Robinson, 235 Or 524, 385 P2d 754 (1963).
+An erroneous reading of the facts is the foundation for defendant’s final assignment of error on the appeal of the conviction. Counsel for defendant conceded this in oral argument. Upon a true reading of the facts the assignment of error becomes meaningless and not worthy of further discussion.
+Subsequent to the conviction and sentencing the district attorney initiated the enhanced penalty proceedings by filing an information of previous convictions alleging defendant previously had been convicted of three felonies. At the hearing defendant challenged the constitutionality of the previous convictions. The trial court found that he had been duly convicted of two previous felonies. The sentence for the principal felony was vacated and defendant was sentenced to imprisonment not to exceed 20 years.
+On appeal defendant contends it was error for the trial court to find he had two previous felony convictions. He again challenges the previous convictions by raising a number of constitutional objections, including a denial of his right to counsel. The judicial records of the convictions and the testimony of the defendant show that on both occasions he was convicted upon a plea of guilty with advice of counsel.
+“The courts of this state will not entertain a factual inquiry into the pretrial conduct of a foreign prosecution when the record reveals a guilty plea made with the advice of counsel. Any meritorious questions about pretrial irregularities could and would have been disposed of if counsel was functioning at the time of the guilty plea.” Clark v. Gladden, 247 Or 629, 639, 432 P2d 182 (1967).
+Thus, the only question for the trial court’s consideration was whether defendant was adequately represented by counsel at the time of his plea of guilty. The judicial records indicating that he was represented by counsel are sufficient to sustain a finding of adequate representation. We are, therefore, bound by the trial court’s findings. Ball v. Gladden, 250 Or 485, 487, 443 P2d 621 (1968).
+For proof of the former convictions the state offered the judgment and commitment records, the fingerprint records of the subject of the convictions, and testimony that the fingerprints of the subject of the convictions were the defendant’s fingerprints. Defendant contends it was error for the trial court tp receive the judgment and commitment records of the previous convictions.
+ORS 168.080 reads as follows:
+“(1) The court shall consider as prima facie evidence of the former conviction alleged:
+“(a) A copy of the judicial record of that conviction which copy is authenticated under ORS 43.110 or 43.120;
+“(b) A copy of the fingerprints of the .subject of that conviction which copy is authenticated under ORS 43.330; and
+“(c) Testimony that the fingerprints of the subject of that conviction are those of the defendant.
+“(2) This section does not prohibit proof of former conviction by any other procedure.”
+Defendant’s contention is that the “judicial record” referred to in ORS 168.080(1) (a) is the entire judgment roll. It is unnecessary to determine whether defendant’s contention is correct. The statute was not intended to limit the method of proof. ORS 168.080(2) expressly permits proof by other procedures. Thus, even if defendant is correct in his interpretation of ORS 168.080(1) (a) the records offered were properly recéivéd as evidence under ORS 168.080(2).
+Defendant contends the lower court had no jurisdiction over enhanced penalty proceedings because his principal conviction was not a felony for purposes of enhanced penalty. Although it was within the discretion of the trial court to make the conviction a misdemeanor conviction by imposing a punishment other than imprisonment in the penitentiary, ORS 161.030(2) and 164.320, defendant was sentenced to imprisonment in the state penitentiary. The conviction was a felony for purposes of enhanced penalty. State v. Cheek, 245 Or 232, 421 P2d 685 (1966).
+For his final assignment of error defendant contends the trial court did not have jurisdiction over the enhanced penalty proceedings because he had appealed his principal conviction. This issue has been decided contra to defendant’s position. State v. Young, 1 Or App 562, 463 P2d 374 (1970) and State v. Romero, 1 Or App 217, 461 P2d 70 (1969).
+Affirmed.
