@@ -1,0 +1,38 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1972-01-28"
+citations: ["8 Or. App. 95", "493 P.2d 73"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Fort, Judges."]
+parties: ["JENNESS, Respondent, v. STATE ACCIDENT INSURANCE FUND, Appellant."]
+source_url: "https://static.case.law/or-app/8/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2132577
+cites_cases: ["259 Or 65", "4 Or App 178", "4 Or App 417", "479 P2d 1008", "5 Or App 592", "6 Or App 104"]
+---
+
+# Jenness v. State Accident Insurance Fund
+
+## Majority (LANGTRY, J.)
+
+LANGTRY, J.
+The sole issue in this workmen’s compensation appeal is the extent of claimant’s permanent disability resulting from a compensable injury received April 24, 1967.
+The claim was first closed on November 18, 1968. He was then awarded unscheduled permanent partial disability equal to 25 per cent loss of an arm by separation. The claim was subsequently reopened by stipulation and closed by a second order with no change on November 19,1969.
+The hearing officer found claimant to be permanently and totally disabled. The Workmen’s Compensation Board reversed and reduced the award to 25 per cent of maximum unscheduled disability. Claimant appealed to the circuit court. The court reversed the Workmen’s Compensation Board and reinstated the permanent total disability award. Employer appeals from this judgment. We review de novo on the entire record. Hannan v. Good, Samaritan Hosp., 4 Or App 178, 471 P2d 831, 476 P2d 931 (1970), Sup Ct review denied (1971).
+Claimant injured his back lifting a table while employed as a custodian at Oregon State University. He was 47 at the time. In June 1967 a laminectomy and discoidectomy were performed. Afterwards claimant still experienced low back pain.
+Since the occurrence of the injury claimant has not worked. His work history is limited to heavy sawmill, farm and custodial labor. He has completed part of the eighth grade and has no special training.
+The hearing officer found that the laminectomy resulted in improvement of function in the left leg, but that claimant had residual pain in the back of such severity he was unable to sit in one place for more than 30 or 40 minutes; that he had difficulty standing for more than 45 minutes; that in walking he had a sense of weakness in the left leg which “ ‘goes out from under him’ ” from time to time; that he had greater difficulty walking on rough surfaces than on even surfaces and also had difficulty in climbing.
+The medical record reflects a variety of opinions consistent with a finding of residual low back pain. Postoperative treatment included pelvic traction and a body cast, which were unsuccessful in relieving the pain. In June 1968, Dr. Chen Tsai, who performed the operation, opined that claimant had residual scarring within the subarachnoid space and about the nerve roots which created the persistent difficulty he was experiencing. A myelogram was performed in April of 1969. Dr. Raaf interpreted the results as showing arachnoid adhesions at L-4, 5. Dr. Short found residual fibrosis and instability in the lower back. The physicians agreed he could not return to heavy labor. Some thought he could perform light work. For this reason Dr. Bartell recommended claimant go to the vocational rehabilitation clinic for retraining.
+Dr. Hickman, clinical psychologist, said prognosis was poor. He thought claimant would find difficulty in making the adjustment necessary for return to full time work. In October 1969, Mr. Crawford, Rehabilitation Counselor, wrote claimant that his file was being closed because of the functional limitations imposed by his disabilities, in particular, his back pain. It had been suggested that claimant should enroll in a reading program at Linn-Benton Community College, but he never attended; he explained that he did not think he could sit down for the length of the class.
+In January 1970, Dr. Bartell summarized the above and gave his opinion regarding the extent of claimant’s disability.
+“I highly recommended that patient go to vocational rehabilitation center and be retrained for desk type work, however patient stated that he could not sit in classroom longer than one hour without having pains. So on November 21, 1969 I had a letter from the vocational rehabilitation center stating that his file was being closed because of unfavorable vocational prognosis. Patient was last seen last week, still having low back pain without any change in symptoms.
+“On this basis, I believe this patient has a permanent and total disability and will not be able to have any vocational rehabilitation, unfortunately. Because of the continuing pain the patient will probably need periodic heat treatments the rest of his life to live with this condition.”
+Dr. Short and Dr. Raaf were of the opinion claimant’s physical disability was of a lesser degree. The record also shows a number of statements attributing claimant’s complaints to functional overlay, hysteria, and anxiety tensions.
+Employer underscores the fact that only one physician opined claimant was permanently and totally disabled. That claimant may have been only partially disabled physically does not preclude a finding of permanent total disability. In Swanson v. Westport Lumber Co., 4 Or App 417, 420, 479 P2d 1005 (1971), we stated:
+“ * * total disability may be found in the case of workers who, while not altogether incapacitated for work, are so handicapped that they will not be employed regularly in any well-known branch of the labor market. * * *’ 2 Larson, Workmen’s Compensation Law 84, § 57.51 (1970).”
+This is the “odd lot” doctrine, upon which the hearing officer relied. Claimant, due to his education, age, and limited skills, falls within the “odd lot” category. Compare: Swanson v. Westport Lumber Co., supra, and Bailey v. Morrison-Knudsen Co., 5 Or App 592, 485 P2d 1254 (1971). The burden, therefore, was on the employer to show that some kind of suitable work is regularly and continuously available to claimant. Swanson v. Westport Lumber Co., supra, 4 Or App 417 at 423, 479 P2d 1008. It did not.
+In Wilson v. Gilchrist Timber Co., 6 Or App 104, 487 P2d 104 (1971), claimant exhibited a negative attitude and refused rehabilitation without explanation. Similarly, in Surratt v. Gunderson Bros., 259 Or 65, 485 P2d 410 (1971), claimant said an emotional problem prevented him from trying to return to work. The Supreme Court found it impossible to determine the genuineness of his claim of an emotional problem and denied permanent total disability. TJnlike those cases, claimant’s explanation here, that he was unable to participate in the rehabilitation suggested because he could not sit longer than 30 to 40 minutes, is supported by objective medical evidence. This does not manifest a noncooperative attitude, but a physical reality. Should his condition change, the provisions of ORS 656.325 (3) and 656.268 are available to the employer. Whether claimant was physically unable to participate in rehabilitation comes down to a question of credibility. The hearing officer, who personally observed claimant and heard his testimony, believed him and awarded permanent total disability.
+“In so far as the resolution of an issue turns upon the credibility of witnesses the court should give weight to the findings of the hearing officer who saw and heard those witnesses * * Hannan v. Good Samaritan Hosp., supra, 4 Or App at 192.
+Affirmed.
