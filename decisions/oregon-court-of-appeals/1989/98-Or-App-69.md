@@ -1,0 +1,38 @@
+---
+court: "Oregon Court of Appeals"
+docket: "A87-11-06741; CA A48055"
+decided: "1989-08-30"
+citations: ["98 Or. App. 69", "778 P.2d 500"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Richardson, Presiding Judge, and Newman and Deits, Judges.", "RICHARDSON, P. J."]
+parties: ["STATE ex rel YOUNG et al, Respondents, v. KEYS et al, Appellants."]
+source_url: "https://static.case.law/or-app/98/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4409407
+cites_cases: ["11 Or App 177", "254 Or 323", "291 Or 441", "293 Or 446", "297 Or 577"]
+---
+
+# State ex rel. Young v. Keys
+
+## Majority (RICHARDSON, P. J.)
+
+RICHARDSON, P. J.
+Defendants, the District Court of Multnomah County and a district court judge, appeal from the circuit court’s peremptory writ of mandamus
+“commanding that * * * they shall promptly discontinue using [a particular] pretrial release agreement and to refrain from requiring the trial of [relator] Young [on criminal charges] to go forward in her absence. Further, defendants shall discontinue ordering trials for any criminal defendants who have signed a waiver of personal appearance but who are not present for trial.”
+We conclude that mandamus is not appropriate, because “there is a plain, speedy and adequate remedy in the ordinary course of the law.” ORS 34.110.
+Relator Young was charged with several misdemeanors and was arraigned on them in Multnomah County District Court. Relator Metropolitan Public Defenders, Inc. (Metro), was appointed to defend her. Contrary to her counsel’s advice, she signed a pretrial release agreement that provided, inter alia:
+“2) I know I must make all of my court appearances and be on time. If I fail to make a court appearance I know that the court may;
+“(a) Issue a warrant for my arrest and/or
+“(b) Schedule my case for trial.
+“3) If I do not appear for my trial, I agree that my case may be tried without my presence in court. This means that my lawyer will probably not be able to effectively defend me and I may lose my right to call witnesses, confront the witnesses called to testify against me, and other valuable rights.”
+Young was released from custody, and trial was later set on a date certain before defendant district judge. Young did not appear for trial, but her appointed counsel did. Defendant district judge ordered that the trial proceed without her. Metro sought a writ of mandamus on Young’s and its own behalf, and the criminal trial was stayed pending resolution of the petition for the writ.
+The first claim for relief in the petition related to Young and alleged that defendant district court exceeded its authority and “committed clear abuse of discretion by coercing [Young] to surrender certain statutory and constitutional rights.” It also alleged that she had no plain, speedy or adequate remedy at law, because all of the rights she had listed in her petition would be “irretrievably waived,” should she be tried in absentia. The second claim for relief appears to allege that Metro will be harmed if counsel is required to proceed to trial without Young, because representation of her would involve breaches of ethical and professional duties of counsel. Metro alleges that it has no other adequate remedy at law.
+We first address whether Metro is a proper party to seek the relief sought in the second claim. It is clear that Metro appears as a putative party for the sole purpose of challenging the continued use of the release agreement by the district court. A relator must establish that the defendant has an official duty and that the relator has a corresponding right to performance of that duty. ORS 34.130 provides that a party who seeks mandamus must have a beneficial interest in the outcome. That interest must be more than just an interest in common with the public generally. Parks v. Tillamook Co. Comm./Spliid, 11 Or App 177, 501 P2d 85 (1972), rev den (1973). Metro’s interest regarding the release agreement is only as appointed counsel for a defendant in a criminal action who is required to sign the agreement in order to be released. Metro and its associated attorneys are not parties to the criminal action, and pretrial release decisions of the district court do not affect them. A decision ordered by a writ in a criminal proceeding may be beneficial to the defendant who is a client of Metro, but it can have no benefit to Metro.
+Metro pleaded and offered evidence that representing a defendant in a criminal case who is tried in absentia may compromise the ethical responsibilities of the individual attorney employed by Metro. The performance by an attorney in a criminal case is only relevant to whether the client receives mandated representation. The adequacy of the representation can result in no penalty of counsel in the criminal proceeding. The trial court in a criminal action, and the circuit court in a mandamus action, do not have authority to set standards of ethical conduct to which attorneys must adhere. See Brown v. Oregon State Bar, 293 Or 446, 648 P2d 1289 (1982). Prohibiting a criminal trial or a ruling for or against a defendant in the trial in order to extricate an attorney from a tactical or ethical dilemma is not an appropriate use of mandamus. Metro has no right to seek enforcement of the duty that it claims that the district court has. The second claim for relief should have been denied.
+The first claim for relief by Young asked the court to order defendant district judge not to proceed with a trial in her absence. There is little question that she has a beneficial interest in being present when she is prosecuted. The question is whether mandamus is appropriate to litigate and enforce that right. ORS 34.110 provides, in part, that
+“[t]he writ shall not be issued in any case where there is a plain, speedy and adequate remedy in the ordinary course of the law.”
+In most instances, the right to appeal from a criminal conviction is a speedy and adequate remedy, even for a purported violation of a constitutional right. State ex rel LeVasseur v. Merten, 297 Or 577, 686 P2d 366 (1984); State ex rel Maizels v. Juba, 254 Or 323, 460 P2d 850 (1969). The writ cannot be used as a substitute for appellate review of a conviction. Although the writ may be available in circumstances where an appeal cannot afford the remedy to which a relator may be entitled, see Sexson v. Merten, 291 Or 441, 631 P2d 1367 (1981), that circumstance is not involved here. Young contends that she has no remedy, because appellate courts will not address the propriety of a release decision on direct appeal from a resulting conviction. She argues that Sexson v. Merten, supra, allows mandamus for that purpose. In Sexson, the relator petitioned for mandamus to require the defendant, a circuit court judge, to remove certain conditions imposed on his release pending trial on a criminal charge. The right that the relator sought to enforce by the writ was pretrial release without onerous or unlawful conditions. An appeal from a subsequent conviction could not relieve him of unlawful pretrial release conditions.
+In this case, on the other hand, Young does not contest the release decision or any conditions of her release that burden her before trial. In the agreement, she promised to appear for trial. Only when she breached that agreement and did not appear did the issue arise whether she could nevertheless be tried. Whether she has waived her right to appear for trial can be adequately tested on appeal if she is convicted.
+Reversed and remanded with instructions to quash the writ of mandamus.
