@@ -1,0 +1,36 @@
+---
+court: "Oregon Court of Appeals"
+docket: "15-82-04168; CA A42024"
+decided: "1988-03-09"
+citations: ["90 Or. App. 1", "750 P.2d 1164"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Joseph, Chief Judge, and Newman and Deits, Judges.", "JOSEPH, C. J."]
+parties: ["In the Matter of the Marriage of McJUNKIN, Appellant, and McJUNKIN, Respondent."]
+source_url: "https://static.case.law/or-app/90/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4403482
+cites_cases: ["28 Or App 309", "294 Or 569", "300 Or 546", "303 Or 454", "46 Or App 533", "464 US 830", "51 Or App 707", "58 Or App 203", "60 Or App 546", "61 Or App 559", "75 Or App 536", "84 Or App 120"]
+---
+
+# In re the Marriage of McJunkin
+
+## Majority (JOSEPH, C. J.)
+
+JOSEPH, C. J.
+Father moved to change custody of his five-year-old daughter from mother to him. The trial court dismissed the motion on mother’s motion at the close of father’s evidence, pursuant to ORCP 54B(2). We affirm.
+Father contends that the trial court erred in dismissing the motion before all the evidence was heard. He argues that a dismissal under the rule should be sparingly granted and that dismissal is particularly inappropriate in cases involving child custody. Castro and Castro, 51 Or App 707, 626 P2d 950 (1981). We agree that dismissal based on findings before the opposition has put on a case should be granted only in clear cases. Greenwood Forest Products, Inc. v. Sapp, 84 Or App 120, 125 n 1, 733 P2d 110, rev den 303 Or 454 (1987); Federal Deposit Ins. Corp. v. Tempest Fugat, 75 Or App 536, 541, 707 P2d 81, rev den 300 Or 546 (1985). We have held that dismissal “with prejudice” may be appropriate in matters which are within the continuing jurisdiction of the court, State ex rel Conn v. Levine, 58 Or App 203, 647 P2d 985 (1982), which includes modification of child custody.
+This is an appropriate case in which to grant a Rule 54B(2) dismissal. Father had presented his entire case. The trial judge took mother’s motion to dismiss under advisement so that he could review the evidence and the law. Father had the burden of proving a substantial change of circumstances since the dissolution. He failed to do so. Under Rule 54B(2), a party is entitled to a dismissal only when the opposing party has failed to introduce credible evidence on the essential elements of the matter to be proved. Angus v. Joseph, 60 Or App 546, 550, 655 P2d 208, rev den 294 Or 569, cert den sub nom Woodruff v. Angus, 464 US 830 (1982); see Castro and Castro, supra, 51 Or App at 713. Having failed to offer sufficient evidence of a substantial change of circumstances, father was unable to have the court reach the issue of the best interests of the child. The trial court properly allowed the motion to dismiss.
+Father also contends that, even if dismissal with prej - udice could be appropriate, the court failed to make findings of fact and conclusions of law under ORCP 62, as required by ORCP 54B(2). We have held that written findings are necessary when a dispositive ruling is made on a motion. Greenwood v. Forest Products, Inc. v. Sapp, supra, 84 Or App at 125. There must be at least some written memorialization of the findings. See ORCP 62B; Joseph v. Cohen, 61 Or App 559, 563, 658 P2d 544 (1983). At the time of oral argument, there was nothing in the record to indicate that the court had made any findings of fact or conclusions of law. After wife moved to dismiss, the court took the motion under advisement and later issued a letter opinion, which set forth findings and the reasons for dismissal. It is sufficient under the rule that findings of fact and conclusions of law appear in an opinion. ORCP 62A. That the letter was not labeled “opinion” or “findings of fact” does not detract from its functional effect. The letter was adequate.
+The trial court awarded mother $5,000 as attorney fees. We have reviewed the record as it relates to the financial condition of the parties, and we conclude that the award was excessive. We reduce the award to $2,500.
+Father’s other assignments of error are without merit.'
+Judgment on dismissal of motion modified to reduce attorney fees awarded mother to $2,500; affirmed as modified. Costs to neither party.
+ORCP 54B(2) provides:
+“After the plaintiff in an action tried by the court without a jury has completed the presentation of plaintiffs evidence, the defendant, without waiving the right to offer evidence in the event the motion is not granted, may move for a judgment of dismissal on the ground that upon the facts and the law the plaintiff has shown no right to relief. The court as trier of the facts may then determine them and render judgment of dismissal against the plaintiff or may decline to render any judgment until the close of all the evidence. If the court renders judgment of dismissal with prejudice against the plaintiff, the court shall make findings as provided in Rule 62.”
+The trial court did not make an order or enter a judgment on mother’s motion to dismiss, but it did enter a judgment denying father’s motion to change custody. Neither party challenges the procedural regularity of that.
+In this case, as in Castro and Castro, infra, the party opposing a change of custody motion filed a motion to dismiss the action. Although it could well be argued that a motion to dismiss a motion is not within the scope of ORCP 54B(2), particularly in a matter reviewable de novo in this court, the argument was not raised in Castro and is not raised here.
+Father claims that his ability to care for his daughter has improved substantially, because he has remarried and his present wife stays home to take care of their child and because he no longer travels extensively. Father claims that there is a substantial improvement in his circumstances, even though he is heavily in debt and filed a bankruptcy petition during the pendency of this appeal. If anything, his financial circumstances seem to have worsened. Remarriage, by itself, is not sufficient to justify a change of custody. Padbury and Padbury, 46 Or App 533, 537, 612 P2d 321 (1980); Niedert and Niedert, 28 Or App 309, 315, 559 P2d 515, rev den (1977). Here, wife and her new husband are employed, and there was no evidence that her parenting abilities have worsened or that the child is not being cared for or that she is maladjusted. The record fails to support a substantial change of circumstances.
+ORCP 62A provides:
+“Whenever any party appearing in a civil action tried by the court so demands prior to the commencement of the trial, the court shall make special findings of fact, and shall state separately its conclusions of law thereon. In the absence of such a demand for special findings, the court may make either general or special findings. If an opinion or memorandum of decision is filed, it will be sufficient if the findings of fact or conclusions of law appear therein.”
+The letter was not in the trial court record when the case was heard on appeal, as it should have been. However, it has now been supplied to us. Under ORS 19.108, we supplement the record on our own motion to include the letter.
