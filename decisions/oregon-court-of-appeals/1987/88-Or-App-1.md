@@ -1,0 +1,35 @@
+---
+court: "Oregon Court of Appeals"
+docket: "WCB 84-06392; CA A39563"
+decided: "1987-10-21"
+citations: ["88 Or. App. 1", "744 P.2d 255"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Richardson, Presiding Judge, and Newman and Deits, Judges.", "RICHARDSON, P. J."]
+parties: ["In the Matter of the Compensation of Eugene F. Clark, Claimant. CLARK, Petitioner, v. ERDMAN MEAT PACKING et al, Respondents."]
+source_url: "https://static.case.law/or-app/88/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4399850
+cites_cases: ["22 Or App 9", "290 Or 343", "295 Or 298", "296 Or 238", "305 Or 102", "61 Or App 631", "624 P2d 565", "704 P2d 552", "74 Or App 365", "78 Or App 581"]
+---
+
+# Clark v. Erdman Meat Packing
+
+## Majority (RICHARDSON, P. J.)
+
+RICHARDSON, P. J.
+Claimant seeks review of an order of the Workers’ Compensation Board reversing the referee’s opinion and order and denying benefits for claimant’s back condition. The fundamental question is whether claimant’s employment activities at Erdman Meat Packing Company was the major contributing cause of his back condition. We find that it was not and affirm.
+Claimant sustained a nondisabling compensable lumbar strain while employed at Hatcher Construction Company in 1979. The injury produced sharp lower back pain approximately twice a month over a period of several years, but claimant never missed time from work due to the injury. Sometime in late 1981, claimant left Hatcher, and in January, 1982, he began work for Erdman. He occasionally performed heavy labor; however, he testified that his intermittent low back pain neither increased nor became more frequent as a result of the work. He once suffered a symptomatic episode off the job. He testified that he was driving to work when he experienced a sudden onset of severe low back pain that radiated down his right leg. That symptom was new. Despite that incident, he continued to work without any time loss. In May, 1982, he was laid off for reasons unrelated to the injury.
+A subsequent myelogram revealed a large bulging defect in claimant’s lumbar spine. His physician recommended surgery, and claimant filed an aggravation claim with Hatcher’s insurer, SAIF. He did not file a claim with Erdman. SAIF denied the claim, based in part on medical reports by Drs. Brooks and Pasquesi. The physicians suggested that claimant’s then existing condition was not likely to be the result of claimant’s original lumbar sprain, and Brooks said that the disk herniation most likely occurred in 1983. Shortly before the hearing on that denial, claimant slipped and fell while hunting and sustained further injury to his back.
+Claimant’s treating physician, Dr. Bert, testified by way of a deposition that claimant’s employment at Erdman independently contributed to the worsening of the disk condition. The referee affirmed SAIF’s denial, reasoning that Hatcher could no longer be responsible for claimant’s back condition under the last injurious exposure rule. See Boise Cascade Corp. v. Starbuck, 61 Or App 631, 659 P2d 424 (1983), aff’d 296 Or 238, 675 P2d 1044 (1984). That ruling was affirmed on judicial review. Clark v. SAIF, 74 Or App 365, 704 P2d 552 (1985).
+Two days after the referee’s order sustaining SAIF’s denial, claimant filed the present claim, alleging that his employment duties there had contributed to his lower back condition. The claim was denied. The referee found that claimant’s employment at Erdman independently contributed to his disability and that Fireman’s Fund was the responsible insurer.
+On appeal, the Board classified the claim as one for an “occupational disease” and ruled that claimant was required to demonstrate that working conditions at Erdman were the major contributing cause of his disk herniation. It concluded that the physician’s reports failed to meet his burden of proving the required causal link between his occupational disease and the working conditions. The Board upheld the denial.
+In James v. SAIF, 290 Or 343, 348, 624 P2d 565 (1981), the Supreme Court adopted our distinction between an injury and an occupational disease under the Workers’ Compensation Law:
+“We have not had occasion to distinguish between ‘injury’ and ‘disease.’ The Court of Appeals did so in O’Neal v. Sisters of Providence, 22 Or App 9, 537 P2d 580 (1975), and approved the statement made in IB Larson’s Workmen’s Compensation Law § 41.31: ‘ “* * * What set[s] occupational diseases apart from accidental injuries [is] both the fact that they can[not] honestly be said to be unexpected, since they [are] recognized as an inherent hazard of continued exposure to conditions of the particular employment, and the fact that they [are] gradual rather than sudden in onset. * * *” (Footnotes omitted.)’ 22 Or App at 16.”
+Claimant’s back condition developed over time and could not be viewed as wholly unexpected in view of his age, the heavy labor that he sometimes performed and his intermittent back pain. Although Bert traces claimant’s condition directly to his 1979 injury, both Brooks and Pasquesi conclude that it is unlikely that the disk herniation occurred then. Claimant has not pointed to any traumatic on-the-job occurrence which might have triggered the disk protrusion. We conclude that the Board’s characterization of the claim as one for an occupational disease is correct.
+A claimant must prove an occupational disease by a preponderance of the evidence. ORS 656.802(1) (a). The difficulty in this case is that both claimant’s on-the-job and off-the-job activities may have contributed to his back condition. Claimant testified that he regularly participated in rigorous off-the-job activities, including horseback riding, wood cutting and hunting.
+A claimant who suffers from a condition which is the result of both on-the-job and off-the-job causative agents must demonstrate that on-the-job factors were the major contributing cause of the condition. Dethlefs v. Hyster Co., 295 Or 298, 667 P2d 487 (1983); Robinson v. SAIF, 78 Or App 581, 717 P2d 1202 (1986). Each of the doctors offering opinions in this case concluded that claimant’s working conditions contributed to his herniated disk, however, none of them commented specifically on the degree of their contribution. Brooks merely indicated that it was possible that claimant’s work activities caused his condition. Pasquesi stated that all of claimant’s activities, both on and off the job, were probably factors in bringing about his disability. As already noted, Bert relates claimant’s condition directly to his 1979 injury, but we find that theory implausible in view of the opinions offered by Brooks and Pasquesi.
+On de novo review, we conclude that his condition is not compensable.
+Affirmed.
+No evidence has been offered by either party as to the effect that this incident may have had on claimant’s condition at the time when he filed his claim against Erdman.
