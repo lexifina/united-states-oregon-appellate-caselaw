@@ -1,0 +1,57 @@
+---
+court: "Oregon Court of Appeals"
+docket: "A7905-02381, CA A21889"
+decided: "1982-12-22"
+citations: ["61 Or. App. 1", "655 P.2d 613"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Richardson, Presiding Judge, Joseph, Chief Judge, and Van Hoomissen, Judge.", "JOSEPH, C. J."]
+parties: ["PACIFIC ERECTORS, INC., Appellant, v. WESTINGHOUSE ELECTRIC CORPORATION et al, Respondents."]
+source_url: "https://static.case.law/or-app/61/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2337329
+cites_cases: ["139 Or 539", "210 Or 324", "248 Or 436", "269 Or 596", "276 Or 1207", "49 Or App 195", "62 Or 219"]
+---
+
+# Pacific Erectors, Inc. v. Westinghouse Electric Corp.
+
+## Majority (JOSEPH, C. J.)
+
+JOSEPH, C. J.
+Pacific Erectors, Inc., (Pacific) brought an action against Hedral Industries, Inc., (Hedral) to recover sums allegedly due under written and oral construction contracts. It also sought to recover for other work done not under those contracts and to foreclose a construction lien for the amounts allegedly owing on property owned by Westinghouse Electric Corporation (Westinghouse). Defendants asserted several affirmative defenses, and Hedral also counterclaimed for damages for breach of contract and conversion of equipment. The trial court, at the close of plaintiffs case, dismissed the foreclosure count and, at the end of trial, found for plaintiff on some, but not all, of its claims. It found for Hedral on both its counterclaims and awarded Hedral attorney fees. Plaintiff appeals, challenging the dismissal of the foreclosure count, the denial of its motion to dismiss the breach of contract counterclaim and the finding for Hedral on that counterclaim.
+Westinghouse hired Baugh Construction Company (Baugh) as general contractor for the construction of a building for transformer and generator repair work. Baugh hired Hedral to furnish and erect the structural steel framework and to fabricate and install overhead cranes. Baugh also hired Building Structures, Inc., to furnish and install the sheetmetal roof and siding. Building Structures, in turn, subcontracted that work to Hedral. Hedral fabricated the structural steel and subcontracted to Pacific the erection of the structural steel framework and the installation of the sheetmetal. The agreement for that work was in two written contracts, one for the erection of the structural steel and the other for the sheetmetal installation. While that work was in progress, Hedral and Pacific entered into a separate oral agreement for installation of the overhead cranes, and Pacific did some other extra work.
+The two written agreements provided that Pacific was to perform the work at an hourly rate of $25.73 per hour, plus crane charges at cost. The total charges, however, were not to exceed $43,168 for the steel work and $34,848 for the sheetmetal work. The agreements also provided:
+“Partial payments will be made to Vendor each month in an amount equal to 95 percent of the value, computed on the basis of the price herein set forth, of the quantity of the work performed hereunder, less the aggregate of the previous payments, but such partial payments shall not become due and payable to Vendor until five (5) days after Contractor receives payment for such work from the Owner.”
+Hedral was entitled to terminate the contract “at any time with 12 hours notice.”
+Pacific began work on June 18, 1978. By August 29, it had billed Hedral for the maximum amount allowable under the written contracts but had not completed the work. In mid-September, both Baugh and Building Structures began pressing Hedral to complete the project, and Hedral in turn pressed Pacific to meet repeatedly delayed completion dates. There was evidence that Pacific often did not have enough men on the site to do the scheduled work and that the work done was defective. Pacific last worked on the project on October 26, 1978. On October 27, 1978, it wrote to Hedral:
+“We intend to fulfill our obligations according to our . contract, but this cannot be done until we have the rest of the material and most important our progress payments have to be made current at 5% retention as stated in our contract.”
+On October 30, 1978, Hedral terminated its contracts with Pacific. At that time, it had paid all but $15,077.23 of the maximum amount allowable under the written contracts and had not paid anything for the installation of the overhead cranes or for plaintiffs claimed “unscheduled extra work.” Hedral hired Action Steel, Inc., to complete the work and to cure defects in the building. Building Structures also did remedial work and back-charged Hedral. On January 19, 1979, plaintiff filed a construction lien for $15,077.23 claimed to be due under the written contracts and for $8,715.45 allegedly due under the crane agreement and for the extra work.
+After the trial court had dismissed the lien claim, it awarded Pacific damages totalling $19,817.45: $15,077.23 on its written contracts claim, $4,320 on the crane installation claim and $420.22 on the “unscheduled extra work” claim. The court also awarded Hedral $19,698.57 damages as the cost of completion on its beach of contract claim, $4,291.16 on its conversion claims and $7,000 in attorney fees.
+In its first assignment of error, Pacific argues that, because those claims for which it was awarded damages were also the basis of its foreclosure claim, the lien claim should have been allowed for the amount of damages ultimately awarded plaintiff and the lien foreclosed. We review lien matters de novo. ORS 88.010, 19.125(3).
+Defendants argue that Pacific abandoned the project and is not entitled to foreclosure. See, e.g., Pippy v. Winslow, 62 Or 219, 125 P 298 (1912). Although defendants stipulated that Pacific had worked sufficient hours to justify the billing, the contract provided that Pacific was not entitled to payment until five days after Hedral had received payment from Baugh. Baugh refused to pay Hedral, because the amount of work completed was disproportionate to the number of hours billed by Pacific. Thus, under the written contracts, Pacific had no right to refuse to proceed with the job on the basis that it had not been paid the full contract price. By materially breaching the written contracts, Pacific lost any right it might otherwise have had to foreclose a lien for the unpaid contract price. Devlin v. Milwaukie Covenant Church, 269 Or 596, 603-05, 525 P2d 998 (1974), 276 Or 1207, 1210, 557 P2d 647 (1976).
+The record is not clear that the terms and conditions for payment for the crane installation and the other work were the same as those under the written contracts. Nevertheless, assuming arguendo that plaintiff was entitled to be paid for that work at the time it was completed and that that work was substantially completed free of defects, because of our resolution of plaintiffs other claims of error the question whether the lien should have been foreclosed with respect to that work need not be decided, for the net recovery is in defendant’s favor.
+Pacific argues that the trial court erred in refusing to dismiss Hedral’s breach of contract claim, because Hedral put on no evidence of the reasonableness of the cost of completing the work and curing defects. Hedral did put on evidence that it was backcharged $5,327.82 by Building Structures and paid an additional $14,370.75 for completing the building to contract specifications. However, there was no testimony that those charges were reasonable. Pacific claims that reasonableness is an element of Hedral’s counterclaim. That might be true had Hedral sought recovery on a quantum meruit basis. However, it sought damages for breach of contract, and the measure of damages is the cost to repair or complete. See Turner v. Jackson, 139 Or 539, 560, 4 P2d 925, 11 P2d 1048 (1932); Corbin on Contracts § 1089 (1969).
+Pacific cites Restatement (Second) Contracts § 348(2) (1981), in support of its position:
+“If a breach results in defective or unfinished construction and the loss in value to the injured party is not proved with sufficient certainty, he may recover damages based on
+U* * * * *
+“(b) the reasonable cost of completing performance or of remedying the defects if that cost is not clearly disproportionate to the probable loss in value to him.”
+It reads that to place on the party seeking recovery the burden to prove the reasonableness of the cost of completion. However, comment c to that section states:
+“If he has actually had the work completed, damages will be based on his expenditures if he comes within the rule stated in § 350(2).”
+Section 350 states:
+“(1) Except as stated in Subsection (2), damages are not recoverable for loss that the injured party could have avoided without undue risk, burden or humiliation.
+“(2) The injured party is not precluded from recovery by the rule stated in Subsection (1) to the extent that he has made reasonable but unsuccessful efforts to avoid loss.”
+Section 350 deals with mitigation of damages. Sections 348(2) (b) and 350 together say that a party cannot recover the full amount actually expended in completing a project if it is shown that the project could and ought to have been completed for an amount less than that expended — that is, that the damages could have been mitigated. In the context of this case, Pacific’s claim that defendants put on no evidence as to the “reasonableness” of the cost of completion and repair is equivalent to saying that Hedral failed to show that its damages could not have been mitigated. The rule in Oregon with respect to mitigation of damages in a breach of contract case is that the breaching party has the burden to prove that mitigation was possible. Kuhn v. Coast-to-Coast Stores, 248 Or 436, 442, 432 P2d 1006 (1967); Enco, Inc. v. F. C. Russell, Co., 210 Or 324, 339, 311 P2d 737 (1957); Bixler v. First National Bank, 49 Or App 195, 203, 619 P2d 895 (1980). The burden was on Pacific to show that the amount of Hedral’s damages incurred was unreasonable.
+Pacific argues that some of the charges from Building Structures and Action Steel that became part of the judgment in defendants’ favor were for work unrelated to what it had agreed to do. However, the evidence came in without objection, and the argument now made was not made to the trial court. We will not consider it.
+Affirmed.
+It is not clear whether Building Structures also subcontracted the fabrication of the sheetmetal to Hedral.
+The trial court gave no reason for dismissing plaintiffs lien count:
+“Defendants’ counsel: And I would move to strike from Count VI which is the lien claim the amount of $8,715.45.
+“The Court: Yes, I am going to strike the lien. I will allow your motion as to Count VI.
+“Defendants’ counsel: For that portion?
+“The Court: Cross out your lien, isn’t that what you want?
+“Defendants’ counsel: Yes. Moving to dismiss the lien count.
+“The Court: I just did it.”
+The judgment in favor of Westinghouse awarded it no money, not even an attorney fee on the lien claim. Pacific does not challenge the award of attorney fees to Hedral, except insofar as it claims it should have won the whole case in the trial court.
+Baugh was paying Hedral on a percentage of completion basis.
+Pacific does not argue that the cost of completion was the incorrect measure of damages.
