@@ -2,7 +2,7 @@
 court: "Oregon Court of Appeals"
 docket: "34-143, CA 4191"
 decided: "1976-01-19"
-citations: ["24 Or. App. 73", "544 P.2d 1070", "24 Or. App. 233"]
+citations: ["24 Or. App. 73", "544 P.2d 1070"]
 reporter: "or-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["WASHINGTON COUNTY, Respondent, v. CLARK, Appellant."]
 source_url: "https://static.case.law/or-app/24/cases/0073-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2136821
-cites_cases: ["101 Or 172", "14 Or App 493", "142 Or 95", "145 Or 589", "157 Or 479", "224 Or 281", "226 Or 499", "24 Or App 233", "24 Or App 73", "242 Or 386", "244 Or 55", "261 Or 129", "31 Or 231", "45 Or. 385", "52 Or 602", "65 Am St R 818", "69 ALR 1336", "98 P 324"]
+cites_cases: ["101 Or 172", "14 Or App 493", "142 Or 95", "145 Or 589", "157 Or 479", "224 Or 281", "226 Or 499", "24 Or App 233", "242 Or 386", "244 Or 55", "261 Or 129", "31 Or 231", "45 Or. 385", "52 Or 602", "65 Am St R 818", "69 ALR 1336", "98 P 324"]
 ---
 
 # Washington County v. Clark
