@@ -1,0 +1,79 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1971-01-28"
+citations: ["4 Or. App. 425", "479 P.2d 1013"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Foley and Fort, Judges."]
+parties: ["STATE OF OREGON, Respondent, v. MAX DEVORE, Executor, Appellant."]
+source_url: "https://static.case.law/or-app/4/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2146513
+cites_cases: ["206 Or 678", "245 Or 530", "246 Or 206", "33 Or 225", "339 US 594", "5 Or 191", "69 Or 519", "70 S Ct 87"]
+---
+
+# State v. Devore
+
+## Majority (FORT, J.)
+
+FORT, J.
+Tressa Devore was a patient in the Eastern Oregon Hospital from October 8, 1951, until her death on March 21,1969. The defendant was duly appointed executor of her estate, and the state (plaintiff herein) timely filed a claim for her support. Defendant rejected the claim, and this action for its recovery was instituted. When the jury had heard all of the testimony and both sides had rested, each moved for a directed verdict. The court refused to grant either motion, found that the state “has not established a prima facie case,” and on its own motion directed the entry of a judgment of nonsuit without prejudice. The jury was dismissed.
+Defendant appeals, asserting the court erred in entering a judgment of nonsuit on its own motion, and further that his motion for a directed verdict should have been allowed. The plaintiff has cross-appealed on the ground that the court should have directed a verdict in its favor.
+It is not disputed that Mrs. Devore was a patient in the Eastern Oregon State Hospital throughout the period for which the state seeks reimbursement. Nor is there any conflict in the evidence introduced. The basic question presented by both appeals is whether or not the state made a prima facie case as to the amount due for all or any of the years Mrs. Devore was a patient. The defendant contends that it did neither, and the trial court so concluded. The state concedes it is not entitled to recover for the years prior to August 3, 1955, but contends that it is for the remainder.
+Throughout the period Mrs. Devore was at the hospital the law required payment by or on behalf of a patient for his care to the extent there was ability to pay. QRS 128.070, repealed; ORS 179.700, repealed, replaced by ORS 179.701. The 1955 legislature further created a liability on the estate of a deceased patient for all costs of care. Oregon Laws 1955, ch 597, p 731 (now OES 179.620 (3)). The Supreme Court in Board of Control v. Loprinzi, 246 Or 206, 424 P2d 889 (1967), traced the legislative history and held that the estate of a deceased patient was liable for the full cost of patient care even though during the lifetime of the patient her guardian had, pursuant to court order, entered into and fully performed a compromise settlement concerning annual reimbursement.
+It is conceded that during her lifetime Mrs. Devore’s guardian had made payments to the state annually for her support in accordance with the orders of the probate court. The state acknowledges these payments and in its motion for a directed verdict gave the executor credit therefor.
+At the time of Mrs. Devore’s death the law provided :
+OES 179.620 (3)
+“Upon the death of any person who is or has been a person at a state institution, Ms estate is liable for the total amount of the cost of care and maintenance of such person as computed under OES 179.701 and under the laws applicable to prior years, less the total amount of all payments previously received by the board for the cost of care and maintenance of such person at the state institution.”
+This section was adopted in 1955 (Oregon Laws 1955, ch 597, p 731) and remained in effect in substantially that form throughout the remainder of her life.
+In 1955, OES 428.070 (2) provided:
+“The cost of care and maintenance of-a mentally ill or mentally deficient person in a state institution shall he determined by the Board of Control in the following manner: The board shall, as of June 30 each year, add all the costs chargeable to the maintenance and operation of state institutions for the care of mentally ill and mentally deficient persons for the fiscal year ending on that day. In computing such total cost there shall be included all expenses of providing care for inmates of the institutions, and the expenses of upkeep, but not replacement cost, of the buildings and grounds used in connection with such institutions. The total cost shall be divided by the number 12, and the result, expressed in dollars and cents, shall be established as the cost per month of operating said institutions. This cost shall be divided by the ascertained average number of inmates per month eared for in said institutions, and the number of dollars of the quotient so determined, without regard to any odd cents, shall be monthly cost per inmate chargeable for the care and maintenance of each mentally ill or mentally deficient person in any such state institution for the ensuing year.”
+In 1959 the legislature repealed QRS 428.070 and in lieu thereof adopted ORS 179.700 (Oregon Laws 1959, ch 652, p 1372). So far as here relevant, that statute provided:
+“(2) * * * [T]he yearly operating cost of institutions for the care and maintenance of the mentally ill shall be determined by the board in the manner prescribed in this subsection and in subsection (7) of this section. The board shall, as of June 30 each year, compute all the costs chargeable to the maintenance and operation of the state institutions for the care of mentally ill for' the fiscal year ending on that day. In computing these costs there shall be included all net expenses of operating the institutions (excluding the cost of operating outpatient clinics).”
+ORS 179.700 (7) stated:
+“* * * [X] n computing the yearly operating cost of each institution, the expenses of upkeep of buildings and grounds shall be included, but the cost of additional or replacement buildings and grounds and equipment shall be excluded.”
+So far as here relevant, the statute was substantially unchanged until 1967. By Oregon Laws 1967, ch 549, § 1, the legislature repealed ORS 179.700, and, in lien of it, adopted ORS 179.701, which provided:
+“The reimbursement rates for care of persons in state institutions shall be determined by the board and shall be established so that the rates are reasonably related to current costs of the institutions. Current costs shall exclude costs not directly related to the cost of care of persons at state institutions and costs of operating educational programs and outpatient services at state institutions.”
+In the course of the trial the state introduced into evidence for the years 1960-1969 copies of the boinutes of the Board of Control setting forth in each of those years its determination of the per patient cost for care in the state mental hospitals.
+The state contends that this is sufficient to establish a prima facie ease. ORS 41.360 provides:
+“All presumptions other than conclusive presumptions are satisfactory, unless overcome. They are disputable presumptions, and may be controverted by other evidence, direct or indirect, but unless so overcome, the jury is bound to find according to the presumption. The following are of that kind:
+“(15) Official duty has been regularly performed. * # # # ??
+The defendant, on the other hand, contends that the state, in order to make a prima facie case, must not only establish that the Board of Control did in fact each year establish the cost of care, but in addition must also establish that its determination was made as set forth in ORS 179.700 and 179.701 for each year in question.
+The minutes of the Board of Control clearly establish that annually beginning with 1960-61, per patient cost rates were adopted by it as required by the statute. For example, the minutes of the Board of Control for September 6, 1960, provide:
+“ALL STATE INSTITUTIONS OREGON STATE BOARD OF CONTROL
+Institutional Maintenance Charges for 1960-1961 The Board accepted the charges, as computed by the Division of Audits, for the care and maintenance of the mentally ill, mentally deficient, Tuberculosis patients and delinquent children in state institutions. The charges for 1960-61 are based upon cost and population for the past year and are as follows:
+“INSTITUTION 1960-61
+Mentally Deficient Hospital $113.00
+Mentally 111 Hospitals $126.00
+Training Schools $318.00
+Tuberculosis Hospitals $462.00
+Charges at Mid-Columbia Home shall be the monthly cost determined for the institution from which patient was transferred.
+“These rates are to be effective from September 1, I960.”
+Its minutes for subsequent years reflect substantially equivalent action, though of course in different amounts, culminating in 1969 with the monthly figure of $399 per patient in the hospitals for the mentally ill.
+The defendant cites Mallatt v. Luihn, 206 Or 678, 294 P2d 871 (1956), in support of his position, stating:
+“We present the Mallatt case for authority that the presumption of official duty performed will not fulfill plaintiff’s burden or supply missing proof, and that the due process clause of the Fourteenth Amendment to the United States Constitution requires that the plaintiff prove in this case the two elements referred to in this brief.
+That case holds:
+“* * * [W]here liability based on an administrative determination is sought to be enforced by court action, as may be done under the challenged statute, the defendant is not concluded by such determination but may resist on the merits. * * *” 206 Or at 693.
+Here, however, the defendant has not been denied a trial upon the merits. The very purpose of this action is to enforce in a court of law a liability asserted by prior “administrative determination.”
+In Mallatt the court also said:
+“While notice and an opportunity to be heard are of the essence of due process, it is not required that a hearing shall be given at any particular stage of the proceedings. It is sufficient if, before liábility becomes final, the person whose rights are Affected is given his ‘day in court.’ Stettler v. O’Hara, 69 Or 519, 540, 139 P 743, LRA 1917C. 944, Ann Cas 1916A 237; Towns v. Klamath County, 33 Or 225, 233, 234, 53 P 604.
+“ * * Discretion of any official may be abused. Tet it is not a requirement of due process that there be judicial inquiry before discretion can be exercised. It is sufficient, where only property rights are concerned, that there is at some stage an opportunity for a hearing and a judicial determination.’ Ewing v. Mytinger & Casselberry, 339 US 594, 94 L ed 1088, 70 S Ct 87.” 206 Or at 692-93.
+We agree that the state was required to show that the Board of Control had made the determination of per patient cost required by ORS 179.701, formerly ORS 179.700. The evidence is uncontradicted that it did so for the years 1960 through 1969.
+We think that having done so, it is entitled to the benefit of the presumption that the official duty enjoined upon it by that statute was regularly performed by it. ORS 41.360 (15). No evidence controverting that presumption here was offered. Thus, in the language of the statute, “unless so overcome, the jury is bound to find according to the presumption.” ORS 41.360.
+The foregoing presumption has been applied by our Supreme Court countless times since at least 1874 when in Dolph v. Barney, 5 Or 191, the court said in a case dealing with a deed executed by a county school superintendent to public land:
+“* *' * That a person acting in a public office was regularly appointed to it, and that official duty has been regularly performed, are declared to be presumptions of iaw by the Code. (Civ. Code, § 766, Subd. 14,15.) * * * The court, being charged with knowledge of the law under which Outhouse acted, and the presumptions referred to applying to him and his deed, did not err in overruling the objection. If regular on its face, as it is, the burden of proof was upon appellant to show want of [or] excess of authority. * * *” 5 Or at 208-209. (Italics supplied.)
+In Highway Com. v. Heintz Constr., 245 Or 530, 423 P2d 175 (1967), the court discussed the presumption at length, and concluded by saying:
+“The presumption is usually applied as evidence of the act of a neutral, dispassionate and impartial official, with no interest in the matter except to regularly perform the duties imposed upon him. * * *” 245 Or at 539.
+The Board of Control, having determined the per patient cost of care as it was required to do under the former ORS 179.700, replaced by ORS 179.701, is entitled to the presumption that it did so in accordance with the law. Its determination for each year had equal application to all mental hospital patients and was simply “the act of a neutral, dispassionate and impartial official, with no interest in the matter except to regularly perform the duties imposed” by and in conformity with the statute.
+ORS 297.210, throughout the period in question, provided:
+“The Secretary of State, as State Auditor, shall have the accounts and financial affairs of all state departments, boards, commissions, institutions and state-aided institutions and agencies of the state examined and audited at least once each calendar year, and shall employ accounting experts to make such audits and examinations as he may deem to be necessary. * * *”
+ORS 297.010 created the Division of Audits under the Secretary of State, as the agency of the state to discharge the auditing duties of the Secretary of State. Thus, it was the state agency to advise the board concerning the per patient cost of care and is presumed to have made its calculations in accordance with the statutory scheme.
+As we have pointed out, the foregoing facts are undisputed in this record. There was therefore no factual issue to be submitted to the jury for the years 1960-69. The state’s motion for a directed verdict as to those years should have been allowed.
+The court correctly concluded that the estate of the deceased patient was not liable for her care prior to the enactment of Oregon Laws 1955, ch 597, pp 730-31 (now OES 179.620 (3)), which became effective August 3, 1955. Board of Control v. Loprinzi, supra.
+No certified copies of the minutes of the Board of Control or other documents or evidence establishing the official action of the Board of Control in setting a per patient cost of care for the years 1955-1959 were offered.
+The trial court correctly concluded that the state had not established a prima facie case as to those years since without direct proof that the formal action required by the Board of Control under OES 179.700 and 179.701 had in fact been taken by it, no presumption of regularity can arise.
+The parties stipulated that during the patient’s lifetime, her guardian, from August 3, 1955, until her death, had paid the state for patient care $5,555.64, and that the defendant was entitled to “have that sum deducted from the final amount if and when arrived at.”
+The state proved cost of care in the amount of $24,186.42 for the years 1960-69. The record is devoid of evidence from which it can be determined how much, if any, of the $5,555.64, was paid it for her care for the years 1955-59 only. The full amount stipulated must then be deducted. It follows that the state is entitled on this record to judgment in the sum of $18,630.78.
+The foregoing disposes of the executor’s appeal from the court’s denial of his motion for a directed verdict. Thus, we do not consider whether, after both sides have rested, a trial court has authority on its own motion to enter judgment of nonsuit when, as here, neither party requested or agreed to it and both moved for a directed verdict.
+The judgment is reversed and remanded for entry of judgment in conformity herewith.
