@@ -1,0 +1,60 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1970-05-21"
+citations: ["2 Or. App. 491", "469 P.2d 642"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Fort and Branchfield, Judges."]
+parties: ["In the Matter of the Adoption of Craig Edward Voorhies MOODY et ux, Respondents, v. VOORHIES, Appellant."]
+source_url: "https://static.case.law/or-app/2/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2063837
+cites_cases: ["1 Or App 409", "113 NE2d 339", "118 NE2d 293", "148 NE 53", "2 Ill2d 243", "211 Or 472", "215 Iowa 466", "229 Or 277", "231 Or 65", "245 NW 713", "255 Or 16", "255 Or 30", "317 Ill 231", "350 Ill App 462", "45 ALR2d 1383", "459 P2d 1001", "463 P2d 367"]
+---
+
+# Moody v. Voorhies
+
+## Majority (SCHWAB, C. J.)
+
+SCHWAB, C. J.
+This is a contested adoption matter in which the natural mother and her present husband are seeking to adopt the only child born of the marriage between the mother and her former husband. The child is presently just under six years of age. The trial judge found that the natural father had willfully deserted the child (ORS 109.324) and granted the petition for adoption.
+The natural parents of the child were divorced in December of 1965 and the mother was awarded custody. In March of 1966 the mother remarried and the child has lived with the mother and her present husband since that time. The uncontroverted testimony is that from the time of the divorce until the adoption petition was filed in January of 1969 the father proffered no support for the child and for all practical purposes maintained no communication, physical or otherwise, -with the child. The testimony of the father’s psychiatrist was that the father, although mentally competent except for two periods of 10 days to two weeks each, one in 1965 and one in 1968, was and is emotionally disturbed. No useful purpose is to be served by setting out the details of his personal problems. The trial judge in his oral opinion given from the bench showed that he was well aware of the rule set out in Simons et ux v. Smith, 229 Or 277, 366 P2d 875 (1961), that in adoption proceedings the welfare of the child is not material until either consent or one of the other statutory criteria has been established — that only then does it become the right and duty of- the court to determine whether the adoption of the child will be for the child’s welfare and best interests. We adopt the trial judge’s findings:
+“[Witnesses] and Mr. Voorhies in talking about himself all 'indicate that he is a retiring, gentle, unaggressive person, who has a disposition to not press issues, or want to create problems, and this is a. virtue, but it is a virtue that is consistent with willful desertion.
+“The Court feels here that there was effective withdrawal from the parental relationship during the entire portion of the period from the time of the decree until now; that some portion of this is capable of explanation because of his mental involvement, but some of it is abdication of his relationship for the very best of motives, but nevertheless abdication of his relationship; but willful desertion for a good reason is as much a basis for termination of parental rights and granting of adoption as is willful desertion for bad reasons.
+“The Court says all this with the knowledge that this will be to some extent a blow to Mr. Voorhies. I suspect it will be a greater blow to his parents. It would appear to me that he is making a good man of himself. It would appear that the responsibility for maintaining an active relationship on a fairly limited basis with a boy whom he barely knows, not through any fault of his own, would be a responsibility that might interfere with his capacity to make his own life. This may sound like cold comfort to him.
+“The Court feels that the best interests of the child will unquestionably be with his mother and adoptive father; and the Court particularly doesn’t want Mr. Voorhies to feel that there is in the Court’s adjudication here any, as Mrs. Saltveit says, any feeling that he is unworthy in the sense that the Court is passing upon him moral judgment or imposing upon him moral condemnation because it is not.”
+Affirmed.
+
+## Dissent (FORT, J.,)
+
+FORT, J.,
+dissenting:
+Mr. and Mrs: Voorhies were divorced on December 23, 1965. She was awarded custody of their, son, who was then about 18 months old. No order of support was entered against him. The decree is not included in the record, but it apparently awarded the father the right of reasonable visitation. On March 18, 1966, Linda Voorhies married Paul W. Moody. On January 20, 1969, she and her husband filed a petition to adopt her son by the prior marriage. It alleged three grounds, namely, that the child’s father, appellant herein, was a mentally ill person, that he had willfully neglected without just and sufficient cause to provide proper care and maintenance for one year prior to the filing of the petition, and that he had willfully deserted the child for the same period of time. Because of his mental condition a guardian ad litem was appointed by the court for the appellant, pursuant to petitioners’ request.
+The plarties stipulated that appellant had been institutionalized, either voluntarily or pursuant to court order, for his mental condition for the following periods:
+1) Oregon State Hospital, November 19, 1964, to March 23,1965 (voluntary).
+2) Morningside Hospital, July 28, 1965, to January 13,1966 (voluntary). The divorce occurred during this period.
+3) P. II. Dammasch State Hospital, January 13, 1966, to March 3,1967 (court-committed).
+4) He “was returned” to P. H. Dammasch State Hospital March 7, 1968, and remained there until July 30,1968.
+5) On July 30,1968, he was transferred from P. II. Dammasch State Hospital to the Veterans Hospital at Roseburg, where he remained until after the petition for adoption was filed.
+Thus for ten and one-half months next preceding the filing of the petition appellant was in fact institutionalized either at F. H. Dammasch State Hospital or at the Veterans Hospital in Roseburg because of Ms mental condition.
+In addition to its finding of willful desertion “without just and sufficient cause for a period of one year next preceding the filing of the petition,” the court also found:
+“That although Anthony Voorhies was committed under Court commitment in Multnomah County Circuit Court on January 13,1966 and that said commitment still stands of record in the files of Multnomah County, that Anthony Voorhies is not at the present time mentally ill, or mentally deficient.”
+No cross-appeal by the respondents has been taken from that finding. No claim is therefore presented that the father’s consent can be disposed of under ORS 109.322. Nor is this a proceeding to terminate the parental rights of the father under ORS 419.523 (2). Thus there is no occasion here to apply our recent holding in State v. Blum, 90 Adv Sh 29, 1 Or App 409, 463 P2d 367 (1970), allowing termination of a mother’s parental rights because of her mental condition pursuant to the latter statute.
+In Omlie v. Hunt, 211 Or 472, 316 P2d 528 (1957), the Supreme Court had occasion to consider an adoption based upon willful desertion. It said at 482-83:
+“Desertion or abandonment, with respect to children is usually defined as conduct which evinces a settled purpose to forego all parental duties and to relinquish all parental claims to the child. Anno, supra, 35 ALR2d at 665; 1 Am Jur 643, Adoption § 42; 2 CJS 388, Adoption § 21.
+“In the present ease we are unable to agree with the trial court that the evidence shows willful desertion by the natural father. While his conduct leaves much to be desired, it must be judgéd.against the background of a difficult situation * *.
+“Although the outward evidence of * * *' [the father’s] interest in the children was sporadic,'and perhaps feeble, we cannot saythat.it was entirely lacking. * * *”
+2 Am Jur 2d 886, Adoption § 31, points out:
+“* * * Some statutes use,-the term ‘desertion’ rather than ‘abandonment’ and it has been intimated that the use of this term may indicate that the legislature intended a distinction,' since abandonment does not necessarily imply; that the parent has' deserted the child or ceased .to feel for its interest; but in general the eases- indicate little difference in result because of any supposed distinction between these two terms-: * * *”
+It then continues in § 32:
+“* * * [T]he most frequently approved one is that abandonment imports any . conduct on the part of the parent which evinces a settled purpose to forgo all parental duties and relinquish all parental claims to the child, and to renounce'and forsake the child entirely.”
+Insanity itself does not constitute desertion or abandonment within the meaning of statutes making such offense ground for adoption. 45 ALR2d 1383, citing “Keal v. Rhydderck (1925). 317 Ill 231, 148 NE 53; Burstein v. Millikin Trust Co. (1953) 350 Ill App 462, 113 NE2d 339, revd. on other grounds 2 Ill2d 243, 118 NE2d 293; Pitzenberger v. Schnack (1932.) 215 Iowa 466, 245 NW 713.”
+Assuming that the trial court, correctly concluded that the defendant was not a-mentally ill person'under ORS 109.322, an issue not raised here, the foregoing rule, on the facts of this case is persuasive in considering whether there has been a willful desertion by a man who was institutionalized in mental hospitals continuously for the last ten and one-half months of the twelve which elapsed prior to the filing of the adoption proceedings.
+It is true that the father visited the child but once following the divorce decree, but it is admitted that the mother asked the appellant on that occasion not to tell the boy that he was his father. He contends that because of his own emotional involvement he found it too difficult to continue seeing the child under such circumstances. His continuous presence in mental institutions for the last ten and one-half months prior to the filing of the petition obviously precluded him from such efforts during that period. The court made no finding that he willfully failed to contribute to the support of the child. The mother acknowledged receipt of some present or presents at Christmas.
+The many reasons for distinguishing between desertion as a ground for divorce and desertion as a ground for adoption against an objecting parent are set forth at length in Simons v. Smith, 229 Or 277, 366 P2d 875 (1961). There the court said at 285:
+“Because of the differences between the issues involved in divorce cases and those involved in petitions of adoption, we hold that the reasons for terminating parental rights must be related to an objective standard required of all parents rather than to the child-oriented evaluation of competing home environments employed in divorce suits. [Citation omitted].”
+I agree that under our statutes, in adoption proceedings the welfare of the child is not material until either consent or one of the other statutory criteria'has Been established. I would hold only that the evidence here does not show thát the defendant’s interest in his child “was entirely lacking.”' Were the test here that of the Arizona statute:, 'i.e'., the best interest of the child, I would wholeheartedly agree -with the majority. But it is not. Simons v. Smith, supra; Omlie v. Hunt, supra; State v. Grady, 231 Or 65, 371 P2d 68 (1962). It is statutory. Strobel v. Garrison, 89 Adv Sh 455, 255 Or 16, 459 P2d 1001 (1969), reh den 90 Adv Sh 141, 255 Or 30, 464 P2d 688 (1970).
+I reluctantly conclude, therefore, that the decree should be reversed.'
+For a statute imposing quite a different standard see Arizona Revised Statutes § 8-104:
+“An order of adoption may be entered without the consent of-the parent or legally appointed guardian when, after hearing, the court determines that the interests of the child will be. promoted thereby. In such cases, the .court shall, make written findings of all facts upon which its order is founded.”
