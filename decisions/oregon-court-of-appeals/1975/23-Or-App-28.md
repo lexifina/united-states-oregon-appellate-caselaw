@@ -1,0 +1,74 @@
+---
+court: "Oregon Court of Appeals"
+docket: "18520"
+decided: "1975-10-13"
+citations: ["23 Or. App. 28", "541 P.2d 511"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Foley and Fort, Judges."]
+parties: ["DENTON, Appellant, v. L. W. VAIL CO., INC. et al, Respondents."]
+source_url: "https://static.case.law/or-app/23/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2115651
+cites_cases: ["20 Or App 277", "203 Or 157", "245 Or 185", "268 Or 378"]
+---
+
+# Denton v. L. W. Vail Co.
+
+## Majority (FORT, J.)
+
+FORT, J.
+Plaintiff appeals from a directed verdict against him in a personal injury negligence action against the state Department of Transportation and two road construction contractors. The issues on appeal are whether1 the plaintiff was a trespasser on the road then under construction, and whether defendants owed a duty to plaintiff which they breached, making them liable for his injuries.
+Plaintiff was injured when he rode his motorcycle into a barbed wire fence stretched across a new section of highway that was under construction and had never been open to the public. Plaintiff, aged 45, and two companions had been riding their Honda trail bikes on back roads east of Bend. They were returning to Bend on Highway 20 when plaintiff began having trouble with his motorcycle, preventing him from riding at normal speed. Plaintiff and one companion turned north off the highway onto a Bureau of Land Management (BLM) road and traveled approximately 100 yards to where it intersected the road under construction, then turned west onto the new roadbed.
+This five-mile stretch was to replace a section of Highway 20 that ran parallel to it, some distance to the south. It was located on BLM land and crossed at least two BLM fences. The roadbed was not connected with Highway 20 at either end, but was intersected by approximately six BLM roads going north from Highway 20.
+The section of replacement highway varied in quality. In some sections it had a smooth, packed dirt surface; in others the bed was rutty or very rough. In at least three places the roadway was impassable because of piles of boulders, and plaintiff and his companion had to detour around these places by riding out into the desert.
+At the time plaintiff struck the fence he and his companion were 200 yards from the west end of the section. They had just had to “walk” their bikes through a very rocky section. Plaintiff was looking straight ahead and traveling at 25 or 30 miles an hour on a packed dirt surface when he saw the fence about ten feet in front of him. He hit the fence, one strand with his face and another with his arm. He was taken to the hospital in Bend.
+Plaintiff filed this action against the Department of Transportation, L. W. Vail Co., Inc. (the construction contractor), and Peters and Wood Company (the subcontractor doing the grading work). He alleged that the defendants were negligent in placing the strands of barbed wire across the road knowing that it was used by vehicular traffic, and in failing to post any warnings that the wires were there.
+At the trial, the evidence showed that there had been a BLM fence for the control of cattle at the place where the wires were strung, a section of which had been taken down to allow construction of the road. On a Friday the department’s resident engineer had notified the subcontractor’s superintendent that there were cattle in the area and that the fence should go back up for the weekend. Peters and Wood Company employes put up the three strands of barbed wire. They were supported by metal fence posts at either side of the 80-foot-wide roadbed and by one in the middle. There were no signs or other warnings about the fence.
+The question at issue is whether defendants, as occupiers of the land where the road was under construction, owed a duty to plaintiff not to put up the fence or to post some kind of warning that the fence was there. The extent of the defendants’ duty depends on the status of plaintiff as trespasser, licensee, or invitee on the roadbed.
+In Rich v. Tite-Knot Pine Mill, 245 Or 185, 421 P2d 370 (1966), the Supreme Court defined an invitee as
+“* * * one who comes upon the premises upon business which concerns the occupier, with the occupier’s invitation, express or implied. * * *” 245 Or at 191-92.
+Plaintiff was not on the roadbed in connection with any purpose of the defendants so he was not an invitee. Indeed he testified that he knew that the roadbed was not open to the public.
+The critical issue is whether plaintiff was a licensee or a trespasser.
+In Rich v. Tite-Knot Pine Mill, supra, the Supreme Court defined trespasser as follows:
+“A trespasser is one who enters or remains on premises in the possession of another without a privilege to do so, created by the possessor’s consent or otherwise. * * *” 245 Or at 191.
+This statement is virtually identical with 2 Restatement (Second), Torts 171, § 329 (1965).
+The definitions for “licensee” given in the above sources also include the following:
+“A licensee is one who comes upon the premises for his own purposes with the consent of the possessor. * * *” 245 Or at 191.
+“A licensee is a person who is privileged to enter or remain on land only by virtue of the possessor’s consent.” 2 Restatement (Second), Torts 172, § 330 (1965).
+Both a trespasser and a licensee enter the land for their own purposes; the distinction is whether or not there is consent of the occupier.
+Comment c of 2 Restatement, supra, § 330, deals with the question of consent:
+“c. Consent and toleration. The word ‘consent,’ or ‘permission,’ indicates that the possessor is in fact willing that the other shall enter or remain on the land, or that his conduct is such as to give the other reason to believe that he is willing that he shall enter, if he desires to do so. A mere failure to object to another’s entry may be a sufficient indication or manifestation of consent, if the possessor knows of the other’s intention to enter, and has reason to believe that his objection is likely to be effective in preventing the other from coming. On the other hand, the fact that the possessor knows of the intention to enter and does not prevent it is not necessarily a manifestation of consent, and therefore is not necessarily permission. A failure to take burdensome and expensive precautions against intrusion manifests only an unwillingness to go to the trouble and expense of preventing others from trespassing on the land, and indicates only toleration of the practically unavoidable, rather than consent to the entry as licensee. Even a failure to post a notice warning the public not to trespass cannot reasonably be construed as an expression of consent to the intrusion of persons who habitually and notoriously disregard such notices.”
+Under Comment e this consent can be given by acts and not just by words.
+Plaintiff contends that there were tracks of motorcycles and four-wheel drive vehicles on and near the roadbed, which he claims indicates that members of the public were using the roadbed for riding or driving and giving notice to defendants of such use. Plaintiff argues that since defendants had this notice and since they did not indicate in any way that they objected to such use, they had either given consent or another user could reasonably infer that they consented to recreational nse by the public. If this is correct, plaintiff would be a licensee.
+There was evidence that defendants knew of use of the roadbed by members of the public at the east end of the five-mile strip. They had had a truck stolen as well as substantial quantities of gasoline. Plaintiff, his companion, and employes of defendants testified that there were tracks of recreational vehicles at the east end of the project. There was testimony that there were tracks of such vehicles out in the desert in areas where plaintiff had to detour around rock piles. There was also testimony that defendants’ employes knew that motorcyclists and others used the whole desert country for recreational driving. Plaintiff’s companion testified that he saw motorcycle tracks “on several occasions on the way down there, from where we got on the roadbed clear to the other end.” The superintendent for Peters and Wood testified that he and another employe occasionally used motorcycles on the job. There was no direct testimony, however, that at the west end of the project, where the fence was erected and plaintiff was injured, defendants had any knowledge that members of the public were driving on their roadbed. It was very difficult to get from one end of the roadbed to the other. Without specific knowledge that people were using the section area where the fence was erected, defendants cannot be held to have consented to such use at the west end of the project.
+Even if they knew of public use in the west end area near the fence, that would not necessarily mean that they had consented. Comment c to the Eestatement, § 330, says that failing to object is not necessarily permission. Where objecting will probably do no good or people habitually and notoriously disregard notices, or where it is burdensome or expensive to keep people out of the area, consent will not be implied from knowledge. The only intersecting roads were previously established BLM roads extending northward into BLM properties. The new road crossed these. It was very clear that the new roadway was not yet open for public use, not the least from the fact that it could not be driven from one end to the other, even by a motorcycle.
+We conclude that plaintiff was a trespasser on the west end of the roadway as a matter of law.
+The next question to consider is the duty defendants owed to a trespasser on the construction project. In Baker v. State Bd. of Higher Ed., 20 Or App 277, 531 P2d 716, Sup Ct review denied (1975), this court said that with an adult trespasser,
+“* * * one entering or remaining on premises in the possession of another without a privilege to do so may hold the possessor liable for an injury suffered while on the premises only where that injury has been inflicted ‘wilfully or wantonly.’ * * •” 20 Or App at 288.
+See also: Hanson v. Cohen, 203 Or 157, 276 P2d 391, 278 P2d 898 (1954). Another statement of this rule is found in 2 Restatement (Second) Torts 183, § 333 (1965):
+“Except as stated in §§ 334-339, a possessor of land is not liable to trespassers for physical harm caused by his failure to exercise reasonable care
+“(a) to put the land in a condition reasonably safe for their reception, or
+“(b) to carry on his activities so as not to endanger them.”
+The exceptions in sections 334-339 do not apply to this fact situation. Plaintiff was not a child (section 339), nor a known trespasser (sections 336 to 338). Plaintiff contends that he qualified as a constant trespasser in a limited area (sections 334 and 335). Comment d to section 334 states that for liability to attach to a possessor of land,
+a* * * it is necessary that he know, or from facts within his knowledge should know, that persons constantly and persistently intrude upon some particular place within the land. It is not enough that he know or have reason to know that persons persistently roam at large over his land.”
+There was no evidence that defendants were aware, or should have been aware, of persistent intruders in the limited area at the west end of the project where they erected the fence.
+We can find no evidence indicating that defendants’ actions in replacing the fence or in failing to warn plaintiff of it were wilful or wanton. The road was clearly under construction and was not prepared for public use. Travel along the roadbed was impassable and blocked by extremely rough sections and by piles of boulders. The west end was clearly so separated from the east portion of the new roadbed. Plaintiff could not reasonably assume that the west portion of the road was prepared for his safety. The very nature of a major new road construction, particularly in its early stages, is itself notice that it is unsafe for public travel. Therefore, we hold that the defendants breached no duty to plaintiff and that the directed verdict was appropriate.
+Plaintiff seems to contend that he, as a member of the public, was entitled to use public and private lands for recreational purposes at the time of his injuries, and thus as such he is not a trespasser.
+We note that the 1971 legislature enacted a law limiting liability of possessors of land for unintentional injury to persons using the land for recreational purposes (OBS 105.655 to 105.680).
+OES 105.660 states the policy of the law to be as follows:
+“The Legislative Assembly hereby declares it is the public policy of the state of Oregon to encourage owners of land to make their land available to the public for recreational purposes by limiting their liability toward persons entering thereon for such purposes * *
+This statute was considered at length by the Supreme Court in Loney v. McPhillips, 268 Or 378, 521 P2d 340 (1974), a case involving entry upon private land, in which the court pointed out that the statute was passed “to encourage private owners to make their land available to the public for recreational purposes.” 268 Or at 385.
+OES 105.655(3) defines owner as follows:
+“ ‘Owner’ means the possessor of a fee title interest in any land, a tenant, lessee, occupant or other person in possession of the land.” (Emphasis supplied.)
+We think BLM land, although owned by the federal government, is covered by this statute and that the contractors and the Department of Transportation were persons in possession of the land.
+OES 105.665 provides for the duties and liabilities of the owners of land used by the public for recreation:
+“Except as otherwise provided in OES 105.675:
+“(1) An owner of land owes no duty of care to keep the land safe for entry or use by others for any recreational purpose or to give any warning of a dangerous condition, use, structure or activity on the land to persons entering thereon for any such purpose.
+“(2) An owner of land who either directly or indirectly invites or permits any person to use Ms land for any recreational purpose without charge does not thereby:
+“(a) Extend any assurance that the land is safe for any purpose;
+“(b) Confer upon such person the legal status of an invitee or licensee to whom a duty of care is owed; or
+“(c) Assume responsibility for or incur liability for any injury, death or loss to any person or property caused by an act or omission of that person.”
+Therefore, even assuming the plaintiff were a licensee, defendants under that Act owed him no duty to warn him of the fence.
+Affirmed.
