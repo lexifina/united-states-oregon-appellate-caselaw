@@ -1,0 +1,51 @@
+---
+court: "Oregon Court of Appeals"
+docket: "95919, CA 8216"
+decided: "1978-01-16"
+citations: ["32 Or. App. 77", "573 P.2d 740"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Johnson and Joseph, Judges.", "JOHNSON, J."]
+parties: ["RUEGG et al, Appellants, v. BOARD OF COUNTY COMMISSIONERS, CLACKAMAS COUNTY et al, Respondents."]
+source_url: "https://static.case.law/or-app/32/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2138678
+cites_cases: ["21 Or App 310", "49 ALR3d 1126"]
+---
+
+# Ruegg v. Board of County Commissioners
+
+## Majority (JOHNSON, J.)
+
+JOHNSON, J.
+Petitioners sought a writ of review of the Clackamas County Board of Commissioners’ decision of January 26, 1976, approving zone changes for 26.5 acres of property located near the junction of Highways 26 and 212 near the town of Boring. The property was previously zoned C-2 (Community-Commercial), RA-1 (Rural), MR-1 (Multi-family residential), and was rezoned in this proceeding as a planned commercial development. The change was requested as part of the proponent’s plan to develop a 26.5 acre shopping center. The trial court dismissed the writ and petitioners appeal.
+Petitioners contend that the trial court erred in striking the City of Sandy as a party to the proceeding, and in refusing to take judicial notice of and apply the Columbia Region Association of Governments (CRAG) land-use framework element plan and map (CRAG Plan). They also maintain that the county’s decision was not supported by substantial evidence. However, the arguments presented by petitioners are addressed to the weight that should be afforded the evidence and not whether there was substantial evidence. Such argument is beyond the scope of a writ of review. ORS 34.040. We find that there was substantial evidence to support the Board’s decision.
+STANDING
+The respondent Board of County Commissioners moved to strike the City of Sandy as a party to the Writ of Review proceedings on the ground that the city lacked standing to initiate the writ in that it had not suffered an "injury of some substantial right” as required by ORS 34.040. The circuit court conducted an evidentiary hearing on the question of standing as required by Duddles v. City Council of West Linn, 21 Or App 310, 535 P2d 583, rev den (1975), and granted respondent’s motion to strike. We conclude that the court erred in granting the motion.
+The evidence presented at the hearing consisted of affidavits of stipulated testimony from the city’s consulting economist, consulting planner, and manager to the effect that approval of the proposed zone change would seriously undermine the city’s planning effort and would have an adverse impact upon the city’s economy by reducing the assessed value of the downtown commercial core area. Respondent does not dispute this testimony, but rather maintains that it represents too remote an injury to qualify as an injury of some substantial right. We disagree. In view of the interrelationship between the county’s and city’s land use planning, the proximity of the city’s boundaries to the subject property, and the trend in the law to extend standing in land use cases to persons other than those who own contiguous property, see Duddles v. City Council of West Linn, supra, including municipalities, see Standing of Municipal Corporations or Other Governmental Body to Attack Zoning of Land Outside Its Borders, 49 ALR3d 1126 (1973), the city should have been permitted to appear as a party in this proceeding.
+Although the trial court erred in granting the motion, the Sandy city attorney conceded on oral argument that such error is not ground for reversal inasmuch as review on appeal is the same as before the trial court, and thus no purpose would be served by remanding on this issue.
+CRAG PLAN
+At the time of the county’s decision, the CRAG plan apparently was in the drafting stage. The plan was subsequently adopted by CRAG on December 22,1976 and became effective on February 5, 1977, approximately one year after the county’s decision. None of the parties petitioned CRAG to review the county’s decision for compliance with the CRAG plan. In the absence of such review, the CRAG plan has no legal effect. CRAG’s authority as a land use planning agency is circumscribed by ORS 197.755 which provides:
+"The district shall:
+"(1) Adopt by rule regional land use planning goals and objectives;
+"(2) Prepare, maintain and modify as necessary a plan for the region in accordance with the goals and objectives;
+"(3) Designate areas and activities having significant impact upon the orderly and responsible development of the region and establish rules and regulations for the development, use and control of such areas and activities;
+"(4) Review the comprehensive land use plans in effect on July 20, 1973, in or subsequently adopted by the members and associate members of the district and recommend or require, as it considers necessary, changes in any such plan to assure that the plan conforms to the goals and objectives;
+"(5) Coordinate the land use planning activities of its members and associate members;
+"(6) In the discretion of the board of directors, review the zoning, subdivision and other similar ordinances and regulations of its members and associate members and all actions taken pursuant thereto to assure conformity with the goals and objectives; and
+"(7) Coordinate its activities and the related activities of its members and associate members with the land use planning and development activities of the Federal Government, other local governmental bodies situated within this state or within any other state and any agency of this state or another state.”
+The only portions of this statute which conceivably give CRAG any authority over member local government decisions are subsections (3), (4) and (6). Subsection (3) is irrelevant to this proceeding, since the land area at issue has not been designated by the CRAG plan as one having significant regional impact.
+Petitioners in effect argue that the county plan is not in conformance with the CRAG plan under subsection (4) and that the zone change is thus invalid. However, before CRAG can "recommend or require” any change, it must conduct a review. CRAG has neither reviewed the Clackamas County plan nor recommended or required a change.
+Amicus curiae apparently maintain that CRAG has exercised its jurisdiction under subsection (6) by virtue of section 3 of its rules which state that "[mjembers shall not take any land use related action or permit any development which is not in conformity to the Framework Element [CRAG Plan].” Rules for Adoption and Implementation of the Land Use Framework Element of the CRAG Regional Plan, Section 3. This argument is deficient for two reasons. First, it ignores section 4 of the same rules which provides that any interested party may petition CRAG for review of land use actions by CRAG members. Second, the only authority afforded CRAG by subsection (6) is to "review.” Whether this implies a power to direct the actions of a member county we do not decide. There has been no review.
+The ultimate conclusion to be drawn from ORS 197.755, as well as the CRAG regulations, is that the legal effect of the CRAG plan, whatever it may be, is dependent upon whether CRAG has excercised its jurisdiction. Both subsections (4) and (6) of ORS 197.755 require a review. Under subsection (4), CRAG may require changes in a comprehensive plan, or in the alternative it may recommend. Under subsection (6) and also CRAG’s regulations, "review” by CRAG is expressly discretionary. CRAG has not reviewed any action by the county and therefore there is nothing for this court to review.
+Affirmed.
+It is clear that none of the parties could seek review by CRAG since the regulations of that agency require that a petition be filed within 60 days of the decision. See footnote 3.
+It is clear that CRAG must not only review the local government’s action, but also enter a final order directing a change. Otherwise, the local government would be precluded from seeking direct review by LCDC of CRAG’s action as provided for in ORS 197.760. That statute provides:
+"If a district requires a change in a plan of a member or associate member of the district under subsection (4) of ORS 197.755, the member or associate member may seek review of such required change as provided under paragraph (c) of subsection (1) of ORS 197.300.”
+Section 4 of the rules provides:
+"(a) Any member, interested person or group may petition the Board of Directors for review of any land use related action taken, or development permitted, by any member within sixty (60) days after the date of such action or development permit.
+"(b) Petitions filed pursuant to this section must allege and show that the subject action or development is of substantial regional significance and that the action or development violates the Framework Element.
+"(c) Upon receipt of a petition for review, the Board of Directors shall decide, without hearing, whether the petition alleges a violation of the Framework Element and whether such violation is of substantial regional significance, and if so, shall accept the petition for review. The Board shall reach a decision about whether to accept the petition within sixty (60) days of the filing of such petition. If the Board decides not to accept the petition it shall notify the petitioner in writing of the reasons for rejecting said petition. If the Board decides to accept the petition, it shall schedule a hearing to be held within thirty (30) days of its decision. A hearing on the petition shall be conducted in accordance with applicable procedural rules.
+"(d) The decision on whether to accept a petition filed under this section may be by vote or by poll and each Director shall have one vote. Acceptance shall require a simple majority.”
+Significantly, CRAG has by rule established two prerequisite conditions before it will exercise any review. The petition must be filed within 60 days of the decision and must involve a notation "of substantial regional significance.” See footnote 3.
