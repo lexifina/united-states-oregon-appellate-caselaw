@@ -1,0 +1,38 @@
+---
+court: "Oregon Court of Appeals"
+docket: "688, CA 19642"
+decided: "1981-09-28"
+citations: ["54 Or. App. 47", "634 P.2d 256"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Gillette, Presiding Judge, and Roberts and Young, Judges.", "GILLETTE, P. J."]
+parties: ["STATE ex rel ADULT AND FAMILY SERVICES DIVISION, Appellant. v. HANSEN, Respondent."]
+source_url: "https://static.case.law/or-app/54/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2086534
+cites_cases: ["139 ALR 422", "255 Or 428", "263 Or 97", "28 Or 9", "280 Or 561", "281 Or 53", "288 Or 635", "38 Or App 369", "40 P 1014", "40 P 406"]
+---
+
+# State ex rel. Adult & Family Services Division v. Hansen
+
+## Majority (GILLETTE, P. J.)
+
+GILLETTE, P. J.
+The state appeals from a trial court order setting aside an earlier order to pay child support and returning to defendant all sums already paid pursuant to the earlier order. We affirm in part and reverse in part.
+On May 1, 1980, the Circuit Court for Multnomah County entered a stipulated order of paternity, signed by the State of Oregon Department of Human Resources, as plaintiff, and by defendant. In that order, defendant admitted paternity of a child expected to be born in August, 1980, and agreed to make monthly child support payments of $200 to the state begining in April, 1980, approximately four months before the expected time of birth.
+Subsequently, the state moved the Circuit Court for Multnomah County to transfer the proceedings to Clackamas County because both parties were then residing in Clackamas County. The court granted the motion and issued the appropriate order on July 24, 1980.
+On October 3, 1980, after defendant had married the child’s mother and the mother was no longer receiving welfare assistance, defendant moved the Circuit Court for Clackamas County to set aside the support portion of the stipulated May order. On November 6, 1980, the court granted defendant’s motion and issued an order setting aside the stipulated order to pay child support and ordering the state to return all sums paid by defendant pursuant to the earlier order. The state contests the court’s ruling.
+ORS 109.165 provides:
+"Upon motion of either party the court may set aside, alter or modify so much of the decree as may provide for the support of the minor child or child attending school. As to any installment or payment of money which has accrued up to the time either party files a motion to set aside, alter or modify the decree, the decree is final and the court does not have power to change it. A child attending school is a party for purposes of this section.” (Emphasis supplied.)
+By virtue of the statute, the court was entitled to set aside the stipulated order. Its action was appropriate in view of the fact that defendant had married the child’s mother. However, we conclude that the court erred in ordering the return of child support payments defendant had made before filing his motion to have the stipulated order set aside. The statute clearly prohibited the court from affecting those payments. While the defendant’s subsequent marriage to the child’s mother provided grounds for the court to set the order aside prospectively, it did not entitle him to recover his earlier payments. The stipulated order was intended to require the defendant to take financial responsibility for the care of his unborn child. His later marriage to the mother did not extinguish that responsibility.
+In light of ORS 109.165, the only possible ground for ordering the state to return to the defendant payments he had made before moving to set aside the original order is that the order itself was invalid ab initio. Defendant argues, first, that the agreement should be rescinded because he misunderstood its terms and, second, that the Circuit Court for Multnomah County could not order him to make child support payments beginning before the child’s birth.
+We do not agree with the defendant’s argument that his failure to understand the terms of the stipulated order renders that order invalid. As the state points out, a judgment or decree entered by consent of the parties is in the nature of a contract, approved by the court, and cannot be set aside except on grounds adequate to justify the rescission of a contract. Nieminen v. Pitzer, 281 Or 53, 57, 573 P2d 1227 (1978); Financial Indemnity v. Howser, 38 Or App 369, 372, 590 P2d 276 (1979).
+The order here was subject to being set aside only in an original proceeding alleging fraud in securing the consent, Schmidt v. Oregon Mining Co., 28 Or 9, 28, 40 P 406, 40 P 1014 (1895), quoted in State ex rel State Scholarship Comm. v. Magar, 288 Or 635, 641-642, 607 P2d 167 (1980), or alleging mutual mistake or actual absence of consent. See Westfall v. Wilson, 255 Or 428, 431, 467 P2d 966 (1970), quoting 139 ALR 422 (1942). A unilateral mistake is not grounds for setting aside a consent judgment where the mistake was neither actually nor constructively known to the other party. Nieminen v. Pitzer, supra, 281 Or at 57; Wershow v. Mc Veety Machinery, 263 Or 97, 102, 500 P2d 696 (1972).
+The facts of this case provide no grounds for rescission. The defendant read and signed the child support agreement, which clearly stated the amount to be paid, the time payment was to begin and the date the child was expected to be born. There is no evidence that either the state or the court induced the defendant’s consent to the agreement through fraud. There is no evidence of mutual mistake. If the defendant was mistaken unilaterally, there is no evidence that the state knew, either actually or constructively, of his mistake.
+It may be that defendant was negligent in failing to read the order before signing it. Negligent error in stipulating to a decree or order does not constitute grounds for setting it aside. Davis v. Brown, 280 Or 561, 564, 571 P2d 912 (1977). The agreement remained valid until set aside by the Clackamas County Circuit Court.
+We also disagree with the defendant’s claim that the Multnomah County court had no legal basis for ordering child support payments prior to the birth of the child. ORS 109.155(2) authorizes the circuit court in filiation proceedings to "approve any settlement reached between the parties and incorporate the same into any decree rendered * * The state correctly points out that the Multnomah County court merely incorporated the parties’ agreement into its order as that statutory provision authorizes. As this court has held, "[T]he authority of the court to approve a purported agreement between the parties depends upon the validity of the agreement.” Financial Indemnity v. Howser, supra, 38 Or App at 372. There is no suggestion that the agreement between defendant and the state was unlawful or otherwise impermissible.
+Affirmed in part and reversed in part.
+The child’s mother was receiving welfare benefits at that time. Among those entitled to initiate filiation proceedings is:
+"Any state agency, if furnishing support to the mother for the benefit of the child or if furnishing services or assistance of any kind because of the birth, or impending birth, of the child.” ORS 109.12B(l)(b).
+In both Nieminen and Warshow, the issue was whether to open a consent judgment under ORS 18.160, which gives the court discretion to relieve a party from a judgment, decree or order, "* * * taken against him through his mistake, inadvertance, surprise or excusable neglect.” This is the same statute relied upon by the defendant in his motion.
