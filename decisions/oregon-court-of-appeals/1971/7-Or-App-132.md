@@ -1,0 +1,31 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1971-11-05"
+citations: ["7 Or. App. 132", "490 P.2d 191"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Thornton, Judges."]
+parties: ["In the Matter of Lamar, Robin, a minor child. STATE OF OREGON EX REL JUVENILE DEPT. OF MULTNOMAH COUNTY, Respondent, v. ROBERT LAMAR, Appellant."]
+source_url: "https://static.case.law/or-app/7/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2131236
+cites_cases: ["230 Or 452", "43 Or L Rev 193"]
+---
+
+# State ex rel. Juvenile Dept. v. Lamar
+
+## Majority (LANGTRY, J.)
+
+LANGTRY, J.
+In this termination of parental rights case, the mother had some two years earlier given her consent to permanent commitment of the child to the Multnomah County Public Welfare Commission. After hearing, the child, Robin Lamar, age 7, was permanently committed to the Multnomah County Public Welfare Commission in an order of the juvenile court dated January 7, 1971. In the order the court found that the father of the child had wilfully deserted and neglected her without cause for a period in excess of one year, and was unfit by reason of conduct and condition seriously detrimental to the child, both grounds for such action under ORS 419.523. Specifically, the court found (a) that the child had been a ward of the court and temporarily committed to the Multnomah County Public Welfare Commission from September 1, 1966, due to parental neglect, and has been in foster care since January 5, 1966; (b) on April 7, 1970, a proceeding to terminate the father’s rights to the child was dismissed without prejudice but included therein was a finding that the father had not supported or planned for the child in violation of ORS 419.523; (c) that the father had not visited or supported the child since April 7, 1970, and had presented no plan for the future care of the child. The rights of the father to the child were permanently terminated in a separate order with substantially the same findings.
+Several assignments of error relate primarily to factual determinations made by the judge. One, however, relates to a ruling by the court when the father’s attorney sought to look at the welfare file during his eross-examination of the welfare caseworker assigned to the case while she was testifying. The reason for this request related to the caseworker’s testimony to the effect that the father had made virtually no contact with the welfare department over a period of years, and that his relatives also made very little contact. The testimony of the father and of his relatives in this regard was in sharp conflict with that of the caseworker in that they claimed they had made numerous contacts with the welfare department seeking visitations with the child and to offer plans for her care. They stated that visitations had been requested by them and refused by the caseworker, and that they had left requests for her to call them back, but she never did. The opportunity to see the file, which the caseworker had with her and to which she referred, would have been valuable in examining her credibility on cross-examination.
+In Chandler v. State, 230 Or 452, 370 P2d 626 (1962), the Oregon Supreme Court said that the trial court in such a situation, in view of the confidential nature given to the case work file by ORS 419.567(2) and ORS 411.320, should have gone through the case work file and made available pertinent parts of it for defense counsel to use in cross-examination. The court, with reference to the case work file, said at p 458:
+“* * * An opportunity to put it in evidence should have been allowed.
+“We are handicapped on this question because the file was not sealed and made a part of the record. It should have been. All of the evidence considered by the court on the challenged issues should have been made a part of the record on appeal, whatever its form may have been * *
+In the case at bar, when the request was made, the court required the caseworker to extract from the file before her a memorandum, apparently from among memoranda, to which she had referred while she testified concerning lack of contact over a period of years. This was marked Exhibit 3. We have it, and it is less than a half page long and refers only to some efforts made to contact the defendant after the first permanent commitment hearing in April of 1970. To cross-examine properly, parts of the file relating to contacts for several years should have been made available. We do not have the welfare department file as a part of the record before us, or the juvenile court social history file which apparently was shown to counsel. Obviously, there was not an adequate compliance with the requirements of Chandler v. State, supra.
+The other assignments of error, as we have noted above, relate primarily to factual decisions made by the court. No extensive discussion of these facts is indicated inasmuch as a further hearing on the facts must be held. However, defendant’s brief in impassioned terms accuses the welfare department of “intervening” in defendant’s family and “seizing” his child. The evidence does not justify such terminology. It appears that in 1965-66 defendant had left the child for some six months in the care of a brother. At that time the brother and defendant got into a fist fight over who could claim the baby as an income tax exemption. The landlord called the police to stop the fight and the upshot was wardship of the child and placement in welfare foster homes where she has since been maintained without aid from defendant. This is not “intervention” in defendant’s family, and it is not unjustified “seizure” of a child.
+Reversed and remanded.
+This opinion was roundly criticized in an article, Larsen, Trends and Developments in Oregon Family Law: Parental Pdghts and Child Welfare, 43 Or L Rev 193, 210-11. Larsen states:
+“* * * Chandler, as long as it remains law, offers substantial aid and comfort to an attorney jousting with a well-staffed welfare agency.”
+While the case has been criticized it has not been overruled and we are bound by it.
