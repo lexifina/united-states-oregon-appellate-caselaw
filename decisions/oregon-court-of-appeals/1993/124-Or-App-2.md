@@ -1,0 +1,37 @@
+---
+court: "Oregon Court of Appeals"
+docket: "86C-11786; CA A73016"
+decided: "1993-10-20"
+citations: ["124 Or. App. 2", "860 P.2d 912"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Warren, Presiding Judge, and Edmonds and Landau, Judges.", "WARREN, P. J."]
+parties: ["E. Mearl SPRINGER and Dorothy H. Springer, Appellants, v. HAUGEBERG, RUETER, STONE & GOWELL, P.C., Respondent."]
+source_url: "https://static.case.law/or-app/124/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4433171
+cites_cases: ["121 Or App 416", "297 Or 695", "309 Or 350", "317 Or 583", "318 Or 582"]
+---
+
+# Springer v. Haugeberg, Rueter, Stone & Gowell, P.C.
+
+## Majority (WARREN, P. J.)
+
+WARREN, P. J.
+Plaintiffs appeal from a judgment for defendant in this legal malpractice action. We reverse in part and affirm in part.
+Plaintiff E. Mearle Springer (Springer) is a building contractor who built a home for Michael and Sonja Brooks. A dispute developed between Springer and the Brooks and, as a result, Springer hired defendant law firm. Defendant prepared and filed a construction lien on behalf of Springer. At that time, there was already a $185,000 Federal Land Bank (bank) promissory note and mortgage (bank loan) recorded against the house that Springer built.
+Springer did not foreclose the lien, but instead, in November, 1982, Springer and his wife (plaintiffs) entered into a settlement agreement with the Brooks. The agreement settled and released all claims and included a promissory note from the Brooks to plaintiffs for $114,856, which was to be secured by either a trust deed or mortgage on the property, either of which would be second to the bank loan. A trust deed was selected to secure the note.
+In October, 1983, the Brooks defaulted on the note. On April 20,1984, defendant held a nonjudicial foreclosure of the trust deed by private sale. As of the date of foreclosure, the Brooks were in arrears on the bank loan and in arrears for property taxes. On October 1, 1984, an additional payment was to be due to the bank.
+Plaintiffs bid the full amount of the note and took the house subject to the bank loan. They brought all of the payments and taxes current and assumed the loan. The foreclosure sale extinguished any liability of the Brooks to plaintiffs.
+Plaintiffs filed this action for negligence and breach of fiduciary duty. The breach of fiduciary duty claim was dismissed before trial on defendant’s ORCP 21A motion. The negligence claim went to trial. At the end of plaintiffs’ evidence, defendant moved for a directed verdict, arguing that plaintiffs had not presented evidence that they would have received a better outcome but for defendant’s negligence, because there was no evidence of damages. The court granted the motion and entered judgment for defendant.
+Plaintiffs first assign as error the granting of the directed verdict on the negligence claim. Plaintiffs’ claim included two theories of negligence, arising from two events: (1) choosing a trust deed instead of a mortgage in 1982 to secure the 1982 note, and (2) foreclosing the trust deed in 1984 instead of suing on the note. The motion for a directed verdict cannot be sustained if any theory for recovery in plaintiffs’ case is supported by the evidence. Whinston v. Kaiser Foundation Hospital, 309 Or 350, 360, 788 P2d 428 (1990).
+Defendant’s motion for directed verdict was based only on the argument that plaintiffs did not present evidence of damages. Therefore, we will review to see if there is a complete absence of proof of damages. Brown v. J. C. Penney Co., 297 Or 695, 688 P2d 811 (1984). Because we conclude that there was evidence of damages to support plaintiffs’ second theory of negligence, we need not decide, and expressly do not decide, whether there was also evidence to support their first theory.
+As a preliminary matter, defendant argues that plaintiffs’ evidence did not raise a jury issue, because no expert testified that damage flowed from the claimed breach of the standard of care. Defendant gives no authority for the proposition that expert testimony is generally required to prove damages in a legal malpractice case, and we find none.
+Plaintiffs’ second theory of negligence is based on the April, 1984, foreclosure of the trust deed. Plaintiffs argue that they suffered two types of damage as a result of the foreclosure: (1) they lost money, and (2) they lost the opportunity to obtain a money judgment against the Brooks in an action on the note.
+Plaintiffs presented evidence showing that their cost of foreclosing was higher than the value of the property that they acquired. There was evidence that, at the time of foreclosure, the property was worth $216,000. The principal balance on the bank loan was $180,148, with $1,800 additional interest paid on plaintiffs’ assumption of the loan on August 1, 1984. A loan arrearage of $24,356 was paid on assumption and property taxes of $4,287 were owing at the time of foreclosure. Plaintiffs also presented evidence of a $23,127 bank payment due on October 1,1984, arguing that that amount should also be included in the calculation. When they assumed the loan, plaintiffs received stock in the bank valued at $9,250, which could be applied to the loan. Based on that evidence, the jury reasonably could have concluded that plaintiffs spent or assumed a liability of up to $233,718 to acquire the property and that they received less than that amount ($216,000 in value, plus $9,250 in stock, for a total of $225,250), so that they lost money by pursuing the foreclosure.
+Plaintiffs also argue that they suffered damage because they were not advised to sue the Brooks for $ 114,856, the face value of the note, instead of foreclosing. Defendant argues that, even if plaintiffs had won a judgment against the Brooks for the value of the note, it would not have been “collectible.” Defendant’s argument that plaintiffs were not damaged is based exclusively on the theory that plaintiffs must prove collectibility in order to survive a directed verdict based on a lack of evidence of damage. Defendants are in error.
+If a plaintiff argues in a legal malpractice case that the defendant caused the loss of a good cause of action, the plaintiff has suffered no damage unless the lost judgment has some value. Ridenour v. Lewis, 121 Or App 416, 419, 854 P2d 1005, rev den 317 Or 583 (1993). Evidence of the face value of a judgment is prima facie evidence of the judgment’s value, even if persuasive evidence is presented during the plaintiffs case that the judgment has little or no value. 121 Or App at 419. The determination of the actual value is a jury question. Evidence that plaintiffs could have obtained a judgment in an action on the note is sufficient evidence of damage to survive a directed verdict. Because there was evidence to support one of plaintiffs’ theories of negligence, the court erred in directing a verdict for defendant.
+Plaintiffs assign error to various evidentiary rulings. We will not address those assignments, because those same issues may not arise on remand.
+Plaintiffs also assign error to the trial court’s dismissal of their claim for breach of fiduciary duty for failure to state a claim. ORCP 21A. The court did not err.
+Judgment on claim for negligence reversed and remanded; otherwise affirmed.
