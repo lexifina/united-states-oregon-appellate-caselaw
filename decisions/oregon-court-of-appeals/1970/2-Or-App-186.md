@@ -1,0 +1,33 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1970-02-19"
+citations: ["2 Or. App. 186", "465 P.2d 490"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Foley, Judges."]
+parties: ["STATE OF OREGON, Respondent, v. JERRY JOE HOLLINGSWORTH, Appellant."]
+source_url: "https://static.case.law/or-app/2/cases/0186-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2063779
+cites_cases: ["10 ALR 3d 974", "216 Or 369", "232 Or 267", "234 Or 219", "242 Or 368", "253 Or 485", "254 Or 451", "324 P2d 821", "373 US 919", "384 US 436", "52 Wash2d 255", "58 Or 397"]
+---
+
+# State v. Hollingsworth
+
+## Majority (LANGTRY, J.)
+
+LANGTRY, J.
+The defendant was convicted of second degree murder and appeals. Defendant was charged with first degree murder in the slaying of Dean Edward Hollowwa, on December 17,1967, in a tavern in Coos Bay, Oregon. Defendant’s testimony was to the effect that a fight erupted at the tavern between him and the deceased, and that defendant drew a .22 revolver, which he had borrowed for target practice, and shot the deceased in self-defense. Defendant’s testimony was controverted by three witnesses in the tavern, who stated that defendant and deceased were sober, that there was no hostility between the men prior to the shooting, and that the deceased had not hinged at defendant prior to the drawing of the gnn.
+After defendant’s arrest, he was given the Miranda warnings, hut made a statement to the effect that deceased had been taking out his estranged wife.
+The errors alleged are: (1) failure by the court to grant a mistrial, stm sponte, when a juror, who appeared to have made some remarks about having heard that defendant’s wife was “going out with this here guy, the one that got shot,” was removed during the trial and replaced by an alternate juror; (2) receiving evidence concerning defendant’s having committed a “felony” in carrying a concealed weapon, when that offense is in fact a misdemeanor; and (3) allowing the testimony of a witness concerning defendant’s attempt to learn who was taking out his estranged wife.
+(1). There was no error involved in the juror incident. At the time the juror was replaced with the alternate, the court individually asked each of the defendant’s two attorneys if he concurred in the court’s action and each of them agreed that he did. One had requested that such action be taken. The court then asked the defendant personally whether he had an opinion independent of his counsel and he answered, “No. Your Honor.” Defendant and his counsel cannot request that such action be taken, acquiesce in it, and then seek to take advantage of it when the verdict is adverse. Under the circumstances of this case, the acquiescence of counsel and defendant can be viewed as trial tactics, which closes the matter. As said in North v. Cupp, 254 Or 451, 461 P2d 271 (1969), any other holding would allow counsel and defendant to do as they did “secure in the knowledge that his client always had an anchor to the windward guaranteeing him a new trial if the jury’s verdict was adverse.” In any event, the action of the trial' court was discretionary and will not be grounds for reversal on appeal unless there is manifest abuse, which is not the case here. State v. Otten, 234 Or 219, 380 P2d 812 (1963); State v. Roden, 216 Or 369, 371, 339 P2d 438 (1959); State v. Morris, 58 Or 397, 407, 114 P 476 (1911); State v. Thomas, 52 Wash2d 255, 324 P2d 821 (1958).
+(2). This assignment arose out of the cross-examination of the defendant. Defendant was asked if he knew it was a felony for him to carry a concealed weapon. Referring to this testimony, the trial judge instructed:
+“[Judge Norman:] -Now as-to the statement that he knew it was unlawful to . carry a gun and that it was a felony, you are permitted and were permitted to hear this not only because it was brought out by the defendant, himself,.but because of any bearing it might have on any issue of this indictment, but you have no charge before you of unlawful carrying of a gun * *
+No objection was made to the prosecutor’s questions and no exception taken to the court’s instruction. There is no reason to depart from the rule that alleged error not objected to on trial will not be considered on appeal. The simple carrying of a concealed weapon under the statutes of Oregon is a misdemeanor. However, the evidence is so overwhelmingly against the defendant that, as in State v. Anderson, 242 Or 368, 371, 409 P2d 681 (1966), the reference to the carrying of the revolver, regardless of whether it was called a felony or a misdemeanor, “could have had no effect whatever upon the verdict in this case.”
+(3). Mike Tharp testified for the state that “a couple of weeks” before the shooting he was with the defendant when they drove by the defendant’s estranged wife’s residence, and the defendant asked Tharp to go up the front steps of the house to see who was with her. This witness also testified that defendant asked him whether anybody was seeing his estranged wife, and if he would see if anybody was going out with her. The witness said that he replied to the defendant that such a thing was not necessary “because it could be somebody seeing the other woman that was living there.” This testimony was objected to by defendant’s counsel as being irrelevant. We do not agree that it was irrelevant because the defendant was charged with first degree murder. Evidence that defendant was seeking out anyone romancing his estranged wife was relevant to motive, intent, malice, and premeditation.
+“* * * Under all the circumstances, the evidence objected to was relevant, and, while it may have had grave consequences for the defendant, its prejudicial effect was only incidental to its probative value in meeting the burden upon the state to prove premeditation and malice.” State v. Freeman, 232 Or 267, 272, 374 P2d 453 (1962), cert den 373 US 919 (1963).
+The only error which we see was one favorable to defendant, in that the trial court rejected other testimony in an offer of proof by the prosecution to the effect that defendant was on a hunt for any man who was seeing his estranged wife.
+“ ‘threats against a particular class of persons * * * are admissible in a prosecution for killing a member of the particular class indicated in the threats’.” State v. Klamert, 253 Or 485, 488, 455 P2d 607 (1969).
+We find no prejudicial error in the record. Judgment affirmed.
+Miranda v. Arizona, 384 US 436, 86 S Ct 1602, 16 L Ed 2d 694, 10 ALR 3d 974 (1966).
