@@ -1,0 +1,43 @@
+---
+court: "Oregon Court of Appeals"
+docket: "76-5248, CA 10058"
+decided: "1978-07-05"
+citations: ["35 Or. App. 13", "580 P.2d 1040"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Lee, Richardson and Joseph, Judges.", "SCHWAB, C. J."]
+parties: ["RIEGER, Respondent, v. STATE ACCIDENT INSURANCE FUND, Petitioner."]
+source_url: "https://static.case.law/or-app/35/cases/0013-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2142979
+---
+
+# Rieger v. State Accident Insurance Fund
+
+## Majority (SCHWAB, C. J.)
+
+SCHWAB, C. J.
+The issue in this workers’ compensation case is whether claimant’s work activities caused or materially contributed to her back condition which required surgery. Contrary to the Board, we agree with the referee that it did not, and adopt the referee’s opinion, which states in pertinent part:
+"Claimant alleges she sustained a compensable injury or occupational disease on June 24,1976 because of prolonged sitting in a chair, apparently not adjusted to her needs, while learning a data processing operation * * *. During the morning hours of that day, approximately 10:20 a.m., after her break, claimant leaned forward and felt a 'peculiar feeling’ in her back. Throughout the day claimant’s condition worsened, as she later felt pain and discomfort in the left hip area, which radiated down and throughout her left leg. The symptoms persisted from Friday, June 25, 1976 to Monday, June 28, 1976. Claimant, on June 28, 1976, notified her employer of her claim * * *.
+"Dr. Richard D. Hews, a chiropractic physician, examined claimant on June 28, 1976. He diagnosed a lumbosacral strain and recommended chiropractic adjustments. The doctor felt that claimant’s condition, which required treatment, was the result of industrial injury or exposure as described by her * * *.
+"X-rays of the lumbar spine, taken on July 20,1976, indicated narrowed L4-5 and L5-S1 disc spaces with secondary degenerative changes and a mild rotoscoliosis * * *. Myelographic studies, taken on July 30, 1976, showed a large extradural defect on the left at L4-5 * * *
+"Dr. Tsai, on July 30,1976, diagnosed left L5 radicular compression due to herniation of the nucleus pulposus at L4-5, left, traumatic * * *. Thereafter, on August 2, 1976, he performed surgery * * * a left L4-5 laminotomy, foraminotomy and diskectomy * * *. Based upon history given him by claimant, the doctor noted that claimant’s condition was 'precipitated while at work’ * * *. Apparently, the operative procedures have improved claimant’s condition, because, with an exception of a loss of feeling in her big left toe, she has not experienced any substantial problems with her low back, left hip and left leg condition.
+"Dr. Russell W. Parcher, Medical Director for SAIF, testified at the hearing. The doctor opined that claimant’s low back, left hip and left leg condition, which required surgery, was not caused, or materially contributed to, by claimant’s work-connected activities, e.g., prolonged sitting, leaning forward and reaching with her arms extended. He noted that there was no 'substantial stress or weight’ placed on her back during these activities. Rather, the doctor felt that claimant’s condition came about because of a ruptured disc, which was the result of a long-standing degenerative arthritic condition. His opinion is based upon a reasonable medical probability. The doctor had reviewed all reports in evidence and had listened to the testimony before the referee.
+"Claimant was off work on July 9 and 10, 1976 and was off work during the period when she was hospitalized for diagnostic studies and surgery. She was released for work on or about October 1, 1976 and returned to work on October 18, 1976.
+« ifc * * * *
+"Pre June 6, 1976, claimant had not been involved in any accidents or sustained any traumatic injuries to her low back, left hip or left leg. She had, however, experienced periodic 'soreness’ in her low back, which required infrequent chiropractic adjustments, a condition which prevailed since early womanhood.
+"The testimony of Delores West, a co-worker, corroborates that claimant made complaints about the chair in which she was sitting and the effect upon her back on June 24, 1976. I note, the chair in which claimant was sitting was maintained by appropriate sponge rubber padding on the back and seating positions. There is some indication such padding was utilized because Ms. West had a bad back condition. Also, I note, the chair was adjustable * * *.
+« ‡ ‡ ‡ ‡ $
+"Based upon the evidence presented at the hearing, including all credible lay and expert testimony, the referee concludes:
+"(1) Claimant has failed to prove, by a preponderance of the evidence, a compensable claim. Considering claimant’s pre-existing back condition, the physical attributes of the chair in which she was sitting (sponge rubber padding), claimant’s work activities on June 24, 1976 and the expert opinion of Dr. Parcher, the referee does not believe claimant’s work activities caused, or were a material factor, in her low back, left hip and left leg condition which became apparent on June 24, 1976 and which later required surgery. Rather, it appears that claimant’s condition resulted only from a long-standing degenerative arthritic condition, an idiopathic condition. The referee accepts the opinion of Dr. Parcher over the opinion of other doctors contained in the record, as his opinion is explicitly explained in detail and appears to be more consistent with the factual data and history presented. Their opinions appear conclusionary only and are based on the history given by claimant. It is clear that claimant’s symptoms began while at work; however, it is the opinion of the referee that her work activities were not a material contributing factor in her low back, left hip or left leg condition. There is a failure of proof. The claim is denied.”
+The only medical evidence in the record which the claimant points to as supporting compensability is contained in a report from the doctor who performed the surgery:
+"IMPRESSION: * * * [M]ost likely due to herniation of nucleus pulposus * * * precipitated while at work * * * from history.”
+With regard to the relative weight to be given the medical testimony we agree with the dissenting Board member, who stated:
+"This reviewer finds an overemphasis placed on the fact that claimant sat in a certain chair for approximately two hours when she was assigned to train for a new job. She sat in a different chair, however, her customary chair was nearby and had she choosen to do so, simply by rolling it along the floor, she could have substituted her own chair. She could have changed chairs had she been suffering any discomfort or had the chair been materially different than her own. In the absence of evidence of not being permitted to change chairs, it appears very unlikely that claimant was forced to, or did, sit in any unusual posture or any strained position at any time.
+"With respect to Dr. Tsai vs. Dr. Parcher, as to expertise, knowledge of the case, etc., this reviewer is of the opinion that the weight given to the testimony of an expert is based on how much of the particular patient’s history is really known to the expert. There is no way of knowing what claimant told Dr. Tsai and it does appear from the reports in evidence that claimant amplified the differences between Tier chair’ and the 'loaned chair.’
+"Dr. Tsai did not say the work caused or aggravated the condition or that the work precipitated the injury. Instead, he said, based upon the history given by claimant, the condition was precipitated 'while at work.’
+"At the hearing, when Dr. Parcher was asked whether or not sitting in the chair was a material contributing factor in the herniation of the intervertebral disc for which claimant sought treatment he replied:
+" T don’t believe that it would be considered as a materially contributing factor . . . Due to the minimal, trivial mechanics involved in a spine in the sitting position, which is not the usual way that we place any force, unusual force, on the disc at any place. It is in a more acute strained, bending, lifting, with the spine in a flexed position rather than in a sitting position. The mechanics are entirely different.’
+"Rather, the doctor felt that claimant’s condition came about because of a ruptured disc, which was the result of a long-standing degenerative arthritic condition, an idiopathic condition. His opinion was based upon a medical probability.”
+Reversed.
