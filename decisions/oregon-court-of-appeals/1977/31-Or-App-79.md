@@ -1,0 +1,32 @@
+---
+court: "Oregon Court of Appeals"
+docket: "77-P-2009, CA 8771"
+decided: "1977-10-04"
+citations: ["31 Or. App. 79", "569 P.2d 699"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Thornton and Buttler, Judges.", "BUTTLER, J."]
+parties: ["HALL, Petitioner, v. EMPLOYMENT DIVISION, Respondents."]
+source_url: "https://static.case.law/or-app/31/cases/[79]-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6035498
+cites_cases: ["10 Or App 94", "21 Or App 785", "228 Or 452", "24 Or App 201", "24 Or App 215", "26 Or App 549", "544 P2d 1066", "9 Or App 25"]
+---
+
+# Hall v. Employment Division
+
+## Majority (BUTTLER, J.)
+
+BUTTLER, J.
+Petitioner seeks judicial review of the decision of the Employment Appeals Board denying her unemployment compensation because she was discharged for misconduct connected with her work. ORS 657.176(2)(a). The Board reversed the decision of the referee.
+Employer operates a mobile food service. Petitioner was employed as a mobile chef, which involved procuring food from employer’s warehouse, placing it in a truck, driving the truck on an assigned route to different locations and selling food to customers. Some of the food, including burritos, was frozen and had to be heated prior to sale. To minimize the risk of food poisoning resulting from a customer’s eating spoiled food, employer had a rule that any frozen food which had been heated and not sold the same day was to be put in the "stale box” at the warehouse at the end of that day, and was not to be reheated or sold to customers. Petitioner was aware of this rule.
+Records were kept of the number of particular food items ordered by each mobile chef each day, and each was "charged” for them. At the end of the shift, the unsold items were turned in for credit, and heated but unsold items, and other stale items, were discarded.
+Employees were given credit on the accounting for stale items discarded. Among other things, such records were used in determining the bonus of a particular employee.
+The employer became suspicious that petitioner was getting credit for more discarded burritos than she was ordering. In order to determine whether claimant was reheating and selling burritos to customers, wrappings of the stale burritos in the stale basket were marked prior to the commencement of her shift. She was observed taking some of the marked stale burritos and putting them in the oven in her truck. Thereafter, two supervisors went to a location where petitioner was selling to customers; one supervisor observed petitioner sell two marked burritos, and the other, who was stationed on the other side of the truck, observed marked burritos in the storage bin on that side of the truck. Petitioner was discharged upon her return to the warehouse that afternoon. She was told her dismissal was for selling reheated burritos in contravention of company rules.
+The foregoing facts are among those found by the Appeals Board. On review, this Court may not substitute its judgment for that of the Board, ORS 183.482(7), and may not reverse the Board’s order unless it is "not supported by substantial evidence in the whole record.” ORS 183.482(8)(d). In our opinion, those facts are supported by substantial evidence in the whole record. Wilton v. Employment Div., 26 Or App 549, 553 P2d 1071 (1976); Cantrell v. Employment Division, 24 Or App 215, 545 P2d 143 (1975), Sup Ct review denied (1976).
+The Board, however, also found that petitioner had received credit for stale burritos when she had not ordered any, and based its conclusion, in part, on that finding. We do not decide whether that finding is supported by substantial evidence because the employer did not give that reason for discharging petitioner. See Publishers Paper Co. v. Morgan, 10 Or App 94, 498 P2d 798, Sup Ct review denied (1972). As we construe the record, the purpose of this testimony was to explain the employer’s suspicion which led to the marked burrito incident, and it was adequate for this purpose. We note, however, that while substantial evidence has been stated to be any "reasonable evidence,” Hickam v. Morgan, 9 Or App 25, 28, 495 P2d 1243 (1972), and such evidence "as a reasonable mind would employ to support a conclusion * * *,” Henzel et al v. Cameron et al, 228 Or 452, 464, 365 P2d 498 (1961), the employer was in a position to produce stronger and more satisfactory evidence on this point (its business records), and therefore the evidence offered, if it were offered to prove this fact, would be viewed with distrust. See Cantrell v. Employment Division, supra.
+Petitioner, while admitting she had reheated and sold some burritos on the day in question, contends it was done by innocent mistake; she gave involved, inconsistent explanations as to how it might have happened. She also contends that since she had been employed for two years without any complaints as to her job performance, she was entitled to a warning before she was terminated. At most, she contends, the incident was an isolated one involving poor judgment rather than misconduct warranting denial of benefits. Geraths v. Employment Division, 24 Or App 201, 544 P2d 1066 (1976).
+In our opinion the single incident involved here constituted misconduct connected with claimant’s work within the meaning of ORS 657.176(2)(a) thereby disqualifying her from benefits. Accepting, as we do, the Board’s finding that petitioner knowingly violated the employer’s rule against reheating and selling stale burritos, petitioner’s conduct was not simply an error in judgment as in Geraths, it was in direct violation of the employer’s rule designed to minimize the possibility of a customer’s being poisoned by spoiled food. The violation of that rule was in derogation of the interests of the employer and constituted a disregard of standards of behavior which the employer has the right to expect of his employee. Romanosky v. Employment Div., 21 Or App 785, 536 P2d 1277 (1975). To require the employer to give a warning for the first violation would be unreasonable; the conduct jeopardized the health of the consuming public, could damage the employer’s reputation and good will, and could expose the employer to liability for damages.
+We hold that petitioner was discharged for misconduct connected with her work.
+Affirmed.
