@@ -1,0 +1,42 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1971-12-27"
+citations: ["8 Or. App. 78", "492 P.2d 305"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Langtry and Thornton, Judges."]
+parties: ["STATE OF OREGON, Respondent, v. ELMER LEROY FARR, Appellant."]
+source_url: "https://static.case.law/or-app/8/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2132582
+cites_cases: ["232 Or 396", "259 Or 232", "259 Or 239", "259 Or 241", "260 Or 347", "3 Or App 313", "352 US 322", "59 ALR2d 940", "6 Or App 27"]
+---
+
+# State v. Farr
+
+## Majority (LANGrTBY, J.)
+
+LANGrTBY, J.
+Defendant appeals from conviction of two counts in one indictment (1) entering a vehicle with intent to steal, OBS 164.330, and (2) grand larceny, OBS 164.310 (1)(a). Both charges grew out of the same transaction in which, defendant was accused of stealing a rifle from a vehicle.
+Errors alleged which merit consideration are (1) judgment of acquittal for lack of evidence should have been allowed; (2) conviction could not be valid on both counts; (3) (a) a new trial should have been granted because the rifle was not timely received in evidence, and (b) it, in fact, varied from its description in the indictment.
+On October 23, 1969, at about 7 p.m., a witness saw a man enter a pickup vehicle parked on a Baker, Oregon, street, take therefrom a rifle, get into a vehicle he had parked nearby and drive away. It developed that this constituted theft of the rifle. The witness followed the vehicle and noted its Idaho license number, that it was heavily laden with a top carrier, was dark in color, contained a man and woman, and was traveling highway Interstate 80 toward Ontario. She immediately reported her observations to police. Some 40 minutes later, responsive to a radio message, a state police officer stopped a car traveling toward and a few miles outside Ontario. It was driven by defendant, who was accompanied only by his wife. It answered all items of the description given by the witness, except that the officer testified the car was a blue-green and “light.” The exact license number given by the Baker witness never came into evidence, but she testified it was an Idaho license plate, which checked with the officer’s observation of the car defendant was driving. The officer looked from the outside of the vehicle to the inside, saw no rifle, and let it proceed.
+In May 1970, defendant was arrested in Idaho on some other matter, and in connection with that arrest a Springfield 30.06 rifle was found in his home which was identified as the one stolen from the vehicle in Baker.
+The Baker witness made no in-court attempt to identify defendant. Defendant contended he had purchased the rifle. His wife, as a witness, produced a receipt evidencing purchase of such a rifle for $35.00 on October 24 from “Rex Oliver Baker Oregon,” who was otherwise unidentified.
+The evidence linking defendant with the theft was circumstantial, but sufficient to make a jury question. Defendant, by reasonable inference, was placed in the vicinity at the correct time on October 23, admittedly driving a vehicle like that which the witness to the theft testified was driven by the thief. The fact that every detail of the witness’s description of the vehicle did not check with the officer’s description was a matter for the jury to consider. This placing of defendant at the time and place, coupled with his possession of the stolen rifle, sufficiently supports the jury’s verdict.
+As we have noted, defendant was charged with two crimes growing out of one transaction. ORS 164.330, which was the basis for Count I, provides:
+“Any person who enters any * # * vehicle * * * in which any property is kept, with intent to steal * * * is guilty * * * ”
+The penalty may be for misdemeanor or for felony with a maximum punishment of 5 years’ imprisonment.
+ORS 164.310, which was the basis for Count n, provides:
+“(1) Any person who steals * * * property * * *
+“(a) * * * [exceeding] $75 in value, shall be punished upon conviction by imprisonment in the penitentiary for not more than 10 years.”
+The jury convicted of both crimes and the court sentenced defendant to five years and eight years, respectively, sentences to run concurrently.
+The reasoning in State v. Woolard, 259 Or 232, 484 P2d 314, 485 P2d 1194 (1971), opinion of the court, and specially concurring opinion, 259 Or 239, and in Prince v. United States, 352 US 322, 77 S Ct 403, 1 L Ed 2d 370, 59 ALR2d 940 (1957), is applicable to this situation and these statues. See also State v. Smith, 6 Or App 27, 487 P2d 90, Sup Ct review denied (1971). This reasoning will not permit a conviction and sentence for both counts to stand. State v. Woolard, on petition for rehearing, 259 Or 241, 485 P2d 1194, and State v. Glipston, 3 Or App 313, 325-330, 473 P2d 682 (1970), hold that only the conviction and sentence for the major offense may stand. The major offense in the case at bar is grand larceny, ORS 164.310.
+The stolen rifle was tagged by the clerk for identification, and although it was much handled and was the subject of much testimony, the prosecutor failed to offer it in evidence until after closing arguments. Those arguments are not a part of the record before us, but it is apparent that defendant’s counsel in argument made much of the prosecutor’s carelessness. The prosecutor then moved to reopen the case for introduction of the rifle. This the court allowed, and after the rifle was received the court allowed first the prosecutor and then the defense to make additional jury arguments.
+“* * * The rule in larceny cases is applicable. That rule is that identification of property found in possession of the accused as that stolen in the theft with which he is charged must be by the most direct and positive testimony of which the case is susceptible * * * [citing cases].” State v. Osier, 232 Or 396, 403, 376 P2d 87 (1962).
+The owner of the rifle identified it as his, particularly noting a mark on the scope. The rifle was needed in evidence as part of this “most direct and positive testimony of which the case is susceptible.” Therefore, when it was called to the court’s attention that an oversight had occurred, it was necessary to allow the rifle to be received or face the possibility of a miscarriage of justice or the time and expense of a new trial.
+* * Whether there shall be a departure from the usual order of proof is a matter addressed to the sound discretion of the trial court, and an appellate court will interfere only where there is an abuse of discretion, as where the effect is to countenance or aid trickery or unfairness on the part of counsel. * * * [It] has generally been held not to be reversible error unless it is prejudicial * * 53 Am Jur 103-04, Trial § 116.
+No unfairness was involved in the case at bar. Defendant was not prejudiced in any real sense by the late reception of the rifle. True, he sought to take advantage of the prosecutor’s neglect, but the rifle had been clearly identified; the ends of justice were served by having it in evidence and no legitimate purpose of the defendant was prejudiced.
+Defendant contends that because the indictment charged that the stolen rifle was a Springfield 30.06, whereas the rifle in evidence bore the manufacturer’s name “Remington,” there was a fatal variance in the proof. The contention is frivolous. Several witnesses, including an expert gunsmith, inspected the rifle in the courtroom and testified that it is a Springfield 30.06 rifle.
+The judgment is reversed in the respect that the conviction and sentence under Count I of the indictment are nullified. The balance of the judgment is affirmed.
+® The prosecutor makes the point that no objection was made in the trial court to the multiple charge in the indictment, hence, we should not consider this assignment of error, citing State v. Ragghianti, 260 Or 347, 490 P2d 490 (1971). State v. Woolard, supra, was decided after the trial of the case at bar. We can thus see a reason for no objection having been made. The error substantially affects defendant’s status by placing one felony conviction against him which should not exist. Therefore, we are invoking Rule 5.40 under which the court reserves the right to take notice of an error apparent on the face of the record, regardless of whether proper objection was made in the trial court.
