@@ -6,6 +6,7 @@ citations: ["9 Or. App. 549", "497 P.2d 1217"]
 reporter: "or-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 judges: ["Before Schwab, Chief Judge, and Langtry and Foley, Judges."]
 parties: ["TROY WAYNE WEDDLE, Appellant, v. CUPP, Respondent."]
 source_url: "https://static.case.law/or-app/9/cases/0549-01.json"
@@ -15,4 +16,15 @@ cap_id: 2133862
 
 # Weddle v. Cupp
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+Argued June 21,
+affirmed June 21, 1972
+TROY WAYNE WEDDLE, Appellant, v. CUPP, Respondent.
+(No. 75559)
+497 P2d 1217
+Ken C. Hadley, Deputy Public Defender, Salem, argued the cause for appellant. With him on the brief was Gary D. Babcock, Public Defender, Salem.
+Robert L. Misner, Assistant Attorney General, Salem, argued the cause for respondent. With him on the brief were Lee Johnson, Attorney General, and John W. Osburn, Solicitor General, Salem.
+Before Schwab, Chief Judge, and Langtry and Foley, Judges.
