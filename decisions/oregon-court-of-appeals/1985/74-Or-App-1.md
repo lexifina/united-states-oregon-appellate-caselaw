@@ -1,0 +1,38 @@
+---
+court: "Oregon Court of Appeals"
+docket: "A8305-03272; CA A31860"
+decided: "1985-06-05"
+citations: ["74 Or. App. 1", "701 P.2d 791"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Richardson, Presiding Judge, and Warden and Newman, Judges.", "RICHARDSON, P. J."]
+parties: ["FIRST INTERSTATE BANK OF OREGON, Respondent, v. ALLSTATE INSURANCE COMPANY, Appellant."]
+source_url: "https://static.case.law/or-app/74/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4389873
+cites_cases: ["268 Or 426", "47 Or App 339"]
+---
+
+# First Interstate Bank v. Allstate Insurance
+
+## Majority (RICHARDSON, P. J.)
+
+RICHARDSON, P. J.
+The defendant insurer appeals from a judgment for plaintiff in this action on a loss payable endorsement to an insurance policy. We affirm.
+Plaintiff loaned Leonard and Linda Grill approximately $55,000 in connection with their purchase of a boat. As required by the security agreement between plaintiff and the Grills, the Grills insured the boat with defendant. In addition to the insurance policy’s coverage uf the Grills, it contains a “Lender’s Loss Payable Endorsement” insuring plaintiff as the loss payee. The boat was destroyed by a hurricane while the Grills were sailing in Mexican territorial waters, more than 50 statute miles away from the United States coastline. Defendant denied plaintiffs claim on the basis of the following provision in the policy:
+“When and Where the Policy Applies During the premium period, your [defined as the policyholder and his resident spouse] policy applies to loss to insured property, accidents and occurrences which occur upon the land, coastal waters, tributaries, inland lakes and rivers of the continental United States of America, Hawaii and Canada. Coastal waters means ocean waters which extend 50 statute miles from the coastline of the continental United States of America, Hawaii and Canada.” (Emphasis in original.)
+Plaintiff contends that the territorial limitation applies only to the Grills’ coverage and that the loss payable endorsement contains specific language that provides coverage to plaintiff independently of any territorial limitation in the policy. Paragraph 2 of the endorsement, on which plaintiff relies, states in pertinent part:
+“The insurance under this policy, or any rider or endorsement attached thereto, as to the interest only of the Lender, its successors and assigns, shall not be invalidated nor suspended: (a) by any error, omission, or change respecting the ownership, description, possession, or location of the subject of the insurance or the interest therein * * *.” (Emphasis supplied.)
+Plaintiffs principal argument is:
+“Though the insurance coverage was suspended, as to the borrowers, while they had the sailboat in Mexico, the language in paragraph 2 of the Lender’s Loss Payable Endorsement prevented plaintiff from losing the insurance protection. If that language in paragraph 2 of the endorsement is not construed as plaintiff suggests, then it has absolutely no meaning at all. Given that situation, the policy expressly and unambiguously covers plaintiffs loss in this case.” (Emphasis plaintiffs.)
+Plaintiff argues alternatively that the language of the endorsement and of the territorial limitation in the policy are ambiguous when read together and that the ambiguity should be resolved against the insurer.
+Defendant argues that “a standard loss payable endorsement cannot extend the coverage under the insurance contract to risks not otherwise covered,” that the territorial limitation in the policy unambiguously excludes coverage for the loss of the boat in Mexican waters and that, therefore, notwithstanding anything in the endorsement, plaintiff is not entitled to recover.
+Defendant relies on Western Leasing v. Occidental Fire, 268 Or 426, 521 P2d 352 (1974), where the underlying policy provided coverage for damage to leased trucks resulting from “collision or upset.” The loss payable endorsement stated, as relevant, that coverage for the lessor “shall not be invalidated by any act or neglect of the lessee.” The driver of a leased truck damaged the trailer when he negligently collided with a bridge. He caused further damage by negligently continuing to pull the trailer for 1,000 miles after the collision occurred. The court held that the lessor could recover for the damage caused by the collision but not for the subsequent damage caused by the driver’s continued pulling of the trailer, because the later damage did not result from the collision.
+In Western Leasing, neither the coverage provisions of the underlying policy nor anything in the endorsement purported to allow recovery for the damages that were'not caused by a collision. There was no arguable conflict between what the underlying policy covered and what the endorsement covered. The issue in this case, conversely, is whether the endorsement does provide coverage for an injurious event which is not insured by the underlying policy or which creates an exception to the underlying policy’s limitation on coverage.
+Defendant places emphasis on the statement in Western Leasing that
+“* * * a ‘standard’ loss payable clause (as distinct from a ‘simple’ or ‘open’ loss payable clause), constitutes an independent contract between the insurance company and the loss payee. * * *
+“Nevertheless, the coverage of the policy is not, as a result, extended to risks not otherwise covered by the policy. In other words, such a loss payee is entitled to payment for losses arising from risks that are covered by the policy, but is not, by the addition of a ‘standard’ loss payable clause, entitled to payment for losses arising from risks that are not covered by the policy.” 268 Or at 429-30.
+Defendant understands that statement to mean that, as a general proposition, a loss payee cannot recover “under a standard loss payable endorsement [unless] the loss is one which arose from a risk that was covered by the terms of the underlying insurance contract.” Stated otherwise, defendant’s understanding of the court’s statement is that a loss payable endorsement cannot provide coverage for risks that are not covered by the underlying policy. That understanding is not correct. Although the statement uses the expression “risks * * * covered by the policy,” the word “policy” in the context of the statement and in the context of the opinion refers to both the underlying policy and the endorsement that had become a part of it. See First Far West Transp. v. Carolina Casualty Ins., 47 Or App 339, 344, 614 P2d 1187 (1980), where we stated that “[a]n endorsement becomes a part of the insurance contract and must be construed with it. To the extent of any conflict between the policy and endorsement, the endorsement controls.” (Citations omitted.) We conclude that Western Leasing is inapposite. We also conclude that the rule defendant mistakenly ascribes to Western Leasing is one that no court would lightly adopt. It is a truism that an endorsement can be used to affect coverage as well as any other terms of an insurance contract.
+Defendant focuses almost entirely on the proposition that, as a matter of law, the endorsement cannot create coverage for plaintiff that is not within the coverage of the underlying policy. For the reasons we have stated, we disagree with that proposition. Defendant does not respond to plaintiffs contention that the endorsement here does provide coverage beyond the territorially limited coverage under the policy provision, we therefore do not address that issue.
+Affirmed.
