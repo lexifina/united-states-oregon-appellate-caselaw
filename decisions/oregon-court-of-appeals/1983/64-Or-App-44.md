@@ -1,0 +1,34 @@
+---
+court: "Oregon Court of Appeals"
+docket: "77 716 L, 77 731 L; CA No. A26169"
+decided: "1983-07-27"
+citations: ["64 Or. App. 44", "666 P.2d 1373"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Gillette, Presiding Judge, and Warden and Young, Judges.", "YOUNG, J."]
+parties: ["STATE OF OREGON, Respondent, v. ALLEN WAYNE HOLLANDSWORTH, Appellant."]
+source_url: "https://static.case.law/or-app/64/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8683823
+cites_cases: ["16 Or App 310", "20 Or App 439", "206 Or 496", "253 Or 458", "267 Or 266", "271 Or 558", "275 Or 97", "292 P2d 799", "295 Or 142", "397 US 436", "51 Or App 569", "716 L, 77", "9 ALR3d 203"]
+---
+
+# State v. Hollandsworth
+
+## Majority (YOUNG, J.)
+
+YOUNG, J.
+Defendant appeals a conviction for driving while under the influence of intoxicating liquor. ORS 487.540. He contends that it was error to deny his motion to dismiss on the basis of collateral estoppel. ORS 43.160.
+A single indictment charged defendant with two counts of felony driving while suspended (DWS), ORS 487.560, and one count of driving while under the influence of intoxicants (DUII). The three crimes were alleged to have occurred in the same act or transaction. Over the state’s objection, the trial court granted defendant’s motion to sever for trial the two counts of driving while suspended from the DUII count. See State v. Fitzgerald, 267 Or 266, 516 P2d 1280 (1973). The state then dismissed one count of DWS, and the parties proceeded to trial on the remaining DWS count. On the basis of a stipulation, the only factual issue submitted to the jury was whether defendant was driving a vehicle when he was stopped by the officer. The jury returned a verdict of not guilty. Defendant then moved to dismiss the DUII count on the ground that the state was collaterally estopped to retry the issue of whether defendant was driving. The trial court denied the motion, and defendant was found guilty of DUII. The sole question on appeal is whether the state is collaterally estopped from relitigating the driving issue in the second trial.
+The doctrine of collateral estoppel applies in civil and criminal cases. State v. Dewey, 206 Or 496, 504-08, 292 P2d 799 (1956); see ORS 136.430. It is distinguishable from res judicata, State v. George, 253 Or 458, 463, 455 P2d 609 (1969), and from double jeopardy, see Annot., 9 ALR3d 203, 221-22 (1966). See State v. Hoare, 20 Or App 439, 447, 532 P2d 240 (1975).
+In the present case, the issue of whether defendant was driving a motor vehicle was a material (and the only) issue in the first trial. That factual issue was finally and necessarily determined by the jury verdict and resulting judgment of acquittal. The state, therefore, should be precluded from relitigating. State v. George, supra; State v. Bradley, 51 Or App 569, 626 P2d 403 (1981).
+The state argues that defendant has impliedly waived the protections of collateral estoppel by requesting and receiving separate trials on the DWS and DUII charges. The state contends that defendant’s request for separate trials should be deemed a waiver of the right to rely on collateral estoppel in the same way that a request for separate trials waives the right to rely on a claim of double jeopardy. Compare State v. Boyd, 271 Or 558, 533 P2d 795 (1975); State v. Bishop, 16 Or App 310, 518 P2d 177 (1974).
+We disagree. So far as this record discloses, the state had a full and fair opportunity to litigate the pivitol issue in the first trial. It lost; defendant won. We see nothing in defendant’s exercise of his Boyd/Bishop rights which suggests — and nothing in that procedure which requires — a waiver. Collateral estoppel is a matter of judicial finality and economy. In re Kim Jordan, 295 Or 142, 665 P2d 341 (1983); State Farm v. Century Home, 275 Or 97, 107-08, 550 P2d 1185 (1976). Its purposes are served here.
+Reversed.
+Defendant does not claim double jeopardy under ORS 131.515, Oregon Constitution, Article I, Section 12, or the fifth amendment of the United States Constitution. See State v. Bradley, 51 Or App 569, 626 P2d 403 (1981).
+There is no record of the driving while suspended trial. It appears that the trial judge in the DUII case accepted defense counsel’s representation that the only factual issue in the DWS trial was whether defendant was driving. The state does not contend otherwise.
+Res judicata bars relitigation of claims or causes of action which were previously litigated, regardless of whether particular facts or questions were actually litigated. Collateral estoppel bars relitigation of particular facts or questions which were actually or necessarily determined in prior litigation, regardless of whether the second claim or cause of action is the same as the first. State v. George, supra. Both doctrines, of course, share common purposes and may, at times, overlap.
+“The doctrine of collateral estoppel by judgment (or verdict) is in some respects broader and in other respects narrower than the defense of double jeopardy. While both require identity of parties the plea of collateral estoppel by judgment (or verdict), as applied in criminal cases, and the defense of double jeopardy differ in the following respects: (1) the defense of double jeopardy is available even in the absence of a judgment, but the effect of collateral estoppel ordinarily attaches only to a judgment; (2) the defense of double jeopardy requries identity of offenses, but the doctrine of collateral estoppel does not, (3) the defense of double jeopardy, if successful, operates as a complete bar to another prosecution, while the defense of collateral estoppel does not necessarily so operate and may merely preclude the relitigation of certain issues * * Annot., 9 ALR3d at 221-22.
+Also, collateral estoppel has been a creature of common law, while double jeopardy has been a creature of state or federal constitutions. This latter distinction, however, has been made less clear by the Supreme Court’s decision in Ashe v. Swenson, 397 US 436, 90 S Ct 1189, 25 L Ed 2d 469 (1970), which found that collateral estoppel also exists as an ingredient of the federal constitution’s protection against double jeopardy. Nevertheless, in this opinion, we rely on collateral estoppel, not as a matter of federal constitutional law, but as a matter of Oregon statute and decisional law. See State v. Bradley, supra.
+We find no merit in the state’s alternative contention that collateral estoppel (ORS 43.130; 43.160) is somehow supplanted in criminal cases by the former jeopardy statutes, ORS 131.505-.535, and that by foregoing reliance on former jeopardy, defendant has no collateral estoppel on which to rely. See n 4, supra.
