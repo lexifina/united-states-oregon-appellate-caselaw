@@ -1,0 +1,34 @@
+---
+court: "Oregon Court of Appeals"
+docket: "83-0348; CA A39015"
+decided: "1987-06-24"
+citations: ["86 Or. App. 51", "738 P.2d 218"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Buttler, Presiding Judge, and Warren and Rossman, Judges.", "BUTTLER, P. J."]
+parties: ["In the Matter of the Marriage of HALL, nka Byrd, Appellant, and HALL, Respondent."]
+source_url: "https://static.case.law/or-app/86/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4396211
+cites_cases: ["303 Or 40", "699 P2d 678", "73 Or App 530", "733 P2d 119", "83 Or App 697"]
+---
+
+# In re the Marriage of Hall
+
+## Majority (BUTTLER, P. J.)
+
+BUTTLER, P. J.
+Wife petitions for reconsideration of our decision affirming without opinion the judgment of the trial court terminating husband’s spousal support obligation. Hall and Hall, 83 Or App 697, 733 P2d 119 (1987). We grant the petition in order to reconsider our decision in the light of the Supreme Court’s decision in Bates and Bates, 303 Or 40, 733 P2d 1363 (1987), issued after our initial decision in this case. We adhere to our original decision.
+Husband and wife had been married for 26 years until their divorce in 1984. At that time, husband’s gross monthly income was $3,331 and wife’s was $650. The trial court ordered husband to pay $500 permanent monthly spousal support. Shortly after the divorce, both parties remarried. Wife and her new husband have a gross monthly income, excluding any spousal support payments, of approximately $2,494. Husband and his new wife have a gross monthly income of $5,340.
+After wife remarried, husband moved to terminate spousal support. The trial judge, relying on our opinion in Bates and Bates, 73 Or App 530, 699 P2d 678 (1985), terminated spousal support while noting that it expected our opinion in Bates to be reversed. Although our judgment in Bates was affirmed, the Supreme Court adopted a different rationale in examining spousal support awards after the recipient has remarried.
+The original support award presumably reflects the most equitable distribution of income between the parties. Bates and Bates, supra, 303 Or at 47. The trial court has the authority to modify the original award when there has been a change in circumstances represented by “a substantial change in the cost of reasonable and necessary expenses to either party.” ORS 107.135(2) (a). The court in Bates recognized that remarriage may cause such a change:
+“We agree that remarriage of the supported spouse may represent a change in circumstances; as we have pointed out, however, it will not automatically terminate a spousal support award. This is so because remarriage of a supported spouse will not always supplant the purposes behind the initial award. Support should be terminated when the purposes of the initial award have been met.” 303 Or at 46.
+The term “purposes behind the initial award” refers to the various factors set out in ORS 107.105(1)(d) for the trial court’s consideration when determining whether spousal support should be awarded and, if so, the proper amount of that award. As in Bates, and like many other cases about spousal support awards, this case presents a situation in which it is impossible to ascertain on which of the statutory factors the award, or any part of it, is based. “Lacking such information, our task is to maintain the relative positions of the parties as established in the initial decree in light of their changed circumstances.” Bates and Bates, supra, 303 Or at 46.
+Although Bates does not contain a specific formula for courts to apply when examining spousal support awards after remarriage, it does set out the relevant factors that we must consider. The first factor is the “potential shared income” of the parties. 303 Or at 47. In Bates, the wife’s monthly income rose from $1,516 ($916 potential earnings plus $600 spousal support) to $2,833, excluding any spousal support ($916 earnings plus the new husband’s income of $1,917). The husband had also remarried, but his new wife was physically unable to work; his monthly income would have risen from $3,980 to $4,580 if the spousal support were eliminated.
+The second factor that the court considered was the number of persons in the households of the respective parties. At the time of the original judgment in Bates, the wife had custody of the parties’ son and daughter. The husband was then living alone. On the wife’s remarriage, the son went to live with the husband, who had also remarried. As a result, the wife’s household still contained three persons, while the husband’s household had increased from one to three. Because the wife had a much greater income to support the same number of persons, even without spousal support, and the husband had to support two more persons with the same income, the court terminated spousal support.
+In this case, each of the parties has remarried, increasing the size of their respective households from one to two. Wife’s potential shared income has increased from $1,150 ($650 earnings at the time of the judgment plus $500 spousal support) to $2,494.50 ($600 in current earnings, $112.50 in interest income and her new husband’s income of $1,782). The fact that husband’s income has increased from $2,831 ($3,331 in earnings minus $500 spousal support) to $5,343 (husband’s earnings of $3,331 plus his new wife’s salary of $2,012) does not justify the continuation of spousal support.
+If we assume that wife now has available to her one-half of her and her new husband’s joint income, or $1,247.25 (excluding spousal support), she is now in a better financial position than she was at the time of the judgment when she had an income of $1,150 (including spousal support). Because wife’s available income is greater than that provided by the original judgment, which is presumably the most equitable distribution of income between the parties, there has been a sufficient change in her circumstances to justify the termination of spousal support. The trial court did not err in doing so.
+Petition for reconsideration allowed; former decision adhered to.
+The factors contained in ORS 107.105(1)(d) include the length of the marriage, the age and health of the parties, the earning capacity of the parties, the educational and training needs of the parties and the standard of living enjoyed during the marriage, as well as other relevant considerations.
+Wife argues that her current joint income is $1,770. That figure represents her net income, however, and it cannot be compared to her former gross income of $1,150. In these types of cases, the gross monthly income is the appropriate standard of comparison, because spousal support is taxable to the recipient and deductible from the gross income of the payor.
