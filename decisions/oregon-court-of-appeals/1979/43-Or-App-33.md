@@ -1,0 +1,36 @@
+---
+court: "Oregon Court of Appeals"
+docket: "77-5866, CA 13708"
+decided: "1979-11-05"
+citations: ["43 Or. App. 33", "602 P.2d 289"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Joseph, Presiding Judge, and Lee and Richardson, Judges.", "RICHARDSON, J."]
+parties: ["CADBURY, et al, Appellants, v. BRADSHAW, et al, Respondents, v. HAASE, et al, Third Party Defendants, KOVTYNOVICH, et al, Third Party Defendants - Appellants, ROSS, et al, Third Party Defendants - Respondents."]
+source_url: "https://static.case.law/or-app/43/cases/0033-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8683524
+cites_cases: ["218 Va 659", "223 Or 130", "239 SE2d 106", "288 Or 519"]
+---
+
+# Cadbury v. Bradshaw
+
+## Majority (RICHARDSON, J.)
+
+RICHARDSON, J.
+Plaintiffs are property owners in an area known as Sky Line Park Estates in Eugene. Defendant Bradshaw is the owner of a parcel in the area and is in the process of selling her property to the defendant Clark. The latter intends to partition the parcel into three parts for the purpose of selling them "as individual residential homesites.” Plaintiffs contend that certain restrictive covenants established by the common grantor of Sky Line Park Estates prohibit further subdivision of the parcels originally mapped and conveyed by the grantor and prohibit construction on resubdivided parcels. Defendants argue that, in the context of the restrictions as a whole, the covenants on which plaintiffs rely do not relate to resubdivision or to the permissibility of construction on resubdivided parcels, but are intended solely to limit the kind of residential units which can be constructed in the area. The trial court agreed with defendants and allowed their motions for summary judgment. We reverse and remand.
+Paragraphs 1 and 2 of the restrictions state:
+"1. All parcels in the tract shall be known, used and described as residential parcels.
+"2. No structure shall be erected, altered, placed or permitted to remain on any parcel other than one detached single-family dwelling or one semi-detached single-family dwelling, not to exceed two stories in height, and a private garage for not more than three cars, and other outbuildings incidental to residential use of the parcel, including servants quarters.”
+Nothing in the restrictions expressly permits or prohibits further subdivision of the parcels.
+The crux of defendants’ argument is that the quoted covenants Eire Eimbiguous and, for a variety of reasons, should not be interpreted as prohibiting resubdivision or building on resubdivided parcels. We do not agree that the covenants are Eimbiguous. Paragraph 2 states that only one dwelling unit can be located on Einy "parcel.” The word "parcel” appears frequently in the restrictions and is used in several places to refer specifically to the numbered units of property shown on the recorded map. For example, paragraph 3 of the restrictions deals with setback lines and other distEmce requirements, and creates various exceptions for Parcels 41, 69, and 10, as shown on the map. PEiragraph 5 relates to building sizes and specifications, but creates exceptions for nine specified parcels. Paragraph 10 limits animals in the Eirea to household pets Eind certain others, but permits horses to be kept, on ten particularized parcels.
+It is cleEir from the foregoing that the word "parcel,” as used in the restrictions, refers to the units of property which are shown on the map and which were originally conveyed by the common grantor. In addition, the surveyor’s affidavit, which appeEirs on the face of the map, confirms that meaning of "parcel.” The affidavit, after referring to a galvEmized iron pipe which was used as the initial point of the survey, states:
+"* * * said galvanized iron pipe being the Southeast comer of parcel #71 as indicated on said map.” (Emphasis added.)
+The meEining of the word "parcel” being cleEir, the meaning of paragraph 2 of the restrictions is also cleEir. The pEiragraph permits only one dwelling unit to be built or maintained on any "parcel,” i.e., on any of the original units of land shown on the map. We therefore reject defendants’ contention that construction is permissible on resubdivided parcels, even assuming that resubdivision would in itself be permissible.
+Defendants are also mistaken in contending that resubdivision is permissible. Paragraph 1 requires all of the parcels to be "used * * * as residential parcels,” and paragraph 2 prohibits the building of more than one dwelling on a parcel. It would be inconsistent with these provisions for fractional parcels to be created where no residential use can occur. We conclude that the restrictions prohibit resubdivision by necessary implication. See Friedberg v. Building Committee, 218 Va 659, 239 SE2d 106 (1977).
+Defendants argue that Schmitt et ux v. Culhane et al., 223 Or 130, 354 P2d 75 (1960), is analogous to the present case. In Culhane, the Supreme Court rejected the contention that a restriction against " 'more than one dwelling * * * on a single tract of land conveyed’ ” (Emphasis added.) prohibited construction of dwellings on parts of lots. However, the worcl "tract” wa^ ambiguous in context, and nothing in Culhane affirmatively suggested that the word "tract” as used in the restrictions was intended to be synonymous with the original lots shown on the subdivision plat. Here, conversely, both the restrictions and the map clearly show that the word "parcel,” used in the relevant covenants, refers to the units of land originally mapped and conveyed.
+Defendants also argue that certain language is used in the restrictions which manifests the grantor’s intention or expectation that resubdivision would occur. The language defendants cite is itself ambiguous in context, and consists of peripheral phrases which play no role in the substantive definition of any of the restrictions. The meaning of the specific covenants before us for interpretation is clear, and the language to which defendants refer from other parts of the restrictions is not inconsistent with that meaning.
+Reversed and remanded.
+The restrictions were contained in the grantor’s 1946 deed to the first purchaser of property in the area, and have been incorporated by reference in subsequent instruments of conveyance. The deed was recorded, together with a map of the area showing the original parcels. Plaintiffs point out that the area, which the grantor referred to and the parties generally refer to and treat as a "subdivision,” was never "platted by official subdivision plat” and was "a planned but unplatted subdivision.” The parties do not raise the issue of what bearing, if any, the grantor’s apparent failure to record the subdivision plat has on the enforceability or meaning of the restrictions. See ORS 92.025, former ORS 92.020, OCLA § 95-1301.
+The procedural history of this litigation is complex and is unnecessary to describe here. The trial court’s disposition, favorable to defendants and various other parties, arose from motions for summary judgment in defendants’ third party declaratory judgment suit.
