@@ -1,0 +1,40 @@
+---
+court: "Oregon Court of Appeals"
+decided: "1971-09-21"
+citations: ["6 Or. App. 552", "488 P.2d 819"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Schwab, Chief Judge, and Foley and Thornton, Judges."]
+parties: ["STATE OF OREGON, Respondent, v. JOHN CRAIG KENNEDY, Appellant."]
+source_url: "https://static.case.law/or-app/6/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2130221
+cites_cases: ["2 Or App 595", "254 Or 549", "3 Or App 634", "483 P2d 825", "5 Or App 283"]
+---
+
+# State v. Kennedy
+
+## Majority (THORNTON, J.)
+
+THORNTON, J.
+Defendant was convicted of the illegal sale of narcotics in violation of ORS 474.020. On appeal he contends that the trial court erred in (1) accepting a jury verdict of guilty that was not unanimous; (2) denying his motion in arrest of judgment wherein he asserted that the indictment did not state a crime with sufficient particularity to enable defendant to prepare his defense; (3) denying his motion for a mistrial based on testimony by a witness for the state that everyone on the premises on June 5, 1970, was arrested; and (4) denying Ms motion for a new trial on the ground that he had been effectively deprived of his right to testify because he was threatened by impeachment with a false conviction.
+Officers Harp and Britton, accompanied by an uMdentified female, went to a Eugene residence at approximately 9:30 p.m., on May 20,1970. While there Officer Harp purchased a bag of marihuana for $10 from defendant. Defendant was arrested at the same residence on June 5, 1970.
+(1) Defendant asserts that the trial court was in error when it accepted a jury verdict of guilty that was not unanimous. This assignment has been decided contrary to defendant’s contention in State v. Gann, 254 Or 549, 463 P2d 570 (1969).
+(2) Defendant contends that the trial court erred in overruling his motion in arrest of judgment wherein he stated that the indictment did not state a crime with sufficient particularity to enable defendant to prepare his defense. Defendant did not demur to the indictment. An objection that the indictment is indefinite and uncertain, ORS 135.630(2), must be taken by demurrer at arraignment or it is waived. State v. Hunt, 3 Or App 634, 637, 475 P2d 596, Sup Ct review denied (1970). A motion in arrest of judgment, ORS 136.810, may be made only on the grounds that the indictment does not comply wth ORS 135.630(1) or (4). It cannot be made on the ground claimed in defendant’s motion in arrest. Defendant’s objection was waived as it was not made at the proper time or in the proper manner.
+(3) Defendant further contends that the trial court erred when it denied his motion for a mistrial, based on the testimony of a witness for the state, Officer Laws. The officer testified that he arrested defendant on June 5, 1970, and also arrested all those persons at the house with him at the time. Defendant’s counsel then stated that he had a matter for the court. After the jury was excused, he moved for mistrial. The court then stated that the testimony as to all the persons at the house being arrested was on “dangerous ground” and offered to strike it from the record. The defendant refused this offer and reasserted his motion for a mistrial.
+A motion for mistrial is addressed to the sound discretion of the trial court and the riding thereon will not be reviewed except for abuse. State v. Tucker, 5 Or App 283, 483 P2d 825, Sup Ct review denied (1971). We do not view the answer as prejudicial considering the record as a whole. In any event, where, as here, the defendant declines to accept the trial judge’s offer to cure asserted prejudice allegedly resulting from the inadvertent admission of irrelevant testimony, it was not an abuse of discretion for the court to refuse to grant a mistrial.
+(4) Defendant’s final assignment of error is that the trial court erred in denying defendant’s motion for a new trial based upon the ground that defendant had been effectively deprived of his right to testify in his own behalf because he was under the threat of having a false conviction used for impeachment purposes.
+On Friday, October 16, 1970, the state informed the defendant that it had in its possession a judgment of conviction against him in California. On Monday, October 19,1970, during the presentation of the state’s case, defendant moved for the production of that evidence. The certified copy of judgment contained a name and birth date identical to that of defendant, but defendant claimed that further verification, such as a photograph or fingerprints, would establish that it was not the defendant, as he had not been in California since he was six years old. He further claimed that the state could obtain this evidence, which he could not, and the evidence was necessary to refute the state’s impeachment. The state had sent for this information, but it did not arrive until after the conclusion of the trial. The trial court ruled that the proper time to bring this up was when the defendant took the stand, as it would not be necessary unless defendant chose to take the stand. Defendant did not take the stand. The issue was not raised again until the motion for a new trial.
+Defendant’s contention is without merit. It assumes that defendant would have been irremediably injured had he taken the stand. We cannot consider a hypothetical error that might have occurred if defendant had taken the stand, interposed a timely objection to the possible impeachment by the state, and moved that the photograph or fingerprint evidence be produced. The actual situation is analogous to that in State v. Andrews, 2 Or App 595, 469 P2d 802, Sup Ct review denied (1970), where the defendant did not request an instruction on lesser included offenses, nor take exception to the failure to so instruct, but did move for a new trial because the instruction was not given. The court said:
+“In the instant case no request for an instruction on a lesser included offense was made prior to charging the jury, and, therefore, we will not consider the alleged error. This is for the salutary procedural reason mentioned by Mr. Justice Lusk in Nodine and Abel. It also is because the defendant in any such case, may, as a trial tactic, forego requesting an instruction on a lesser included offense. He thus may gamble on the possibility that the jury will acquit him of the major offense, although it might, if given the opportunity, find him guilty of a lesser included one. If he loses his gamble and is found guilty of the major offense, and were we to adhere to our former decision in Olson, the defendant could get another trial with attendant delay, possible loss of evidence, and injustice to the prosecution.” 2 Or App at 601.
+Affirmed.
+ORS 135.630 provides:
+“The defendant may demur to the indictment when it appears upon the face thereof that:
+“(1) The grand jury by which it was found had no legal authority to inquire into the crime charged because the same is not triable within the county;
+“(■2) It does not substantially conform to the requirements of ORS 132.510 to 132.570; 132.590, 132.610 to 132.690, 132.710 and 132.720;
+“(3) More than one crime is charged in the indictment;
+“(4) The facts stated do not constitute a crime; or
+“(5) The indictment contains any matter which, if true, would constitute a legal justification or excuse of the crime charged or other legal bar to the action.”
+ORS 136.810 provides:
+“A motion in arrest of judgment is an application on the part of the defendant that no judgment be rendered on a plea or verdict of guilty or on a verdict against the defendant on the plea of a former conviction or acquittal. It may be founded on either or both of the causes specified in subsections (1) and (4) of ORS 135.630, and not otherwise. The motion must be made within the time allowed to file a motion for a new trial, and both such motions may be made together and heard and decided at once or separately, as the court directs.”
