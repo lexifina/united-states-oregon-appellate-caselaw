@@ -1,0 +1,31 @@
+---
+court: "Oregon Court of Appeals"
+docket: "22-660; CA A38255"
+decided: "1987-10-21"
+citations: ["88 Or. App. 6", "743 P.2d 1151"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Richardson, Presiding Judge, and Newman and Deits, Judges.", "RICHARDSON, P. J."]
+parties: ["PASTEGA, Respondent - Cross-Appellant, v. ZWALD, Appellant - Cross-Respondent."]
+source_url: "https://static.case.law/or-app/88/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4400290
+cites_cases: ["103 Or 222", "119 P 485", "119 P2d 624", "190 Or 530", "268 Or 9", "278 Or 367", "280 Or 751", "290 Or 885", "45 Or App 597", "61 Or 17", "744 F2d 686"]
+---
+
+# Pastega v. Zwald
+
+## Majority (RICHARDSON, P. J.)
+
+RICHARDSON, P. J.
+Defendant appeals the trial court’s denial of attorney fees for her successful defense in an action for specific performance of an earnest money agreement. Plaintiff cross-appeals on the merits. We reverse on the attorney fees issue but affirm on the merits.
+Defendant agreed to sell real property to plaintiff for $57,000 by an earnest money agreement executed on March 26,1979. The contract contained a time of the essence clause and allowed plaintiff 60 days to obtain a building permit and either a septic tank or sewer permit. Provision was also made for “the prevailing party’s reasonable attorney fees” in any action brought on the contract at trial or on appeal. Over the following five-month period, plaintiff requested various modifications in the purchasing arrangement, proposing first to buy the property as a sole purchaser, then with his father, then as a sole purchaser again, then with a business partner and, finally, once more as a sole purchaser. Defendant began to doubt both plaintiffs ability and intention to make the purchase and eventually determined that she would not sell him the property. Defendant’s attorney wrote a letter to the realtor handling the matter on August 28, 1979, stating defendant’s intention to withdraw from the sale. The realtor, however, never informed plaintiff of defendant’s action. Instead, the realtor wrote to plaintiff, listed a number of matters which he felt were of concern to defendant and stated that he would approach defendant after those matters were taken care of and “try to get the deal consumated.”
+Between September, 1979, and April, 1982, plaintiff made no attempt to contact defendant regarding the land sale. The trial court noted that plaintiffs conduct supported the inference that he had sought to preserve his option to purchase the property over an extended period while casting a speculative eye toward events on neighboring properties:
+“Although defendant’s realtor failed to give plaintiff notice of her decision not to complete the transaction, the Court cannot ignore the fact that plaintiff did nothing to close the transaction although he apparently had made a good purchase. He never submitted closing instruction. He never gave notice that he had satisfied himself regarding the septic or sewer permits or the building permit. He contacted the escrow company only when they contacted him and he became aware that his earnest money had been returned to the realtor only when the escrow brought it to his attention. From June 25, 1980 until November, 1982 when plaintiff made a new deposit of escrow funds, there were no escrow monies. By November, defendant had again listed the property for sale and it appears that this action is what finally got plaintiffs attention.”
+By November, 1982, the property had been annexed by the city of Tillamook and a local improvement district for installation of sewer lines had been formed. An appraisal requested by defendant in September, 1982, indicated that its value had increased to approximately $268,000.
+In plaintiffs cross-appeal, he argues that his numerous modifications and delays in the purchase arrangements did not amount to a breach of the earnest money agreement and that the realtor’s failure to communicate defendant’s withdrawal from the contract to plaintiff made her withdrawal ineffective.
+Those arguments do not merit lengthy discussion. We find, as did the trial court, that defendant’s acquiescence in plaintiffs attempts to find a co-purchaser past the 60-day limit for securing a building permit and a sewer or septic tank permit did not amount to a waiver of defendant’s right, independent of the time of the essence clause, to have the agreement performed in a reasonable period of time. Plaintiff was in breach of the agreement and cannot now compel defendant’s performance. Aspinwall, Executrix, v. Ryan et al., 190 Or 530, 226 P2d 814 (1951); Leadbetter v. Price, 103 Or 222, 202 P 104 (1921); Mossie v. Cyrus, 61 Or 17, 119 P 485, 119 P2d 624 (1912).
+Regarding defendant’s claim for attorney fees, the trial court held that, because she in effect disaffirmed the contract, she cannot take advantage of the attorney fee provision. Citing the Supreme Court’s holdings in Bodenhamer v. Patterson, 278 Or 367, 563 P2d 1212 (1977), and Pickinpaugh v. Morton, 268 Or 9, 519 P2d 91 (1974), plaintiff argues that the trial court was correct. We disagree. See Usinger v. Campbell, 280 Or 751, 572 P2d 1018 (1977); Anaheim Co. v. Elliott, 45 Or App 597, 609 P2d 382 (1980). Both Bodenhamer and Pickenpaugh involved rescission actions brought to invalidate entire contracts. That is not the case here. Defendant is excused from transfering the property, because plaintiff breached his implicit obligation to pay within a reasonable period. In effect, defendant’s duty to perform under the agreement never ripened, due to plaintiffs failure to perform a condition precedent in a timely manner. It was simply an action on the contract in which defendant prevailed.
+Reversed on appeal; affirmed on cross-appeal.
+It is unclear whether the Supreme Court in Jewell v. Triple B. Enterprises, 290 Or 885, 626 P2d 1383 (1981), intended that its interpretation of ORS 20.096(1) apply in rescission cases. If it did, then Bodenhamer and Pickinpaugh have effectively been overruled. See In Re Coast Trading Co., Inc., 744 F2d 686 (9th Cir 1984). Because there was no rescission of the contract in the present case, we need not discuss that issue.
