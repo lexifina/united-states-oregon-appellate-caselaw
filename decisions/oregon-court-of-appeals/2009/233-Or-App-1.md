@@ -1,0 +1,64 @@
+---
+court: "Oregon Court of Appeals"
+docket: "071771AFE; A136384"
+decided: "2009-12-30"
+citations: ["233 Or. App. 1", "225 P.3d 45"]
+reporter: "or-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Landau, Presiding Judge, and Schuman, Judge, and Ortega, Judge.", "LANDAU, P. J."]
+parties: ["STATE OF OREGON, Plaintiff-Respondent, v. CHRISTOPHER ALLEN ROCHA, Defendant-Appellant."]
+source_url: "https://static.case.law/or-app/233/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4202050
+cites_cases: ["221 Or App 455", "223 Or App 675", "317 Or 606", "320 Or 47", "346 Or 160", "347 Or 290", "348 Or 461", "514 US 1005", "880 P2d 431"]
+---
+
+# State v. Rocha
+
+## Majority (LANDAU, P. J.)
+
+LANDAU, P. J.
+Defendant appeals a judgment of conviction for theft in the first degree. ORS 164.055. He assigns error to the trial court’s denial of his motion for a judgment of acquittal, arguing that the state’s evidence was insufficient to support his conviction. We affirm.
+The relevant facts are not in dispute. Defendant and a friend, Swain, entered a Kohl’s department store. Defendant took a $400 kitchen stand mixer from the shelf and brought it to the customer service counter, where Swain was waiting for defendant. They told the customer service employee that they had received the mixer as a gift and did not have a receipt for it. They stated that they were unhappy with the mixer and wanted a refund. In processing the refund, the employee agreed to mail a $400 store gift card to the address printed on Swain’s identification. The employee was suspicious about the transaction, however, and the store requested that the police conduct an investigation.
+The detective investigating the incident contacted Swain using the address that she had provided to the store, and she was cooperative. She admitted that, when she and defendant entered the store, they had already planned the fraudulent exchange and that they intended to share the proceeds of the gift card. She identified defendant from a photograph line-up. When the gift card arrived in the mail, she gave it to the detective.
+Defendant was then charged with theft in the first degree under ORS 164.055. The state alleged that defendant had committed the offense by engaging in theft by receiving, which is one of the ways in which a person may commit first-degree theft under ORS 164.055. Specifically, the state alleged that defendant had “committed] theft of property, the property of Kohls Department Store, by selling said property, defendant ] knowing the said property was the subject of theft.”
+At a trial to a jury, the state argued that, when defendant exchanged the mixer for a $400 gift card, he sold property that he had just stolen. At the close of the state’s evidence, defendant moved for a judgment of acquittal, contending that the evidence was insufficient to prove that defendant sold stolen property. At best, he asserted, the evidence established that he stole the gift card by using deception. Given that the value of the gift card did not exceed $750, his argument continued, his conduct constituted second-degree, not first-degree, theft. The trial court denied defendant’s motion, and defendant was convicted of first-degree theft as charged.
+On appeal, defendant argues that the trial court erred in denying his motion for a judgment of acquittal. He insists that taking the mixer off a store shelf, representing to the store employee that he and Swain owned the item, and convincing the employee to issue a gift card for returning the item is not selling stolen property. That is so, he argues, because the mixer was not stolen at the time he “sold” it in the fraudulent exchange. (Defendant does not dispute that exchanging the mixer for the gift card constituted “selling” the mixer.) First of all, he contends, because he did not “intendf ] to permanently deprive or appropriate the mixer from the store,” he did not possess the requisite intent to commit theft.
+In any event, defendant asserts, he did not steal the mixer until he convinced the store to issue the gift card, which, in his view, cannot constitute selling property that was previously stolen. Defendant argues that, under Oregon’s theft statutes, it is impermissible for the state “to prove two acts of theft — stealing property and then the disposing of that stolen property — from a single transaction.” “Here,” defendant argues, “[he] convinced the store to send him a $400 gift card by temporarily using the mixer in his deceptive act. That singular act of theft could not be considered first degree theft alleged as theft by receiving.” In defendant’s view, his conduct is merely a creative form of shoplifting, which, given that the value of the taken item was less than $750, constitutes second-degree, and not first-degree, theft.
+The state responds that the trial court did not err in denying defendant’s motion for a judgment of acquittal. Regarding defendant’s argument that he never intended to steal the mixer, the state asserts that intending to acquire the economic value of the item is no different than intending to acquire the item itself. The state also takes issue with defendant’s argument that he did not steal the mixer until the fraudulent exchange. According to the state, defendant stole the mixer when he took it off the shelf because, at the moment that he did so, he had the requisite intent — that is, an intent to assert ownership of the mixer so as to convince the store to issue a gift card in the amount of the mixer’s value. Therefore, the state concludes, its evidence was sufficient to prove that the fraudulent exchange constituted selling stolen property.
+We review the denial of a motion for a judgment of acquittal, taking the evidence in the light most favorable to the state and making any reasonable inferences, to determine whether a rational trier of fact could have found the elements of the crime beyond a reasonable doubt. State v. Cunningham, 320 Or 47, 63, 880 P2d 431 (1994), cert den, 514 US 1005 (1995). The parties in this case dispute whether the mixer was already stolen by the time defendant “sold” it within the meaning of Oregon’s theft statutes.
+Resolving that dispute requires us to construe the relevant statutes to ascertain the intentions of the legislature that enacted them. PGE v. Bureau of Labor and Industries, 317 Or 606, 610-12, 859 P2d 1143 (1993). In doing so, we examine the text of the statutes in context, along with any relevant legislative history, and, if necessary, we apply relevant canons of statutory construction. State v. Gaines, 346 Or 160, 171-73, 206 P3d 1042 (2009). We give statutory terms that are not defined in the statute their plain and ordinary meanings. PGE, 317 Or at 611. Prior construction of a statute by this court is always relevant to our textual analysis. State v. Bryan, 221 Or App 455, 459, 190 P3d 470 (2008), rev den, 347 Or 290 (2009).
+With those principles in mind, we turn to the text of the relevant theft statutes. ORS 164.015 provides:
+“A person commits theft when, with intent to deprive another of property or to appropriate property to the person or to a third person, the person:
+“(1) Takes, appropriates, obtains or withholds such property from an owner thereof;
+“(2) Commits theft of property lost, mislaid or delivered by mistake as provided in ORS 164.065;
+“(3) Commits theft by extortion as provided in ORS 164.075;
+“(4) Commits theft by deception as provided in ORS 164.085; or
+“(5) Commits theft by receiving as provided in ORS 164.095 ”
+(Emphasis added.) In turn, ORS 164.095 provides:
+“(1) A person commits theft by receiving if the person receives, retains, conceals or disposes of property of another knowing or having good reason to know that the property was the subject of theft.
+“(2) ‘Receiving’ means acquiring possession, control or title, or lending on the security of the property.”
+ORS 164.055(1) specifies the types of theft that are considered first-degree theft and provides:
+“A person commits the crime of theft in the first degree if, by other than extortion, the person commits theft as defined in ORS 164.015 and\
+“(a) The total value of the property in a single or aggregate transaction is $200 or more in a case of theft by receiving, and $750 or more in any other case;
+“(b) The theft is committed during a riot, fire, explosion, catastrophe or other emergency in an area affected by the riot, fire, explosion, catastrophe or other emergency;
+“(c) The theft is theft by receiving committed by buying, selling, borrowing or lending on the security of the property;
+“(d) The subject of the theft is a firearm or explosive;
+“(e) The subject of the theft is a livestock animal, a companion animal or a wild animal removed from habitat or born of a wild animal removed from habitat, pursuant to ORS 497.308(2)(c); or
+“(f) The subject of the theft is a precursor substance.”
+(Emphasis added.)
+As we have noted, in this case, the state based its charge of theft in the first degree on ORS 164.055(l)(c) — that is, that defendant “committed] theft of property * * * by selling said property, defendant ] knowing the said property was the subject of theft.” As we have also noted, defendant does not dispute that the fraudulent exchange constituted “selling” the mixer. Instead, defendant argues that he did not steal the mixer until the exchange; he argues that merely taking the mixer off the shelf is not theft.
+Our decision in State v. Spears, 223 Or App 675, 196 P3d 1037 (2008), which we decided after defendant submitted his brief in this case, defeats that argument. In that case, we held that, “for purposes of the crime of theft [as defined in ORS 164.015(1)], a person who acts with the requisite intent ‘takes’ the property of another when he or she moves that property, however slightly.” Id. at 677. Given that prior construction, we readily conclude that defendant committed theft of the mixer when he removed it from the shelf. That is not to say that a shopper who removes an item from a store shelf for closer inspection or who carries it around in the store as the shopper decides whether or not to purchase it has committed theft. Instead, defendant’s movement of the mixer in this case constitutes theft because it coincided with a thieving intent.
+Defendant asserts that he did not, in fact, have such an intent because he never intended to leave the store with the mixer; instead, he intended to leave the store with a gift card in the value of the mixer. However, it is undisputed that, when defendant took the mixer from the shelf, he planned to assert ownership of it to the store in order to obtain a gift card in the value of the mixer. Defendant’s intent to deprive the store of the value of the mixer, even if he did not intend to deprive the store of the mixer itself, suffices to establish the requisite intent for theft. See ORS 164.015 (requiring “intent to deprive another of property or to appropriate property” (emphasis added)); see also ORS 164.005(l)(a) (defining “appropriate” as, in part, to “[e]xercise control over property * * * under such circumstances as to acquire the major portion of the economic value or benefit of such property”). Therefore, when he “sold” the mixer in the fraudulent exchange, he sold stolen property.
+Accordingly, the trial court did not err in denying defendant’s motion for a judgment of acquittal.
+Affirmed.
+Defendant and Swain were charged jointly with the crime, although the record does not indicate whether Swain was also convicted.
+In other words, theft by receiving is theft. The legislature, in enacting ORS 164.015 as part of the revision of the criminal code, intended to consolidate what were formerly separate offenses into one offense — that is, theft — and to broaden the scope of existing law to cover other forms of theft:
+“The primary purpose of this section is to eliminate the traditionally distinct crimes of larceny, larceny by trick, embezzlement, obtaining property by false pretenses, receiving stolen property and extortion and to consolidate them into one crime called ‘theft.’ Consolidation is accomplished by the language of subsection (1), aided by the definitions contained in the previous section.
+“The secondary purpose of broadening the scope of existing law is effected by subsections (2) through (5).
+“Subsection (2) designates as a form of theft the acquisition of property lost, mislaid or delivered by mistake.
+“Subsection (3) provides that theft may be committed by ‘extortion.’
+“Subsection (4) designates ‘deception’ as theft.
+“Subsection (5) continues the expanded concept of the crime to include theft by ‘receiving.’ ”
+Commentary to Criminal Law Revision Commission Proposed Oregon Criminal Code, Pinal Draft and Report § 123,132 (July 1970).
